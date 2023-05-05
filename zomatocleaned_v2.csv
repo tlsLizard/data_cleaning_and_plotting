@@ -1,0 +1,921 @@
+id,name,online_order,book_table,rating,votes,location,rest_type,dish_liked,cuisines,approx_cost,type
+3,Addhuri Udupi Bhojana,No,No,3.7,88,Banashankari,Quick Bites,Masala Dosa,"South Indian, North Indian",300.0,Buffet
+19,T3H Cafe,No,No,3.9,93,Banashankari,Cafe,"Cheese Maggi, Peri Peri Fries, Pasta Arrabiata","Cafe, Italian, American",300.0,Cafes
+54,Tasty Bytes,Yes,No,3.1,245,Kumaraswamy Layout,Quick Bites,"Paratha, Pasta","North Indian, Chinese, Momos, Rolls",300.0,Delivery
+78,The Biryani Cafe,No,No,4.1,520,Banashankari,Quick Bites,"Vegetable Biryani, Ginger Chicken, Chicken Biryani, Donne Biryani, Chicken Kebab, Egg Bhurji, Dum Biryani","Biryani, Chinese, Kebab",300.0,Delivery
+82,Rolls On Wheels,No,No,3.6,299,Banashankari,Quick Bites,"Rolls, Momos, Fries, Veggie Roll, Chicken Kebab Roll, Paneer Roll, Cheese Roll","Fast Food, Rolls, Momos",300.0,Delivery
+87,Upahar Sagar,No,No,3.8,39,Banashankari,Quick Bites,Masala Dosa,"South Indian, Chinese, North Indian",350.0,Delivery
+106,Chatar Patar,No,No,3.7,65,Banashankari,Quick Bites,"Panipuri, Chaat, Noodles, Dahi Bhalle","Fast Food, Street Food",300.0,Delivery
+108,Kidambi's Kitchen,No,No,3.5,52,Banashankari,Quick Bites,Rooftop Ambience,South Indian,300.0,Delivery
+109,Mane Thindi,No,No,3.7,130,Banashankari,Quick Bites,"Coffee, Tea, Kesari Bath, Open Dosa, Vada, Idli, Bread Dosa",South Indian,200.0,Delivery
+128,Bengaluru Coffee House,Yes,No,4.1,201,Banashankari,Quick Bites,"Masala Dosa, Tirupathi Pongal, Filter Coffee, Vada, Kharabath, Kali Dosa, Rava Idli","South Indian, North Indian, Chinese, Street Food",300.0,Delivery
+186,Mitraa Da Pizza,Yes,No,3.8,115,Kumaraswamy Layout,Quick Bites,"Pizza, Burgers","Fast Food, Pizza",250.0,Delivery
+189,Shakes Theory,Yes,No,4.5,155,Jayanagar,Beverage Shop,"Sandwiches, Thick Shakes, Paan Shake, Brownie Bomb, Fries, Spinach Corn Sandwich, Paneer Peri Peri","Beverages, Sandwich",300.0,Delivery
+193,Old Mumbai Ice Cream,Yes,No,3.9,38,Banashankari,Dessert Parlor,Friendly Staff,Ice Cream,150.0,Delivery
+198,Just Shawarma,Yes,No,3.9,160,Kumaraswamy Layout,Quick Bites,"Whole Meat Shawarma, Fries",Arabian,300.0,Delivery
+206,Gama Gama,Yes,No,3.9,264,Banashankari,Quick Bites,"Jowar Roti, Buttermilk, Sabudana Vada, Thali, Mirchi Bajji, Brinjal Curry",South Indian,200.0,Delivery
+213,Pizza Mane,Yes,No,3.5,32,Banashankari,Quick Bites,"French Fries, Burgers","Pizza, Sandwich, Burger, Fast Food",150.0,Delivery
+236,Tiwari's,Yes,No,3.8,70,Jayanagar,Quick Bites,"Sweet Lassi, Gulab Jamun, Palak Paneer Paratha, Paneer Parantha","North Indian, Street Food",200.0,Delivery
+263,The Lassi Park,Yes,No,4.1,185,Jayanagar,Quick Bites,"Faluda, Brownie, Sandwich, Kulfi, Fruit Salad, Sweet Lassi, Chocolate Fudge","Juices, Desserts",200.0,Delivery
+266,Srikrishna Bhavan,Yes,No,3.8,42,Banashankari,Quick Bites,"Roti, Masala Dosa","South Indian, North Indian, Chinese",300.0,Delivery
+272,Hatti Kaapi,Yes,No,4.0,89,Jayanagar,Quick Bites,"Filter Coffee, Tea, Hot Coffee, Hatti Samosa","South Indian, Beverages",200.0,Delivery
+275,The Chaat Shop,Yes,No,2.5,35,Basavanagudi,Quick Bites,"Badam Milk, Potato Twister, Pav Bhaji, Panipuri, Tikki Chaat, Cheese Cutlet",Fast Food,200.0,Delivery
+284,Chumma Delicious,Yes,No,3.7,237,Banashankari,Quick Bites,Chicken Biryani,"South Indian, Fast Food",200.0,Delivery
+311,Matru Sagar,Yes,No,3.6,84,Banashankari,Quick Bites,"Coffee, Masala Dosa","South Indian, North Indian, Chinese",250.0,Delivery
+324,Ruchis Point,Yes,No,3.8,75,Banashankari,Quick Bites,"Sandwiches, Noodles, Sandwich","Fast Food, Chinese",200.0,Delivery
+334,Cross Road Cafe,Yes,No,3.9,91,Jayanagar,Cafe,"Momos, Burgers, Rolls, Sandwich, Hot Chocolate, Tea, Naga Thali","Cafe, Fast Food, Chinese",300.0,Delivery
+411,Goli Vada Pav No. 1,Yes,No,3.7,93,Basavanagudi,Quick Bites,"Masala Vada Pav, Cheese Vada Pav, Fries",Street Food,200.0,Delivery
+420,Juicy Momos,Yes,No,3.5,80,Banashankari,Quick Bites,"Rolls, Burgers, Juicy Momos, Chicken Momo, Chocolate Momos, Mushroom Momo, Paneer Momos","Tibetan, Momos",250.0,Delivery
+421,Amande Patisserie,Yes,No,4.0,73,Basavanagudi,Bakery,"Macaroon, Mousse, Caramel Eclair","Bakery, French, Desserts",300.0,Delivery
+423,Chicken Hunt,Yes,No,3.5,88,Banashankari,Quick Bites,Chicken Grill,"South Indian, North Indian, Chinese, Biryani",350.0,Delivery
+425,Cane-O-La,Yes,No,3.8,61,Basavanagudi,Quick Bites,"Sugarcane Juice, Popcorn",Juices,100.0,Delivery
+429,Sreeraj Lassi Bar,Yes,No,4.1,210,Jayanagar,"Dessert Parlor, Beverage Shop","Faluda, Mango Lassi, Sweet Lassi, Fruit Salad, Shrikhand, Matka Kulfi, Pudina Lassi",Beverages,150.0,Delivery
+435,Janahaar,Yes,No,3.8,70,Banashankari,Quick Bites,"Masala Dosa, Idli, Filter Coffee, Medu Dosa",South Indian,100.0,Delivery
+437,Utsav,Yes,No,3.7,59,Banashankari,Quick Bites,"Paratha, Kachori, Tea, Lassi, Samosa, Vada Pav","North Indian, Street Food",200.0,Delivery
+494,Rasoi,Yes,No,3.3,128,Banashankari,Quick Bites,"Lassi, Panneer Butter Masala, Paratha, Thali","North Indian, Chinese",300.0,Delivery
+495,Mr. Singh Da Dhaba,Yes,No,3.6,241,Kumaraswamy Layout,Quick Bites,"Mughlai Paratha, Laccha Paratha, Rolls","North Indian, Chinese",300.0,Delivery
+497,Ayodhya Upachar,Yes,No,4.3,734,Banashankari,Quick Bites,"Panneer Butter Masala, Vada, Curd Rice, Idli, Jeera Rice, Naan, Kulcha","South Indian, North Indian, Chinese, Street Food",200.0,Delivery
+630,Iyer's Tiffin Centre,No,No,3.8,62,Banashankari,Quick Bites,"Kesari Bath, Masala Dosa","South Indian, Chinese",150.0,Dine-out
+655,Taaza Thindi,No,No,4.7,651,Banashankari,Quick Bites,"Masala Dosa, Vada, Upma, Filter Coffee, Kesari Bath, Idli Chutney, Kharabath",South Indian,100.0,Dine-out
+690,Hotel Mangala,No,No,3.9,88,Banashankari,Quick Bites,"Khali Dosa, Kali Dosa, Masala Dosa, Vada Sambar",South Indian,250.0,Dine-out
+702,New Sagar Fast Food,No,No,3.6,71,Banashankari,Quick Bites,"Vegetable Biryani, Masala Dosa, Kulcha, Masala Papad, Tomato Soup","North Indian, South Indian",250.0,Dine-out
+721,SLV Refreshment,No,No,4.1,94,Banashankari,Quick Bites,"Coffee, Masala Dosa, Kharabath, Idli Vada, Kesari Bath",South Indian,100.0,Dine-out
+786,Kavali,No,No,4.0,42,Banashankari,Quick Bites,"Cheese Dosa, Chocolate Dosa, Corn Dosa, Pesarattu, Bread Dosa","South Indian, Street Food",300.0,Dine-out
+796,Bharjari Oota,No,No,3.9,153,Basavanagudi,Casual Dining,"Curd Rice, Coriander Soup, Masala Dosa, Biryani, Thali",South Indian,350.0,Dine-out
+808,Bhavani Restaurant,No,No,3.9,100,Basavanagudi,Quick Bites,"Coffee, Vada, Curd Rice, Ghee Roast Paneer, Thali","South Indian, North Indian, Chinese",300.0,Dine-out
+812,Hotel Dwarka,No,No,4.2,253,Basavanagudi,Quick Bites,"Khali Dosa, Kali Dosa, Upma, Filter Coffee, Kesari Bath, Set Dosa, Masala Dosa",South Indian,250.0,Dine-out
+825,Ice Thunder,No,No,3.8,124,Basavanagudi,Quick Bites,"Masala Poori, Rumali Roti, Sandwiches, Chaat, Burgers","South Indian, Fast Food, North Indian, Desserts",300.0,Dine-out
+846,Vybhava,No,No,3.8,39,Jayanagar,Quick Bites,"Masala Dosa, Idli, Vada Sambar","South Indian, North Indian",250.0,Dine-out
+857,Belly Squad Food Truck,No,No,3.8,55,South Bangalore,Food Truck,"Biryani, Momos, Rolls","Chinese, Rolls, Biryani, Momos",300.0,Dine-out
+913,Black Mug Cafe,Yes,No,3.7,171,Bannerghatta Road,Cafe,Coffee,Cafe,300.0,Cafes
+923,Kalmane Koffees,No,No,3.9,78,Bannerghatta Road,Cafe,"Brownie, Filter Coffee",Cafe,350.0,Cafes
+985,Donne Biriyani House,Yes,No,3.3,212,JP Nagar,Quick Bites,"Biryani, Kshatriya Kebab","Biryani, Andhra",350.0,Delivery
+990,Five Star Chicken,Yes,No,3.9,62,JP Nagar,Quick Bites,Fries,"Burger, Fast Food, Roast Chicken, Finger Food",300.0,Delivery
+1053,Upahara Bhavan,Yes,No,3.8,55,Bannerghatta Road,Quick Bites,"Masala Dosa, Idli, Coffee, Vada, Set Dosa","South Indian, North Indian, Chinese",300.0,Delivery
+1068,Just Shawarma,Yes,No,3.6,137,Bannerghatta Road,Quick Bites,"Fries, Whole Meat Shawarma",Arabian,300.0,Delivery
+1071,Fish Chain,Yes,No,3.9,37,JP Nagar,"Takeaway, Delivery",Fish Curry,"Seafood, BBQ, Biryani",250.0,Delivery
+1106,Amritsari Kulcha Land,Yes,No,4.1,260,JP Nagar,Quick Bites,"Lassi, Amritsari Kulcha, Punjabi Kulcha, Paneer Kulcha, Punjabi Chole, Aloo Kulcha, Paratha",North Indian,300.0,Delivery
+1153,Samosa Singh,Yes,No,4.0,153,JP Nagar,Quick Bites,"Samosa, Chicken Chettinad, Murgh Makhani","Street Food, Fast Food, Rolls, Desserts",200.0,Delivery
+1171,Bikaner Jn,Yes,No,3.9,85,JP Nagar,Quick Bites,"Thali, Dhokla, Samosa, Poha, Club Kachori, Paratha, Tea",Rajasthani,300.0,Delivery
+1224,Momo Jojo,Yes,No,4.3,539,JP Nagar,Quick Bites,"Noodles, Corn Momo, Manchurian, Momo Platter, Veg Momos, Potato Momos, Tandoori Momos","Chinese, Tibetan, Momos",300.0,Delivery
+1228,Rithika's Kitchen,Yes,No,3.8,106,JP Nagar,Delivery,"Mutton Curry, Chicken Fry, Chicken Biryani, Chicken Curry","Biryani, South Indian, Andhra",350.0,Delivery
+1232,Chai Point,Yes,No,3.6,132,Bannerghatta Road,"Beverage Shop, Quick Bites","Ginger Tea, Ginger Chai, Banana Cake, Masala Chai, Egg Sandwich, Vada Pav","Tea, Beverages, Fast Food",250.0,Delivery
+1272,Paratha Plaza,Yes,No,3.8,171,JP Nagar,Quick Bites,"Aloo Paratha, Manchurian",North Indian,250.0,Delivery
+1327,Dakshin Cafe,Yes,No,4.1,140,JP Nagar,Quick Bites,"Vada, Masala Dosa, Filter Coffee, Kesari Bath, Kharabath, Open Dosa",South Indian,100.0,Delivery
+1369,Hotel Aradhana,Yes,No,3.7,51,Bannerghatta Road,Quick Bites,"Akki Rottis, Neer Dosa",North Indian,300.0,Delivery
+1373,New Royal Treat,Yes,No,2.8,102,Bannerghatta Road,Quick Bites,"Roti, Chicken Biryani","North Indian, Chinese",350.0,Delivery
+1377,Asha Sweets Centre,Yes,No,3.9,42,JP Nagar,Dessert Parlor,"Rabri, Panipuri, Badam Milk, Kachori, Moong Dal Halwa",Fast Food,250.0,Delivery
+1391,Vinaya Cafe,Yes,No,3.7,55,JP Nagar,Quick Bites,"Coffee, Masala Dosa","South Indian, Street Food, Juices",200.0,Delivery
+1439,Udupi Thaja Thindi,Yes,No,2.9,42,BTM,Quick Bites,"Masala Dosa, Vada, Filter Coffee","North Indian, South Indian, Chinese, Fast Food",250.0,Delivery
+1478,Chaitanya Cafe,Yes,No,3.9,92,JP Nagar,Quick Bites,"Coffee, Pav Bhaji, Masala Dosa, Vada Sambar","South Indian, North Indian, Fast Food",300.0,Delivery
+1497,Bread Crumbs Bakery,No,No,4.0,164,Bannerghatta Road,Bakery,"Samosa, Egg Puff, Paneer Puff, Chocolate Truffle","Desserts, Bakery",250.0,Delivery
+1559,Tongue Twisters,Yes,No,3.5,283,BTM,Quick Bites,"Veg Thali, Fish Thali","Bengali, North Indian, Oriya",350.0,Delivery
+1600,Shiv Sagar,No,No,2.9,85,Bannerghatta Road,Quick Bites,"Masala Dosa, Chole Bhature, Coffee","South Indian, Street Food",250.0,Delivery
+1618,Bangalir Rannaghar,No,No,2.9,58,Bannerghatta Road,Quick Bites,Noodles,"Bengali, North Indian, Chinese",250.0,Delivery
+1622,Kailash Parbat,No,No,2.7,67,Bannerghatta Road,Food Court,"Chole, Chaat, Gulab Jamun, Dahipuri, Sev Puri, Bhel Puri, Pakoda","North Indian, Street Food",300.0,Delivery
+1706,Idly Pidly,Yes,No,3.2,148,Bannerghatta Road,Quick Bites,Tea,South Indian,250.0,Delivery
+1707,Vasudev Adiga's,No,No,2.3,291,Bannerghatta Road,Casual Dining,"Coffee, Masala Dosa, Curd Rice, Idli Vada","South Indian, North Indian, Chinese, Street Food, Juices",250.0,Delivery
+1714,Apsara Ice Cream,No,No,4.0,65,Bannerghatta Road,Dessert Parlor,Panipuri,"Ice Cream, Desserts",200.0,Delivery
+1773,Baskin Robbins,No,No,3.9,86,JP Nagar,Dessert Parlor,Mississippi Mud,Ice Cream,250.0,Delivery
+1786,Sree Krishna Kafe,No,No,3.9,115,JP Nagar,Quick Bites,"Vada, Pongal, Podi Idli, Masala Dosa, Podi Dosa, Idiyappam, Rice",South Indian,200.0,Delivery
+1866,Ishta Cafe,Yes,No,3.9,63,Bannerghatta Road,Quick Bites,"Burgers, Masala Dosa, Millet Pizza, Falafel Wrap","Pizza, South Indian, Healthy Food",200.0,Delivery
+1907,World on a Swirl,No,No,3.8,46,Bannerghatta Road,"Dessert Parlor, Quick Bites",Courteous Staff,"Ice Cream, Desserts, Rolls",300.0,Desserts
+2148,Ingu Tengu,No,No,3.9,197,Bannerghatta Road,Quick Bites,"Vada, Masala Dosa, Coffee, Akki Rottis, Idli Chutney, Curd Rice, Ghee Roast Dosa",South Indian,150.0,Dine-out
+2303,Paratha Junction,Yes,No,2.4,158,Bannerghatta Road,Quick Bites,Aloo Paratha,"North Indian, Chinese",300.0,Dine-out
+2493,Litti Twist,Yes,No,4.2,465,BTM,Quick Bites,"Litti, Liti Chokha, Lassi, Tea, Paratha, Thali, Chai","North Indian, Bihari",300.0,Dine-out
+2629,4th Tea Block,No,No,4.0,62,Jayanagar,Cafe,"Rose Tea, Hibiscus Tea, Masala Chai, Ginger Tea",Cafe,150.0,Cafes
+2730,Pani Kum Chai,Yes,No,3.9,67,Jayanagar,Quick Bites,"Chai, Lemon Tea, Chicken Roll",Fast Food,200.0,Delivery
+2769,The Belgian Waffle Co.,Yes,No,3.8,152,Jayanagar,Dessert Parlor,Waffles,"Desserts, Beverages",350.0,Delivery
+2814,Desi Vdesi,Yes,No,3.9,113,Shanti Nagar,Quick Bites,"Rolls, Burgers, Sandwiches, Nachos, Sweet Lassi, Fries, Methi Paratha","Fast Food, North Indian, Rolls",250.0,Delivery
+2970,Hari Super Sandwich,No,No,4.1,279,Basavanagudi,Quick Bites,"Chocolate Sandwich, Corn Sandwich, Chocolate Sandwiches, Lassi, Chilli Cheese, Chaat, Panipuri","Fast Food, Street Food",200.0,Delivery
+3021,Ice Land,Yes,No,3.6,34,JP Nagar,Dessert Parlor,"Prompt Service, Friendly Staff","Ice Cream, Desserts",300.0,Delivery
+3076,Kamat Minerva,Yes,No,2.6,72,Basavanagudi,Quick Bites,"Butter Naan, Buttermilk, Jowar Roti, Panneer Butter Masala","South Indian, North Indian, Chinese",300.0,Delivery
+3134,Polamma's Mess,Yes,No,4.2,185,BTM,Mess,"Lemon Chicken, Hyderabadi Biryani, Chicken Biryani, Chicken Fry, Andhra Meal, Thali, French Chicken","North Indian, Chinese, Biryani",300.0,Delivery
+3208,Mishra's Pedha Big Foods,No,No,3.9,56,Jayanagar,Dessert Parlor,"Peda, Dhokla, Vada Pav, Samosa, Jalebi","Desserts, Mithai",200.0,Delivery
+3303,V B Bakery,No,No,4.2,502,Basavanagudi,Bakery,"Honey Cake, Apple Cake, Potato Bun, Fruit Cake, Bun Butter Jam, Bun Masala, Veg Puff",Bakery,150.0,Desserts
+3462,Mavalli Tiffin Room (MTR),No,No,4.5,2896,Basavanagudi,Quick Bites,"Rava Idli, Filter Coffee, Ghee Masala Dosa, Badam Halwa, Upma, Raita, Rasam Rice",South Indian,250.0,Dine-out
+3487,Upahara Darshini,No,No,4.2,257,Basavanagudi,Quick Bites,"Masala Dosa, Vada, Set Dosa, Filter Coffee, Raita, Idli Sambar, Bonda",South Indian,150.0,Dine-out
+3489,Cool Corner,No,No,4.2,196,Basavanagudi,Quick Bites,"Sandwich, Masala Dosa, Set Dosa, Onion Dosa, Coffee, Rava Dosa, Chaat","Street Food, Fast Food",250.0,Dine-out
+3490,Sandwichwallas,Yes,No,4.0,133,Basavanagudi,Quick Bites,"Garlic Bread, Sandwiches, Veg Burger, Pizza Sandwich, Burgers, French Fries, Wedges",Fast Food,200.0,Dine-out
+3493,Kamat Bugle Rock,Yes,No,3.9,549,Basavanagudi,Quick Bites,"Jowar Roti, Buttermilk, Manchurian, Brinjal Curry, Jolada Rotti, Coffee, Panneer Butter Masala","South Indian, Fast Food",300.0,Dine-out
+3494,Mahalaxmi Tiffin Room,No,No,4.1,181,Basavanagudi,Quick Bites,"Masala Dosa, Filter Coffee, Vada, Kali Dosa, Rava Idli, Carrot Halwa, Khali Dosa",South Indian,100.0,Dine-out
+3504,Basavanagudi Mylari,No,No,4.0,53,Basavanagudi,Quick Bites,"Coffee, Idli, Masala Dosa, Sagu Dosa, Kesari Bath, Kharabath, Plain Dosa",South Indian,300.0,Dine-out
+3509,New Modern Hotel,No,No,4.2,280,Basavanagudi,Quick Bites,"Coffee, Masala Dosa, Vada, Idli, Puri Saagu, Upma, Set Dosa",South Indian,150.0,Dine-out
+3515,Hotel Janatha,No,No,4.1,52,Basavanagudi,Quick Bites,"Masala Dosa, Rava Dosa, Khali Dosa, Vada, Filter Coffee, Kali Dosa, Kesari Bath",South Indian,150.0,Dine-out
+3520,Chaatimes,Yes,No,3.9,142,Basavanagudi,Quick Bites,"Dabeli, Faluda, Masala Poori, Tokri Chaat, Sandwiches, Pav Bhaji, Basket Chat","Street Food, Fast Food",200.0,Dine-out
+3523,Shree Venkateshwara North Karnataka Hotel,No,No,4.0,65,Basavanagudi,Quick Bites,"Buttermilk, Jolada Rotti",South Indian,200.0,Dine-out
+3536,Harshi Super Sandwich,No,No,3.8,150,Basavanagudi,Quick Bites,"Sandwiches, Chocolate Sandwich, Chaat, Veg Cheese Sandwich, Chilli Cheese, Corn Sandwich","Fast Food, Street Food",150.0,Dine-out
+3584,Ranganna Military Hotel,No,No,4.2,760,Jayanagar,Quick Bites,"Mutton Biryani, Mutton Chops, Chicken Fry, Chicken Biryani, Paya, Mutton Fry, Chilli Chicken","South Indian, Biryani",350.0,Dine-out
+3594,Mini Punjabi Dhaba,Yes,No,4.2,325,Banashankari,Quick Bites,"Lassi, Panneer Butter Masala, Paratha, Jeera Rice, Paneer Parantha, Veg Kolhapuri, Bhindi Fry",North Indian,350.0,Dine-out
+4127,Feel@Home,Yes,No,3.6,42,Marathahalli,"Takeaway, Delivery",Thali,"North Indian, Chinese",300.0,Delivery
+4280,Chatorezz,Yes,No,3.6,26,Marathahalli,Quick Bites,Paratha,"North Indian, Chinese",250.0,Delivery
+4292,Pabrai's Fresh & Naturelle Icecreams,Yes,No,4.3,324,HSR,Dessert Parlor,"Gur Ice Cream, Nolen Gurer Ice Cream, Pizza, Nolen Gur, Paan Ice Cream, Filter Coffee Ice Cream, Chocolate Hazelnut","Ice Cream, Desserts",180.0,Delivery
+4297,Kabab Mandra,Yes,No,2.9,243,Sarjapur Road,Quick Bites,"Chicken Grill, Butter Chicken, Shawarma, Chicken Shwarma Roll, Chicken Lollipop, Rumali Roti, Rolls","North Indian, Chinese, Rolls",300.0,Delivery
+4307,Nutty Squirrel,Yes,No,3.8,72,Bellandur,Kiosk,"Brownie Chocolate, Ice Cream Sandwich, Brownie Sundae, Waffles","Ice Cream, Desserts",300.0,Delivery
+4397,Burrito Boys,No,No,2.7,39,Bellandur,Food Court,Rice Bowl,"Mexican, Tex-Mex",330.0,Delivery
+4398,Dhaba Shaba,Yes,No,3.2,61,Sarjapur Road,Quick Bites,"Paratha, Rajma Chawal","North Indian, Fast Food",250.0,Delivery
+4528,Parathabox,No,No,3.8,63,Bellandur,Delivery,"Cheesy Corn, Paneer Cheese","Fast Food, North Indian",150.0,Delivery
+4576,Mumbai Kulfi,Yes,No,4.0,92,HSR,Dessert Parlor,"Calcutta Paan, Malai Kulfi, Tender Coconut Kulfi, Kesar Pista Kulfi, Mango Kulfi",Ice Cream,100.0,Delivery
+4580,Wow Vada Pav,Yes,No,3.7,40,HSR,Quick Bites,"Chaat, Burgers, Cheese Maggi, Tea, Chocolate Shake, Lassi, Cheese Vada Pav","Street Food, Burger, Fast Food",150.0,Delivery
+4592,Paratha Plaza,No,No,3.5,68,Sarjapur Road,Quick Bites,"Sattu Paratha, Lassi, Dal Makhani, Roti",North Indian,250.0,Delivery
+4721,Hokey Pokey Ice Creams,No,No,3.9,75,Sarjapur Road,Dessert Parlor,"Cheesecake, Rolls, Coffee, Ice Cream Roll","Ice Cream, Desserts",350.0,Desserts
+5436,Krispy Kreme,Yes,No,4.0,47,Richmond Road,Dessert Parlor,"Donut, Coffee","Desserts, Beverages",300.0,Delivery
+5583,Tewari Bros Mithai Shoppie,Yes,No,3.8,59,Commercial Street,Sweet Shop,"Dhokla, Raj Kachori, Rabri","Fast Food, Mithai",300.0,Delivery
+5647,Sri Udupi Park,Yes,No,3.8,106,Residency Road,Quick Bites,"Vada, Idli, Kharabath, Noodles, Filter Coffee","South Indian, Chinese",200.0,Delivery
+5669,The Chariot,Yes,No,2.9,50,Brigade Road,Quick Bites,"Masala Dosa, Panneer Butter Masala, Thali","South Indian, North Indian, Chinese",350.0,Delivery
+5671,ZOROY Luxury Chocolate,Yes,No,4.0,68,Church Street,Dessert Parlor,Hot Chocolate,Desserts,250.0,Delivery
+5709,GMT - Gelateria Montecatini Terme,Yes,No,4.4,69,Lavelle Road,Quick Bites,"Irish Coffee, Gelato Ice Cream, Italian Icecream, Chocolate Cake","Desserts, Ice Cream",300.0,Delivery
+5746,Gelato Italiano,Yes,No,3.0,40,Brigade Road,Dessert Parlor,"Belgian Chocolate, Waffle Cone, Tiramisu","Ice Cream, Bakery, Desserts",200.0,Delivery
+5930,Foody's,Yes,No,3.8,170,Shanti Nagar,Quick Bites,"Paratha, Chaat, Masala Dosa, Pav Bhaji, Tea, Kulcha, Filter Coffee","North Indian, South Indian",250.0,Delivery
+5969,Juice Junction,No,No,4.0,101,St. Marks Road,Quick Bites,"Sandwiches, Fruit Bowl, Panipuri, Corn Sandwich, Palak Paneer, Arabian Grape Juice, Cheesy Grilled Sandwich","Juices, Fast Food",150.0,Delivery
+6037,RR Catering,No,No,3.4,10,MG Road,Quick Bites,"Garlic Naan, Tandoori Chicken, Basmati Rice","North Indian, Chinese, Biryani",350.0,Delivery
+6052,Rescafe,No,No,3.8,41,Residency Road,Quick Bites,"Samosa, Tea",Beverages,100.0,Delivery
+6053,Bhaiyaji Food Court,No,No,3.4,27,MG Road,Quick Bites,"Paratha, Samosa, Vada Pav","North Indian, Mithai",300.0,Delivery
+6072,The French Loaf,Yes,No,2.8,142,Frazer Town,"Bakery, Quick Bites","Coffee, Pasta, Sandwiches, Sunday Breakfast, Apple Pie, Hot Chocolate, Chicken Quiche","Bakery, Desserts",300.0,Delivery
+6188,Bowring Kulfi,No,No,4.0,100,Residency Road,Dessert Parlor,"Kulfi, Mango Juice, Kesar Pista, Lassi","Ice Cream, Desserts",150.0,Desserts
+6460,KC Das,Yes,No,3.9,377,MG Road,"Sweet Shop, Quick Bites","Rasgulla, Luchi, Samosa, Radhaballavi, Rasmalai, Kheer Kadam, Chamcham","Mithai, Street Food",200.0,Dine-out
+6732,Siddappa Hotel,No,No,4.1,274,Richmond Road,Quick Bites,"Masala Dosa, Idli, Kali Dosa, Ghee Khali Dosa, Tomato Rice, Set Dosa, Ghee Rice",South Indian,150.0,Dine-out
+6772,Hotel Ajantha,No,No,3.9,77,MG Road,Quick Bites,"Masala Dosa, Filter Coffee, Vada, Akki Rottis, Rava Dosa",South Indian,200.0,Dine-out
+6880,Sagar Chats,No,No,3.8,38,Commercial Street,Quick Bites,"Pav Bhaji, Chaat, Masala Poori, Panipuri, Dahipuri, Sev Puri, Sandwiches","Chinese, Beverages, Street Food",300.0,Dine-out
+7082,Cookie Man,Yes,No,4.0,100,Koramangala 7th Block,Dessert Parlor,"Chocolate Chip Cookie, Brownie Chocolate",Bakery,150.0,Pubs and bars
+7083,Gelato Italiano,Yes,No,3.9,110,Koramangala 5th Block,Dessert Parlor,"Gelato, Madagascar Chocolate, Belgian Chocolate, Waffle Cone, New York Cheesecake","Ice Cream, Bakery, Desserts",200.0,Pubs and bars
+7090,Bansuri Sweets,No,No,3.7,73,Koramangala 6th Block,"Sweet Shop, Quick Bites","Thali, Dhokla, Chaat, Samosa, Panipuri, Jalebi, Pav Bhaji","Mithai, North Indian, Street Food",250.0,Pubs and bars
+7223,Chai Mania,Yes,No,2.8,67,Marathahalli,Cafe,"Ginger Tea, Paratha, Poha, Chai, Chaai","Cafe, Tea, Beverages",300.0,Cafes
+7363,Kaati Zone,Yes,No,3.3,184,Marathahalli,Quick Bites,"Rolls, Falafel, Biryani, Paratha","Fast Food, Biryani, Rolls",350.0,Delivery
+7380,Artinci Artisanal Ice Cream,Yes,No,4.0,58,Whitefield,Dessert Parlor,"Vanilla Ice Cream, Hot Chocolate Fudge, Chocolate Icecreams","Desserts, Ice Cream",300.0,Delivery
+7535,Chai Point,Yes,No,3.8,90,Whitefield,"Beverage Shop, Quick Bites","Banana Cake, Chai, Lemon Tea, Ginger Tea, Masala Tea","Tea, Beverages, Fast Food",250.0,Delivery
+7570,Goli Vada Pav No. 1,Yes,No,3.7,188,Brookefield,Quick Bites,"Sabudana Vada, Kulfi, Schezwan Vada Pav, Ginger Tea",Street Food,200.0,Delivery
+7631,Kabab Mirchi,No,No,3.4,46,Whitefield,Quick Bites,"Chicken Grill, Dal Fry, Arabian Grape Juice, Rumali Roti, Shawarma Roll","North Indian, Mughlai, Chinese",350.0,Delivery
+7660,Prajwal The Restaurant,No,No,3.3,47,Marathahalli,Quick Bites,"Paratha, Thali",North Indian,300.0,Delivery
+7812,99 Caffe,Yes,No,3.6,106,Brookefield,Quick Bites,"Mudpie, Sandwich, Masala Dosa, Hot Coffee, Pasta, Pizza Dosa, Paratha","South Indian, North Indian, Chinese",250.0,Delivery
+7819,Ginger & Garlic,Yes,No,3.6,92,Brookefield,Quick Bites,"Biryani, Chicken Curry","South Indian, North Indian, Chinese",350.0,Delivery
+7828,Kakaji,Yes,No,3.7,205,Marathahalli,Quick Bites,"Thali, Lassi, Rice, Chole Bhature, Paratha, Dal Makhani, Dal Tadka",North Indian,350.0,Delivery
+7840,Raapchick,Yes,No,3.6,49,Brookefield,Quick Bites,Burgers,"Fast Food, Burger",300.0,Delivery
+7849,Aashish Foods,Yes,No,2.7,35,Brookefield,Quick Bites,Paratha,North Indian,150.0,Delivery
+7907,Aaha,Yes,No,3.6,94,Brookefield,Quick Bites,"Paratha, Tandoori Chicken, Panneer Butter Masala, Chole Bhature","North Indian, Chinese",300.0,Delivery
+8068,Tastybites.com,Yes,No,3.7,82,Brookefield,Quick Bites,"Sandwiches, Chaat, Panipuri, Sandwich","Fast Food, Sandwich, South Indian",150.0,Delivery
+8131,Happy Endings,Yes,No,4.1,180,"ITPL Main Road, Whitefield","Bakery, Dessert Parlor","Brownie, Blueberry Cheesecake, Chocolate Truffle, Blueberry Shake, Tiramisu, German Chocolate, Thick Shakes","Bakery, Desserts",300.0,Delivery
+8176,Little Black Choux,No,No,4.0,35,Whitefield,Bakery,"Opera Cake, Cup Cake, Red Velvet, Chocolate Mousse",Bakery,250.0,Desserts
+8286,Sai Foods,Yes,No,4.1,143,Brookefield,Quick Bites,"Paratha, Gulab Jamun, Thali, Lassi, Kheer, Roti, Palak Paneer",North Indian,200.0,Dine-out
+8314,Chakh Le India,Yes,No,3.3,229,Brookefield,Quick Bites,"Paratha, Chicken Parantha, Chicken Curry, Panneer Butter Masala","North Indian, Chinese, Rolls",300.0,Dine-out
+8512,Rolls On Wheels,No,No,3.6,255,Marathahalli,Quick Bites,"Rolls, Mix Veg","Fast Food, Rolls, Momos",200.0,Dine-out
+8664,Breakfast House,No,No,3.6,49,"ITPL Main Road, Whitefield",Quick Bites,"Coffee, Vada, Mla Dosa","South Indian, North Indian",300.0,Dine-out
+8897,Kalmane Koffees,No,No,4.1,367,Koramangala 7th Block,Cafe,"Filter Coffee, Brownie Chocolate, Hot Chocolate, Hot Coffee, Chips, Cafe Mocha, Walnut Brownie",Cafe,350.0,Cafes
+8901,Barista,No,No,3.5,66,Koramangala 5th Block,Cafe,"Coffee, Cappuccino, Sandwiches, Chicken Sandwich",Cafe,300.0,Cafes
+8986,Chaat Street,Yes,No,4.0,293,Koramangala 6th Block,Kiosk,"Pav Bhaji, Panipuri, Raj Kachori, Papdi Chaat, Samosa Chaat, Bhel Puri, Vada Pav","Street Food, North Indian",250.0,Delivery
+9003,Krishna Sagar,Yes,No,3.9,52,BTM,Quick Bites,Masala Dosa,"South Indian, North Indian, Chinese",300.0,Delivery
+9011,Nutri Rich,Yes,No,3.8,53,Koramangala 7th Block,Quick Bites,"Pizza, Spinach Curry, Salad",Healthy Food,350.0,Delivery
+9062,ONE IN A MELON,Yes,No,4.1,414,Koramangala 7th Block,"Beverage Shop, Quick Bites","Sandwiches, Fruit Juices, Chaat, Paneer Sandwich, Watermelon Juice, Cheese Sandwich","Juices, Healthy Food",300.0,Delivery
+9086,Cafe Madhura,Yes,No,3.8,59,HSR,Quick Bites,"Idli, Coffee, Vada",South Indian,200.0,Delivery
+9089,The Rasaganga,Yes,No,3.9,163,HSR,Quick Bites,"Coffee, Dahi Vada, Chaat","South Indian, North Indian, Chinese, Street Food",300.0,Delivery
+9093,Samosa Singh,Yes,No,4.0,326,HSR,Delivery,"Chicken Keema Samosa, Aloo Samosa, Manchurian Samosa, Paneer Samosa","Street Food, Fast Food, Rolls, Desserts",200.0,Delivery
+9099,Chaatimes,Yes,No,3.8,101,JP Nagar,Quick Bites,"Chaat, Pav Bhaji, Panipuri, Basket Chat, Mango Lassi, Sev Puri, Misal","Street Food, Fast Food",200.0,Delivery
+9110,ReFresh Juice Junction,Yes,No,4.1,57,Koramangala 1st Block,"Beverage Shop, Quick Bites","Pasta, Burgers, Sandwiches","Juices, Fast Food",200.0,Delivery
+9139,Tapri By The Corner,Yes,No,4.1,205,Koramangala 5th Block,Quick Bites,"Tea, Chole, Khichda, Butter Paneer, Paneer Bhurji, Paratha, Masala Chai",Fast Food,250.0,Delivery
+9146,Anda Ka Funda,Yes,No,3.2,64,BTM,Quick Bites,"Paratha, Rolls, Roti","North Indian, Chinese, Rolls",250.0,Delivery
+9172,Chowpatty,Yes,No,3.6,95,Koramangala 1st Block,Quick Bites,"Pav Bhaji, Dabeli, Paratha, Raj Kachori, Vada Pav","North Indian, Fast Food, Street Food",300.0,Delivery
+9176,1000 B.C,Yes,No,3.2,49,Koramangala 5th Block,Quick Bites,"Shawarma, Sandwiches","Arabian, Sandwich, Rolls, Burger",300.0,Delivery
+9187,South Tiffins,Yes,No,3.6,144,HSR,Quick Bites,"Masala Dosa, Vada, Tea, Coffee, Idli",South Indian,150.0,Delivery
+9196,Davanagere Benne Dose,Yes,No,3.9,106,HSR,Quick Bites,Benne Dosa,South Indian,150.0,Delivery
+9212,Indore Eat Restaurant,No,No,4.0,72,Koramangala 6th Block,Quick Bites,"Poha, Kachori, Samosa, Sabudana Khichdi, Paratha","Street Food, South Indian",100.0,Delivery
+9320,Hatti Kaapi,Yes,No,3.9,237,Koramangala 5th Block,Quick Bites,"Filter Coffee, Badam Milk, Idli, Hot Coffee, Samosa, Lemon Tea, Mini Idlis","South Indian, Beverages",200.0,Delivery
+9331,Mynutrikitchen,Yes,No,3.6,59,HSR,Delivery,Salad,"North Indian, Healthy Food",300.0,Delivery
+9356,Sagar Fast Food,Yes,No,4.0,76,Koramangala 3rd Block,Quick Bites,"Tea, Coffee, Neer Dosa, Gajar Ka Halwa, Thali, Chaat, Cheese Dosa","South Indian, North Indian, Fast Food",300.0,Delivery
+9384,Waffle Stories,Yes,No,4.2,251,Jayanagar,Dessert Parlor,"Choco Blast Waffles, Coffee, Nitrogen Ice Cream, Brownie Sundae, Nutella Waffle, Kitkat Waffles, Brownie Waffle","Desserts, Beverages",300.0,Delivery
+9386,Indori Chatorey,Yes,No,2.8,138,BTM,Quick Bites,"Kachori, Indori Poha, Cheese Paratha, Paneer Parantha, Thali, Poha Jalebi","North Indian, Street Food",300.0,Delivery
+9438,Yummy Biryani,Yes,No,3.8,41,Koramangala 7th Block,Quick Bites,"Biryani, Paratha, Chicken Masala, Kerala Parotta",Biryani,200.0,Delivery
+9446,Paratha Plaza,Yes,No,3.0,96,BTM,Quick Bites,"Paratha, Rajma","North Indian, Chinese",300.0,Delivery
+9526,Chaska Bun,Yes,No,4.2,166,Koramangala 5th Block,Quick Bites,"Ginger Tea, Chai, Samosa, Bun Omelette, Elaichi Tea, Egg Bhurji, Carrot Cake",Fast Food,300.0,Delivery
+9544,Punjabi Corner,Yes,No,3.9,202,Bannerghatta Road,Quick Bites,"Paratha, Chicken Curry","North Indian, Chinese",250.0,Delivery
+9589,Juice Junction Food Court,Yes,No,3.7,70,Koramangala 6th Block,"Beverage Shop, Quick Bites","Tea, Chai, Sandwiches, Sandwich","Beverages, Juices, Fast Food",250.0,Delivery
+9651,Ghee Positive,Yes,No,3.8,48,Koramangala 8th Block,Quick Bites,"Paratha, Mutton Curry","North Indian, Chinese",300.0,Delivery
+9699,Tawa Ghar Ka,Yes,No,3.8,331,HSR,Quick Bites,"Mushroom Masala, Thali, Aloo Paratha, Roti, Samosa, Panneer Butter Masala",North Indian,350.0,Delivery
+9708,Bansuri Sweets,No,No,3.8,110,BTM,Quick Bites,"Chaat, Gulab Jamun, Panipuri, Samosa, Dhokla, Thali, Kachori","Street Food, North Indian",200.0,Delivery
+9731,Kinpeetos,Yes,No,3.9,64,Koramangala 5th Block,Quick Bites,"Burgers, Belgian Fries, Pasta, Salads, Falafel Pockets, Greek Sandwich","Lebanese, Greek",300.0,Delivery
+9818,Mother's Rasoi,Yes,No,3.8,171,Bannerghatta Road,Quick Bites,"Buttermilk, Dal Makhani, Boondi Raita, Baingan Bharta, Aloo Paratha, Roti, Thali","North Indian, Chinese, Momos",250.0,Delivery
+9851,Khan Saheb Grills and Rolls,Yes,No,3.9,135,Jayanagar,Quick Bites,"Rolls, Biryani, Mutton Seekh, Egg Roll, Chicken Tikka, Chicken Roll","Fast Food, Rolls",350.0,Delivery
+9929,Gods Own Cafe,Yes,No,4.4,384,Koramangala 7th Block,Quick Bites,"Appam, Buttermilk, Fry Prawns, Roast Beef, Masala Prawn, Chicken Stew, Murgh Ghee Roast","South Indian, Kerala, Seafood",300.0,Delivery
+9937,Eat N Drink,No,No,3.8,87,BTM,Quick Bites,"Sandwiches, Fruit Juices, Burgers, Chicken Sandwich, Omelette, French Fries, Oreo Shake",Fast Food,250.0,Delivery
+9993,The Sandwich Club,Yes,No,3.9,88,HSR,Quick Bites,"Sandwiches, Fries, Sandwich, Pizza, Thick Shakes, Garlic Bread",Fast Food,250.0,Delivery
+10031,Mid Night Hunting,Yes,No,3.7,127,Ejipura,"Takeaway, Delivery","Burgers, Chicken Burger, Pasta, Chicken Pizza","Fast Food, Italian",300.0,Delivery
+10071,TOKI Taco House,Yes,No,3.6,72,Koramangala 6th Block,Quick Bites,"Chicken Nachos, Chicken Tacos, Rice Bowl",Mexican,200.0,Delivery
+10094,Pabrai's Fresh and Naturelle Icecreams,No,No,3.7,118,BTM,Dessert Parlor,"Apple Pie Ice Cream, Nolen Gur, Paan Ice Cream, Chocolate Fudge, Gur Ice Cream","Ice Cream, Desserts",300.0,Delivery
+10162,Tandoor-De-Naal,No,No,3.8,35,BTM,"Takeaway, Delivery","Rolls, Chicken Roll, Paneer Roll, Pasta",Fast Food,200.0,Delivery
+10177,Tandoor Garden,Yes,No,3.6,71,BTM,Quick Bites,"Tandoori Chicken, Butter Naan, Kadai Paneer, Pepper Chicken","North Indian, Chinese, Kebab",350.0,Delivery
+10250,So-Fat's Dosas,No,No,3.8,43,BTM,Quick Bites,Bhaji Dosa,South Indian,200.0,Delivery
+10330,Donne Biriyani House,Yes,No,3.8,278,HSR,Quick Bites,"Rice, Donne Biryani, Mutton Biryani, Chicken Kebab, Chilli Chicken, Chicken Biryani, Kshatriya Kebab",Biryani,200.0,Delivery
+10344,Under The Hood,Yes,No,4.0,76,Koramangala 1st Block,Quick Bites,"Appam, Chicken Curry, Passion Fruit Juice, Crepe","Salad, Healthy Food, Street Food",300.0,Delivery
+10439,Food And You,No,No,3.8,89,Koramangala 5th Block,Quick Bites,"Thali, Thepla, Gulab Jamun, Masala Lassi, Rice, Gujarati Food, Roti","North Indian, Gujarati",300.0,Delivery
+10489,Intriicake,Yes,No,3.8,34,HSR,"Quick Bites, Bakery",Cup Cake,"Bakery, Desserts, Italian, North Indian, Fast Food",350.0,Delivery
+10522,Kulfi & More,Yes,No,3.7,47,BTM,Dessert Parlor,"Faluda, Rabri, Malai Kulfi","Ice Cream, Beverages",200.0,Delivery
+10604,The Donut Baker,No,No,3.8,62,Koramangala 7th Block,"Bakery, Dessert Parlor","Donut, Chocolate Fantasy",Desserts,150.0,Delivery
+10748,Sreeraj Lassi Bar,Yes,No,4.0,87,BTM,Beverage Shop,"Faluda, Fruit Salad, Fruit Lassi",Beverages,150.0,Delivery
+10797,Choco Cheese,Yes,No,4.4,63,BTM,Dessert Parlor,"Waffles, Oreo Shake, Banana Nutella Crepe","Desserts, Beverages",300.0,Desserts
+10800,Tempteys,Yes,No,4.2,250,BTM,"Dessert Parlor, Beverage Shop","Thick Shakes, Oreo Milkshake, Gelato, Coffee, Oreo Shake, Protein Shake, Choco Brownie",Beverages,300.0,Desserts
+10805,Waffle Head,Yes,No,4.0,48,BTM,"Dessert Parlor, Beverage Shop","Chocolate Waffles, Marshmallow, Chocolate Overload, Kitkat Waffles","Desserts, Beverages",300.0,Desserts
+10806,Gogula's Sweets & Chats,Yes,No,4.0,221,BTM,"Sweet Shop, Quick Bites","Chole Bhature, Chaat, Kulfi, Kachori, Pav Bhaji, Samosa, Barfi","Mithai, Street Food, Fast Food",200.0,Desserts
+10808,Laddoos,Yes,No,3.4,280,BTM,"Quick Bites, Sweet Shop","Chaat, Panipuri, Lassi, Gol Gappe, Paratha, Pav Bhaji, Samosa","Street Food, Mithai",200.0,Desserts
+10811,Shri Ram Sweet Centre,No,No,4.0,164,BTM,"Quick Bites, Sweet Shop","Samosa, Dhokla, Ladoo, Sweet Kachori, Onion Kachori, Ghee Jalebi","Street Food, Mithai",150.0,Desserts
+10812,Waffle Stories,Yes,No,4.0,71,BTM,Dessert Parlor,"Waffles, Red Velvet Waffle, Brownie Sundae, Nutella Waffle","Desserts, Beverages",300.0,Desserts
+10815,Rock Stone Ice Cream Factory,Yes,No,4.0,138,BTM,Dessert Parlor,"Icecream Cake, Brownie, Hot Chocolate, Waffles, Chocolate Icecreams",Ice Cream,250.0,Desserts
+10827,Sri Devi Baker's,No,No,3.9,41,BTM,"Bakery, Quick Bites","Ginger Tea, Chai, Coffee","Bakery, Street Food",200.0,Desserts
+10830,More Than Chocolates,No,No,3.6,83,BTM,Bakery,Cheesecake,Bakery,200.0,Desserts
+10886,99 Pancakes,Yes,No,4.5,360,Koramangala 5th Block,"Dessert Parlor, Cafe","Pan Cake, Nutella Pancakes, Waffles","Desserts, Beverages, Cafe, Ice Cream",300.0,Desserts
+10894,The Belgian Waffle Co.,Yes,No,4.2,184,Koramangala 5th Block,Dessert Parlor,"Belgian Waffles, Chocolate Overload, Triple Chocolate, Belgian Chocolate Waffle, Chocolate Icecreams","Desserts, Beverages",350.0,Desserts
+10901,The Marash,Yes,No,4.3,70,Koramangala 5th Block,Dessert Parlor,"Turkish Ice Cream, Baklava, Chocolate Icecreams","Turkish, Desserts",250.0,Desserts
+10902,Krispy Kreme,Yes,No,4.2,449,Koramangala 7th Block,Dessert Parlor,"Donut, Coffee, Chocolate Dreamcake, Latte, Cookie Crunch, Hot Chocolate, Cappuccino","Desserts, Beverages",300.0,Desserts
+10904,Banchharam,No,No,3.9,144,Koramangala 7th Block,"Quick Bites, Sweet Shop","Mishti Doi, Rasgulla, Radhaballavi, Rasmalai, Chamcham, Dum Aloo, Malai Roll","Street Food, Mithai",200.0,Desserts
+10907,Baskin Robbins,No,No,4.1,77,Koramangala 7th Block,Kiosk,Waffle Cone,"Ice Cream, Desserts",300.0,Desserts
+10912,Lassi Shop,Yes,No,4.1,216,Koramangala 5th Block,Beverage Shop,"Faluda, Mango Lassi, Sweet Lassi, Malai Kulfi","Beverages, Ice Cream",200.0,Desserts
+10915,Cakebuy,Yes,No,3.9,72,Bannerghatta Road,Dessert Parlor,"Chocolate Truffle Cake, Cheesecake",Desserts,350.0,Desserts
+10924,Haji Ali Juice Centre,Yes,No,4.0,153,Koramangala 5th Block,"Beverage Shop, Quick Bites","Faluda, Sandwiches, Paneer Tikka Pizza, Cream Mango, Custard Apple Cream, Veg Sandwich","Beverages, Fast Food, Desserts",350.0,Desserts
+10952,Uday Sweets,Yes,No,3.8,34,Koramangala 5th Block,Sweet Shop,"Samosa, Poha, Rasgulla, Kachori","Mithai, Fast Food",250.0,Desserts
+11003,Sangam Sweets,Yes,No,3.8,75,Koramangala 3rd Block,Sweet Shop,"Chaat, Jalebi, Samosa, Badam Milk, Panipuri","Mithai, Street Food",200.0,Desserts
+11159,Chai Point,Yes,No,4.0,113,BTM,"Beverage Shop, Quick Bites","Chai, Masala Tea, Samosa, Banana Cake, Egg Puff, Ginger Tea","Tea, Beverages, Fast Food",250.0,Dine-out
+11220,Just Shawarma,Yes,No,3.9,201,BTM,Quick Bites,Whole Meat Shawarma,Arabian,300.0,Dine-out
+11260,Udupi Gokul Cafe,No,No,3.8,58,BTM,Quick Bites,"Filter Coffee, Pongal",South Indian,300.0,Dine-out
+11339,Sri Vishnupriya,No,No,3.0,67,BTM,Quick Bites,"Masala Dosa, Plain Dosa","South Indian, North Indian, Chinese",300.0,Dine-out
+11413,Ande Ka Funda,No,No,2.8,60,BTM,Quick Bites,"Aloo Paratha, Ande Ka Funda","North Indian, Fast Food, Rolls",250.0,Dine-out
+11677,Parkview,No,No,4.0,130,JP Nagar,Quick Bites,"Paneer Hyderabadi, Biryani, Idli, Panneer Butter Masala, Roti, Coffee, Masala Dosa","South Indian, North Indian, Chinese",300.0,Dine-out
+11863,Nammura Upahara,No,No,3.8,40,JP Nagar,Quick Bites,"Masala Dosa, Tea, Vada, Idli, Coffee",South Indian,100.0,Dine-out
+11912,Tibbs Frankie,No,No,3.5,70,Koramangala 7th Block,Quick Bites,"Rolls, Masala Veg Frankie, Chicken Frankie","Street Food, Rolls",200.0,Dine-out
+11955,Udupi Grand,No,No,2.8,64,Koramangala 7th Block,Quick Bites,"Idli, Vada, Coffee, Masala Dosa, Masala Poori","South Indian, North Indian, Chinese",300.0,Dine-out
+12007,Chai Chowk,No,No,3.8,82,Koramangala 7th Block,Quick Bites,"Chai, Lemon Tea, Ginger Tea, Rolls","Chinese, Fast Food",200.0,Dine-out
+12047,Cafe Bollywood,No,No,3.4,25,JP Nagar,Quick Bites,"Pav Bhaji, Dahipuri, Chaat, Paratha, Noodles",Street Food,200.0,Dine-out
+12530,Lassi Shop,No,No,3.9,32,Church Street,Beverage Shop,Lassi,"Beverages, Ice Cream",200.0,Delivery
+12576,Hatti Kaapi,Yes,No,3.9,54,Brigade Road,Quick Bites,"Filter Coffee, Samosa, Tea, Hot Coffee","South Indian, Beverages",200.0,Delivery
+12673,Fullyfilled,Yes,No,4.0,48,Indiranagar,Quick Bites,"Momos, Shawarma, Chicken Shawarama","Sandwich, Fast Food, Momos",200.0,Delivery
+13001,Curries And Pickles,Yes,No,3.8,77,Indiranagar,Quick Bites,"Rice, Hyderabadi Biryani, Crab Masala, Mutton, Chilli Chicken","Andhra, North Indian, Biryani",250.0,Delivery
+13002,Munchies,Yes,No,3.9,65,Brigade Road,"Quick Bites, Bakery","Burgers, Sandwiches, Momos, Chicken Seekh Roll, Sandwich","Fast Food, Bakery",250.0,Delivery
+13034,Desi Vdesi,Yes,No,3.9,202,Church Street,Quick Bites,"Paratha, Momos, Lassi, Sandwiches, Burgers, Nachos, Potato Wedges","Fast Food, North Indian, Rolls",250.0,Delivery
+13043,Brownie Heaven,Yes,No,4.2,34,Cunningham Road,Dessert Parlor,"Filter Coffee, Triple Chocolate, Brownie Chocolate, Vanilla Ice Cream, Brownie Shake, Tiramisu, Chocolate Shake","Desserts, Fast Food",300.0,Delivery
+14309,Lassi Adda,Yes,No,4.0,65,Electronic City,Beverage Shop,"Sweet Lassi, Corn Sandwich","Beverages, Sandwich, Fast Food",200.0,Delivery
+14319,Lassi Resto Cafe,Yes,No,3.7,152,Electronic City,"Beverage Shop, Quick Bites",Burgers,"Beverages, Fast Food",200.0,Delivery
+14321,Delhi Base Sri Food Court,Yes,No,3.9,505,Electronic City,Quick Bites,"Paratha, Biryani","North Indian, South Indian, Chinese, Street Food",250.0,Delivery
+14323,Wakhra Swaad,Yes,No,3.4,83,Electronic City,Quick Bites,"Tandoori Roti, Soya Chaap","North Indian, Biryani, Rolls, Beverages",300.0,Delivery
+14332,Popular Burger,Yes,No,4.1,150,Electronic City,Quick Bites,"Burgers, Chicken Burger, Chips, Veg Burger","Fast Food, Burger",200.0,Delivery
+14350,Sri Pillaiyar Bhavan,Yes,No,4.0,117,Electronic City,Quick Bites,Egg Dosa,Chettinad,300.0,Delivery
+14351,Parathe Wali Gali,Yes,No,3.6,332,Electronic City,Quick Bites,"Paratha, Samosa, Paneer Parantha, Salad, Sweet Lassi, Dal Makhani, Raita","North Indian, Chinese",250.0,Delivery
+14355,King,Yes,No,3.7,570,Electronic City,Quick Bites,Matar Paneer,"North Indian, Chinese",300.0,Delivery
+14370,MDP Coffee House,Yes,No,3.8,62,Electronic City,Quick Bites,"Vada, Filter Coffee",South Indian,200.0,Delivery
+14386,Goli Vada Pav No. 1,Yes,No,2.9,78,Electronic City,Quick Bites,Masala Vada Pav,Street Food,150.0,Delivery
+14395,Ruchi Sagar,Yes,No,4.0,262,Electronic City,Quick Bites,"Badam Milk, Masala Dosa, Filter Coffee, Pav Bhaji, Noodles, Idli, Chole Bhature","South Indian, North Indian, Chinese, Juices",250.0,Delivery
+14401,Royal Bengal Corner,Yes,No,3.8,307,Electronic City,Quick Bites,"Rolls, Paratha, Panneer Butter Masala","Chinese, Fast Food, North Indian, Rolls",250.0,Delivery
+14405,Laddoos,Yes,No,4.0,407,Electronic City,"Quick Bites, Sweet Shop","Panipuri, Chaat, Gol Gappe, Thali, Rasgulla, Dhokla, Raj Kachori","North Indian, Street Food, Mithai",250.0,Delivery
+14420,Just Fresh Point,Yes,No,4.0,162,Electronic City,Quick Bites,"Sandwiches, Chaat, Rasmalai, Pizza, Ginger Tea, Sandwich, Paratha","Street Food, American, Sandwich, Fast Food, Beverages, Burger, Desserts, Pizza",300.0,Delivery
+14449,Just Shawarma,Yes,No,3.9,176,Electronic City,Kiosk,"Whole Meat Shawarma, Wheat Shawarma, Pita Bread, Malgoum Shawarma, French Fries",Arabian,300.0,Delivery
+14461,Satkar Restaurant,Yes,No,3.6,75,Electronic City,Quick Bites,Dal Fry,"North Indian, Chinese, Biryani, Seafood",350.0,Delivery
+14502,Donut Cafe,Yes,No,3.9,163,Electronic City,"Dessert Parlor, Quick Bites","Donut, Brownie, Hot Chocolate, Sandwiches","Desserts, Fast Food",250.0,Delivery
+14589,Apsara Ice Cream,No,No,4.0,67,Electronic City,Dessert Parlor,"Panipuri, Cheesecake, Guava Ice Cream, Almond Ice Cream","Ice Cream, Desserts",200.0,Delivery
+15190,Rajasthani Charbhuja Restaurant,No,No,4.0,170,Electronic City,Quick Bites,"Rajasthani Thali, Paratha, Gulab Jamun, Paneer Tikka Masala, Sweet Lassi, Buttermilk, Gatte Ki Subzi","North Indian, Chinese, Rajasthani",350.0,Dine-out
+15221,Sanjeevini Veg,No,No,3.9,57,Electronic City,Quick Bites,"Tea, Vada, Fruit Juices, Filter Coffee",South Indian,200.0,Dine-out
+15223,Parampara - The Veg Kitchen,Yes,No,3.7,257,Electronic City,Quick Bites,"Lassi, Vada Pav, Chole Bhature, Thali","North Indian, Chinese, Street Food",350.0,Dine-out
+15230,Marmaris,No,No,3.8,76,Electronic City,Quick Bites,"Noodles, Rolls, Maggi","North Indian, Momos",300.0,Dine-out
+15237,Samosa Singh,Yes,No,4.0,427,Electronic City,Quick Bites,"Samosa Chat, Tea, Aloo Samosa, Chai, Ginger Paneer, Burger Samosa, Chicken Kebab","Street Food, Beverages",150.0,Dine-out
+15606,Khan Saheb Grills and Rolls,Yes,No,4.0,1074,Indiranagar,Quick Bites,"Rolls, Beda Roti, Veggie Roll, Chicken Seekh Roll, Chicken Kalimirch, Kathi Roll, Mutton Kebab Roll","Fast Food, Rolls",350.0,Delivery
+15734,Oregano Pizzeria,Yes,No,3.5,62,Frazer Town,Quick Bites,"Pizza, Pasta, Burgers, Lasagne, Masala Garlic Bread","Italian, Pizza",300.0,Delivery
+15747,Zabi,Yes,No,3.8,173,HBR Layout,Quick Bites,"Chicken Biryani, Chicken Samosa, Hyderabadi Biryani, Kheer, Mutton Biryani",Biryani,300.0,Delivery
+15770,Srinidhi Sagar Food Line,Yes,No,3.7,131,Indiranagar,Quick Bites,"Vada, Masala Dosa, Filter Coffee","South Indian, North Indian, Chinese",40.0,Delivery
+15874,Waffle Stories,Yes,No,3.8,31,Banaswadi,Food Court,"Waffles, Mocha Waffle","Desserts, Beverages",300.0,Delivery
+15889,Sreeraj Lassi Bar,Yes,No,3.9,49,Race Course Road,"Dessert Parlor, Beverage Shop","Faluda, Sweet Lassi, Mango Lassi, Chocolate Fudge, Fruit Salad","Beverages, Desserts",150.0,Delivery
+15893,Ice Cream Works,Yes,No,3.9,84,Indiranagar,Dessert Parlor,"Faluda, Calcutta Paan, Chocolate Icecreams","Ice Cream, Ice Cream",300.0,Delivery
+15947,Chai Point,No,No,3.8,149,Cunningham Road,"Beverage Shop, Quick Bites","Banana Cake, Samosa, Poha, Maggi, Masala Chai, Sandwiches, Ginger Lemon Tea","Tea, Beverages, Fast Food",250.0,Delivery
+16085,The Sugar Fairy,No,No,4.3,241,Frazer Town,Bakery,"Cup Cake, Chocolate Truffle, Brownie, Cake Pops, Cheesecake","Bakery, Desserts",100.0,Delivery
+16118,Northern Route,Yes,No,4.1,162,St. Marks Road,Quick Bites,"Paratha, Paneer Pakora, Chole Bhature, Rajma Chawal, Chaach, Lassi, Buttermilk","North Indian, Street Food",300.0,Delivery
+16284,Albert Bakery,No,No,4.3,346,Frazer Town,Bakery,"Chicken Seekh, Mutton Samosa, Veg Samosa, Chicken Cutlet, Naan, Chicken Puff, Chicken Roll","Bakery, Fast Food",150.0,Desserts
+16287,Komala Refreshments,No,No,4.0,102,Frazer Town,Quick Bites,"Masala Dosa, Filter Coffee",South Indian,150.0,Desserts
+16308,Bombay Chowpaty Kulfi,No,No,4.2,267,Frazer Town,"Dessert Parlor, Quick Bites","Malai Kulfi, Kulfi Faluda, Panipuri, Anjeer Kulfi, Chaat, Matka Kulfi, Mango Kulfi","Ice Cream, Desserts",250.0,Desserts
+16831,Tea Addict,Yes,No,4.0,77,HSR,Cafe,"Burgers, Ginger Tea, Sandwich, Protein Shake, Chai, Sandwiches, Fries","Cafe, Beverages",300.0,Cafes
+16848,The Wicked Cup,No,No,3.9,56,HSR,Cafe,"Waffles, Hot Chocolate, Fries","Cafe, Sandwich, Fast Food, Beverages, Desserts",350.0,Cafes
+16981,Kitchens@HSR,Yes,No,3.1,247,HSR,"Takeaway, Delivery",Raita,"Biryani, Kerala, Mughlai, Street Food, North Indian, Chinese, South Indian, Andhra",200.0,Delivery
+17020,Apsara Ice Cream,No,No,4.5,194,HSR,Dessert Parlor,"Panipuri, Kesar Pista, Guava Ice Cream, Belgian Chocolate, Kesar Kulfi","Ice Cream, Desserts",200.0,Delivery
+17049,Vasudev Adiga's,No,No,3.7,532,HSR,Casual Dining,"Pongal, Khara Bhath, Lassi, Vada, Idli, Paper Masala Dosa, Filter Coffee","South Indian, North Indian, Chinese, Street Food",250.0,Delivery
+17062,Idli & Dosa Cafe,No,No,2.6,91,HSR,Quick Bites,"Coffee, Vada, Rava Masala Dosa, Upma",South Indian,200.0,Delivery
+17086,56 Bhoga Sweets,No,No,3.6,51,HSR,"Takeaway, Delivery","Dahi Vada, Rasgulla, Samosa","Mithai, Street Food",150.0,Delivery
+17101,Shiv Shakthi,Yes,No,4.0,176,HSR,Quick Bites,"Poha, Samosa, Jalebi, Kachori","Street Food, North Indian",100.0,Delivery
+17211,Biryani Affair,Yes,No,3.5,147,HSR,Delivery,"Chicken Biryani, Raita, Mutton Biryani",Biryani,350.0,Delivery
+17227,New Punjabi Dhaba,Yes,No,3.9,783,HSR,Quick Bites,"Panneer Butter Masala, Butter Chicken, Kadhai Paneer, Egg Biryani, Paratha, Noodles, Chilli Paneer","North Indian, Chinese",300.0,Delivery
+17510,Chaat Trail By Moti Mahal,Yes,Yes,3.9,46,HSR,Quick Bites,"Chaat, Chole Bhature, Pav Bhaji, Gulab Jamun, Bhel Puri, Paneer Pakora","Street Food, Beverages, South Indian, North Indian, Ice Cream, Mithai, Rajasthani",300.0,Delivery
+17527,Just Delhiwala,Yes,No,3.8,81,Bellandur,Quick Bites,"Chole, Lassi, Paratha",North Indian,300.0,Delivery
+17548,Indian Paratha Factory,Yes,No,2.7,140,HSR,Quick Bites,"Lassi, Liti Chokha, Chicken Keema Paratha, Buttermilk, Raita, Aloo Paratha, Chocolate Paratha",North Indian,250.0,Delivery
+17582,What's Cooking,Yes,No,3.1,35,HSR,"Takeaway, Delivery",Rajma Chawal,North Indian,300.0,Delivery
+17629,Delite Chaat House,Yes,No,3.4,179,HSR,Quick Bites,"Chaat, Vada Pav, Fafda, Sandwiches, Kutchi Dabeli, Sev Puri","Street Food, Gujarati",300.0,Delivery
+17715,Zayakedar,Yes,No,4.0,251,Bellandur,Quick Bites,"Rajma, Fried Rice, Lassi, Butter Phulkas, Bhindi Fry, Thali, Butter Chicken",North Indian,250.0,Delivery
+17848,Snakk That,Yes,No,3.9,54,HSR,"Quick Bites, Beverage Shop","Burgers, Nachos, Oreo Shake, Veg Sandwich, Veg Burger","Burger, Beverages, Fast Food",250.0,Delivery
+17860,Chaat Street,Yes,No,3.8,192,HSR,Quick Bites,"Chaat, Raj Kachori, Bhel Puri, Sev Puri, Pav Bhaji, Panipuri, Vada Pav","Street Food, North Indian",250.0,Delivery
+17950,The Belgian Waffle Co.,Yes,No,4.1,130,HSR,Dessert Parlor,"Belgian Waffles, Belgian Chocolate Waffle","Desserts, Beverages",350.0,Desserts
+17954,Cake Cafe,Yes,No,4.0,158,HSR,Bakery,Blueberry Cake,"Bakery, Desserts",300.0,Desserts
+17963,Amrutha Sweets,No,No,4.1,116,HSR,Quick Bites,"Panipuri, Paratha, Badam Milk, Chaat, Chole Bhature, Raj Kachori, Rasmalai","Street Food, Mithai",200.0,Desserts
+17966,L J Iyengar Bakery,No,No,3.9,53,HSR,Bakery,"Fruit Cake, Chocolate Cake, Egg Puff",Bakery,100.0,Desserts
+17967,Cupcake Noggins,No,No,4.1,106,HSR,Dessert Parlor,"Cup Cake, Cheesecake","Desserts, Bakery",300.0,Desserts
+18009,Shree Mithai,No,No,3.7,31,HSR,Quick Bites,"Chaat, Panipuri, Badam Milk, Aloo Tikki Chat","Desserts, Street Food, Mithai",150.0,Desserts
+18319,Pappu Chaiwalla,No,No,3.9,689,HSR,Quick Bites,"Chai, Keema Fries, Sandwiches, Chicken Keema, Rajma Chawal, Ginger Tea, Momos","Fast Food, Tea, Beverages",300.0,Dine-out
+18329,Kachori Kafe,Yes,No,3.2,571,HSR,Quick Bites,"Kachori, Tea, Badam Milk, Lassi, Chaat, Paratha, Rabri","Street Food, Mithai, Desserts, North Indian",300.0,Dine-out
+18340,Foodzoo,Yes,No,3.6,123,HSR,Quick Bites,"Paratha, Puri Sabzi, Tea, Chole","North Indian, Chinese, Street Food",300.0,Dine-out
+18354,Rolls On Wheels,No,No,3.6,218,HSR,Quick Bites,"Rolls, Momos, Masala Fries, Chicken Tikka Roll, Paratha","Fast Food, Rolls, Momos",300.0,Dine-out
+18771,Chai Cafe,No,No,3.9,49,Indiranagar,Cafe,"Kadak Chai, Cutting Chai, Ginger Tea, Vada Pav, Samosa Bun",Cafe,200.0,Cafes
+18858,Tiffun,Yes,No,3.9,83,CV Raman Nagar,Quick Bites,Dal Tadka,North Indian,300.0,Delivery
+18964,Under The Tree,Yes,No,3.0,64,Domlur,Dessert Parlor,Sandwich,"Desserts, Juices, Fast Food",200.0,Delivery
+19101,Laddoos,Yes,No,2.9,229,Jeevan Bhima Nagar,"Quick Bites, Dessert Parlor","Paratha, Panipuri, Puri Sabzi, Rasgulla, Rasmalai, Pav Bhaji, Samosa Chaat","North Indian, Street Food, Mithai",250.0,Delivery
+19118,Chillikum,Yes,No,3.6,38,Indiranagar,Quick Bites,"Paneer Biryani, Vegetable Biryani, Paratha",North Indian,350.0,Delivery
+19120,All Shook Up!,Yes,No,3.9,77,Domlur,"Dessert Parlor, Beverage Shop","Sandwiches, Mint Oreo Shake, Faluda, Brownie Shake, Cheese Sandwich, Ice-cream Shake, Chicken Sandwich","Desserts, Beverages",300.0,Delivery
+19176,Juicy,Yes,No,3.8,80,Old Airport Road,Beverage Shop,"Sandwiches, Chicken Sandwich, Faluda, Egg Sandwich, Salads, Fruit Salad","Beverages, Juices, Fast Food",200.0,Delivery
+19227,Apsara Ice Cream,No,No,4.6,206,Indiranagar,Dessert Parlor,"Panipuri, Faluda, Guava Ice Cream, Kulfi, Belgian Chocolate, Coffee, Masala Chai","Ice Cream, Desserts",200.0,Delivery
+19241,Cake Genie,No,No,3.9,149,Indiranagar,Dessert Parlor,"Cup Cake, Cheesecake, Chocolate Mudpie, Tiramisu, Apple Pie, Chocolate Cake, Blueberry Cheese Cake","Desserts, Fast Food",300.0,Delivery
+19242,Namdhari's Salad Bar,No,No,3.9,82,Indiranagar,Quick Bites,"Salads, Pasta, Sandwiches, Momos, Hakka Noodles, Veg Salad, Russian Salad","Juices, Fast Food, Desserts, Salad",300.0,Delivery
+19261,Sreeraj Lassi Bar,Yes,No,3.9,169,Commercial Street,Beverage Shop,"Sweet Lassi, Faluda, Mango Lassi, Kesar Badam Kulfi, Pudina Lassi, Fruit Juices, Triple Sundae",Beverages,150.0,Delivery
+19343,Ammi's Biryani,No,No,2.7,231,Indiranagar,Quick Bites,"Seekh Kebab, Hyderabadi Biryani, Vegetable Biryani, Chicken Biryani, Raita, Kheer, Egg Biryani","Biryani, North Indian",350.0,Delivery
+19400,La Madeleine Patisserie,No,No,3.9,71,Indiranagar,"Takeaway, Delivery","Cup Cake, Cheesecake, Belgian Chocolate Cake, Chocolate Raspberry Cake, Blueberry Cheese Cake",Bakery,200.0,Delivery
+19410,Rolls On Wheels,No,No,3.2,122,Indiranagar,Quick Bites,"Rolls, Momos, Biryani, Veggie Roll, Vada, Paratha","Fast Food, Rolls, Momos",200.0,Delivery
+19433,Five Star Cafe,No,No,3.8,29,Indiranagar,Quick Bites,"Burgers, Rice",Fast Food,350.0,Delivery
+19502,Rajan's Cafe,Yes,No,2.8,79,Domlur,Quick Bites,"Coffee, Vegetable Biryani, Masala Chai, Roti","North Indian, Chinese, Fast Food",300.0,Delivery
+19621,Bhikaram Chandmal Bhujiawala,No,No,3.7,70,Jeevan Bhima Nagar,Quick Bites,"Chaat, Pav Bhaji, Panipuri, Samosa, Chole Bhature, Jalebi, Paratha","North Indian, Mithai",200.0,Delivery
+19769,KC Das - Sweet Paradise,No,No,2.9,52,Indiranagar,"Sweet Shop, Quick Bites","Rasgulla, Samosa","Mithai, Street Food",200.0,Desserts
+19775,Baskin Robbins,No,No,3.8,80,Indiranagar,Dessert Parlor,"Cotton Candy, Banana Split","Ice Cream, Desserts",250.0,Desserts
+19817,Kanti's,Yes,No,3.3,66,Thippasandra,Sweet Shop,"Thali, Paratha","Mithai, Street Food",300.0,Desserts
+20114,Mavalli Tiffin Room (MTR),No,No,4.3,1878,Indiranagar,Quick Bites,"Masala Dosa, Filter Coffee, Lunch Thali, Rava Idli, Neer Dosa, Medu Vada, Tea",South Indian,300.0,Dine-out
+20339,Shri Krishna Bhavan,No,No,3.7,96,Thippasandra,Quick Bites,"Pav Bhaji, Masala Dosa, Tea, Roti","South Indian, Chinese, North Indian, Street Food",350.0,Dine-out
+20442,The Punjabi Bites,No,No,3.9,82,Old Airport Road,Quick Bites,"Thali, Chole Bhature, Lassi, Gulab Jamun, Salad",North Indian,150.0,Dine-out
+20806,Sri Ganesh Juice Junction,Yes,No,4.1,212,Koramangala 8th Block,Beverage Shop,"Sandwiches, Sandwich, Omelette, Cheese Maggi","Beverages, Juices, Fast Food",150.0,Delivery
+20878,Lassi Corner,Yes,No,3.7,108,Basavanagudi,Beverage Shop,Lassi,"Beverages, Ice Cream",150.0,Delivery
+20881,Adithya,Yes,No,4.0,335,JP Nagar,Quick Bites,"Neer Dosa, Coffee, Pav Bhaji, Khali Dosa, Panipuri, Masala Dosa, Tea","South Indian, North Indian, Chinese",300.0,Delivery
+20913,Puliyogare Point,Yes,No,4.2,449,Basavanagudi,Quick Bites,"Sweet Pongal, Mini Idlis, Filter Coffee, Open Masala Dosa, Pakoda, Vada, Raagi Dosa",South Indian,100.0,Delivery
+20940,Prasiddhi Food Corner,Yes,No,3.7,171,JP Nagar,Quick Bites,Coffee,"Fast Food, North Indian, South Indian",200.0,Delivery
+20978,Taaza Mithai,Yes,No,3.9,48,JP Nagar,Sweet Shop,Samosa,"Mithai, Street Food",100.0,Delivery
+21165,Bhavani Chats N Juice,Yes,No,3.9,93,Jayanagar,Quick Bites,"Chaat, Aloo Tikki, Dabeli, Panipuri, Pav Bhaji, Vada Pav, Masala Poori","Beverages, Street Food",200.0,Delivery
+21193,Dosa Bazaar,Yes,No,3.9,113,JP Nagar,Quick Bites,"Cheese Dosa, Tea, Pizza Dosa","Street Food, South Indian",200.0,Delivery
+21227,Sandwich Mama's And Frozen Monster,Yes,No,3.8,55,Jayanagar,Quick Bites,"Waffles, Sandwiches, Maggi, Thick Shakes, Chocolate Sandwich","Ice Cream, Beverages, Fast Food",250.0,Delivery
+21247,Mane Holige,No,No,4.3,142,Jayanagar,"Sweet Shop, Quick Bites",Obbattu,"Mithai, South Indian",200.0,Delivery
+21297,Ibaco,Yes,No,4.0,198,Banashankari,Dessert Parlor,"Brownie, Belgium Chocolate, Tiramisu, Ice Cream Sundae",Desserts,300.0,Delivery
+21339,I Cool,Yes,No,4.0,77,JP Nagar,Quick Bites,Shawarma,"Juices, Fast Food",150.0,Delivery
+21364,The Krishna Grand Xpress,Yes,No,4.0,137,Jayanagar,Quick Bites,"Vada, Masala Dosa, Idli","South Indian, Fast Food",350.0,Delivery
+21433,Vyanjan,Yes,No,3.9,203,BTM,Quick Bites,"Poha, Jalebi, Paratha, Bhindi Masala, Kachori, Puri Sabzi, Samosa","North Indian, Street Food",300.0,Delivery
+21479,Aramane Donne Briyani,Yes,No,3.9,339,JP Nagar,Quick Bites,Chicken Kebab,"Biryani, Fast Food",300.0,Delivery
+21541,By 2 Coffee,Yes,No,4.3,319,Basavanagudi,Quick Bites,"Kharabath, Filter Coffee, Idli Vada, Crispy Vada, Kesari Bath, Hot Coffee, Tea",South Indian,100.0,Delivery
+21718,Eat Repeat,Yes,No,3.9,104,Basavanagudi,Quick Bites,"Sweet Pongal, Curd Rice",South Indian,150.0,Delivery
+21732,Nanna Munna Paratha House,Yes,No,4.0,109,BTM,Quick Bites,"Paratha, Palak Paneer",North Indian,300.0,Delivery
+21987,Sagar Fast Food,Yes,No,3.7,67,BTM,Quick Bites,"Idli, Masala Dosa","South Indian, Chinese, North Indian",300.0,Delivery
+21994,South Kitchen,Yes,No,4.3,276,Basavanagudi,Quick Bites,"Kharabath, Crispy Vada, Filter Coffee, Idli Vada, Idli Chutney, Kesari Bath, Poha",South Indian,100.0,Delivery
+22048,Pabrai's Fresh & Naturelle Icecreams,Yes,No,3.9,128,Koramangala 5th Block,Dessert Parlor,"Nolen Gurer Ice Cream, Paan Ice Cream, Nolen Gur, Gur Ice Cream, Tender Coconut Ice Cream","Ice Cream, Desserts",200.0,Delivery
+22057,Apsara Ice Cream,No,No,4.2,251,JP Nagar,Dessert Parlor,"Panipuri, Kulfi, Sitaphal Ice Cream, Guava Ice Cream, Coffee","Ice Cream, Desserts",200.0,Delivery
+22110,Rolls On Wheels,No,No,2.8,127,BTM,Quick Bites,"Rolls, Veggie Roll, Chicken Roll, French Fries","Fast Food, Rolls, Momos",300.0,Delivery
+22263,Natural Ice Cream,No,No,4.4,369,Jayanagar,Dessert Parlor,"Guava Ice Cream, Coffee Walnut, Tender Coconut Ice Cream, Waffle Cone, Mango Ice Cream, Fruit Ice Cream, Waffles","Ice Cream, Beverages",200.0,Desserts
+22268,Cool Joint,No,No,4.2,822,Jayanagar,Beverage Shop,"Sandwiches, Hot Chocolate Fudge, Faluda, Paneer Sandwich, Grilled Sandwich, Cheese Sandwich, Tomato Soup","Beverages, Desserts",250.0,Desserts
+22296,Ibaco,Yes,No,4.0,129,Jayanagar,Dessert Parlor,"Icecream Cake, Brownie, Hot Chocolate, Belgian Chocolate, Salted Caramel",Desserts,300.0,Desserts
+22297,Sri Venkateshwara Sweet Meat Stall,No,No,4.1,201,Jayanagar,Quick Bites,"Paratha, Rasgulla Chaat, Mysore Pak, Panipuri, Pav Bhaji, Malai Kulfi, Mango Lassi",Street Food,250.0,Desserts
+22302,Apsara Ice Cream,No,No,4.1,60,Jayanagar,Dessert Parlor,Friendly Staff,"Ice Cream, Desserts",200.0,Desserts
+22344,Poonam Sweets,No,No,4.4,358,Banashankari,Sweet Shop,"Dhokla, Jalebi, Badam Milk, Rabri, Rasgulla, Rasmalai, Samosa Kachori",Mithai,150.0,Desserts
+22478,Karma Kaapi,Yes,No,4.5,184,Jayanagar,Beverage Shop,"Pasta, Potato Fries, Potato Wedges, Hot Chocolate, Chaat, Filter Coffee, Americano","Beverages, Tea",250.0,Dine-out
+22535,Iyengar's Inn,No,No,4.1,53,Jayanagar,Quick Bites,"Curd Rice, Bisi Bele Bhaath, Pongal",South Indian,100.0,Dine-out
+22559,Pavithra Restaurant,No,No,3.2,135,Jayanagar,Quick Bites,"Coffee, Tomato Soup, Thali, Vada Sambar, Biryani","South Indian, North Indian, Chinese",300.0,Dine-out
+22576,Hari Super Sandwich,No,No,4.4,1833,Jayanagar,Quick Bites,"Sandwiches, Chocolate Sandwich, Potato Twister, Sev Puri, Corn Sandwich, Cheese Sandwich, Panipuri","Fast Food, Street Food",200.0,Dine-out
+22581,Bengaluru Cafe,No,No,4.5,135,Jayanagar,Quick Bites,"Vada, Kesari Bath, Idli, Coffee, Benne Masala Dosa, Kharabath, Tea",South Indian,150.0,Dine-out
+22583,Vakulaa Veg Restaurant,Yes,No,3.9,53,Jayanagar,Quick Bites,"Masala Dosa, Pongal, Tea, Bonda, Filter Coffee","South Indian, North Indian",200.0,Dine-out
+22585,Brahmin Tiffins & Coffee,No,No,4.2,424,Jayanagar,Quick Bites,"Idli, Masala Dosa, Filter Coffee, Upma, Aloo Palya, Crispy Vada, Kharabath",South Indian,100.0,Dine-out
+22595,Karnataka Bhel House,No,No,3.9,65,Jayanagar,Quick Bites,"Masala Poori, Dahipuri, Panipuri, Sev Puri, Vada Pav",Street Food,100.0,Dine-out
+22612,MDP Coffee House,No,No,3.8,38,Jayanagar,Quick Bites,"Tea, Kharabath, Filter Coffee, Idli",South Indian,200.0,Dine-out
+22622,Vasudev Adiga's,No,No,3.8,266,Jayanagar,Quick Bites,"Puri Saagu, Idli Sambar, Filter Coffee, Plain Dosa, Idli Vada, Vada Sambar, Rava Idli","South Indian, North Indian, Chinese, Street Food",250.0,Dine-out
+22623,Paratha Junction,Yes,No,3.3,399,Jayanagar,Quick Bites,Paratha,"North Indian, Chinese",300.0,Dine-out
+22624,Vijayalakshmi Veg,Yes,No,3.9,100,Jayanagar,Quick Bites,"Vada, Rava Idli, Masala Dosa, Coffee",South Indian,200.0,Dine-out
+22633,Adiga's,No,No,3.7,56,Jayanagar,Quick Bites,"Vada, Coffee, Idli, Masala Dosa",South Indian,150.0,Dine-out
+22640,Shree Venkateshwara North Karnataka Hotel,No,No,4.0,82,Jayanagar,Quick Bites,"Buttermilk, Thali, Brinjal Curry, Salad, Jowar Roti, Chilli Bhajji",South Indian,200.0,Dine-out
+22768,Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1,564,Basavanagudi,Quick Bites,"Benne Dosa, Mirchi Bajji, Filter Coffee, Poha, Tea, Butter Dosa, Crispy Dosa",South Indian,150.0,Dine-out
+22771,Mavalli Tiffin Room (MTR),No,No,4.2,875,JP Nagar,Quick Bites,"Masala Dosa, Coffee, Pongal, Rava Idli, Badam Halwa, Thali, Vada",South Indian,300.0,Dine-out
+22777,Bohra Bohra Caf,Yes,No,3.6,52,JP Nagar,Quick Bites,"Fruit Custard, Russian Cutlet",Bohri,300.0,Dine-out
+22786,The Shawarma Shop,Yes,No,4.1,382,BTM,Quick Bites,"Rumali Roti, Rumali Shawarma, Burgers, Shawarma Burger",Arabian,250.0,Dine-out
+22810,Sri Laxmi Venkateshwara Coffee Bar,No,No,4.4,344,Banashankari,Quick Bites,"Masala Dosa, Idli Chutney, Kharabath, Filter Coffee, Kesari Bath, Idli Vada, Maddur Vada",South Indian,100.0,Dine-out
+22847,Bhukkhad Baba,Yes,No,3.7,133,JP Nagar,Quick Bites,"Paratha, Thali","North Indian, Beverages",250.0,Dine-out
+22907,SLV Swadishta,No,No,3.8,191,Banashankari,Quick Bites,"Coffee, Jeera Rice, Masala Dosa, Set Dosa, Neer Dosa",South Indian,300.0,Dine-out
+22952,SLV Restaurant,No,No,4.1,379,JP Nagar,Quick Bites,"Masala Dosa, Handi Biryani, Maddur Vada, Filter Coffee, Goli Bajji, Kesari Bath, Rava Idli","South Indian, North Indian, Chinese",300.0,Dine-out
+23038,Pappu Chaiwalla,No,No,3.6,141,JP Nagar,Quick Bites,"Tea, Chocolate Cookies, Ginger Chai, Masala Chai, Poori Bhaji, Sulemani Chai, Sandwich","Fast Food, Tea, Beverages",300.0,Dine-out
+23147,Sri Krishna Sagar,No,No,3.1,54,JP Nagar,Quick Bites,"Tea, Masala Dosa, Vada","South Indian, North Indian, Chinese, Street Food",300.0,Dine-out
+23294,Easy Bites,Yes,No,4.1,66,JP Nagar,"Takeaway, Delivery","Sandwich, Crispy Chicken, French Fries","Fast Food, Sandwich",300.0,Delivery
+23306,Al-Bek,Yes,No,3.6,209,JP Nagar,"Takeaway, Delivery","Chicken Grill, Biryani","Biryani, North Indian, Charcoal Chicken, Chinese, Seafood, Rolls",300.0,Delivery
+23322,Nellore Bhojanam,Yes,No,3.1,178,Bannerghatta Road,Quick Bites,Biryani,Andhra,250.0,Delivery
+23323,Sagar Deluxe,Yes,No,3.2,170,Kumaraswamy Layout,Quick Bites,"Coffee, Chaat","South Indian, North Indian, Chinese, Juices",300.0,Delivery
+23334,Kitchen Garden,Yes,No,3.6,247,Kumaraswamy Layout,Quick Bites,Biryani,"North Indian, Chinese",300.0,Delivery
+23341,Just Shawarma,Yes,No,4.3,794,Jayanagar,Quick Bites,"Whole Meat Shawarma, Malgoum Shawarma, Rolls, Pita Bread, Kerala Parotta",Arabian,300.0,Delivery
+23420,Brundhavana Food Point,Yes,No,4.0,193,Kumaraswamy Layout,Quick Bites,Biryani,"South Indian, North Indian, Chinese, Street Food, Beverages",300.0,Delivery
+23625,Ande Ka Funda,Yes,No,3.3,117,Kumaraswamy Layout,Quick Bites,"Rolls, Chicken Egg Roll, Aloo Paratha, Sattu Paratha, Paneer Roll","North Indian, Fast Food, Rolls",250.0,Delivery
+23796,Dream a Dozen,Yes,No,4.3,134,JP Nagar,Delivery,"Cup Cake, Cake Pops, Chocolate Truffle Cake, Brownie","Bakery, Desserts",300.0,Delivery
+24064,Rolls On Wheels,No,No,3.1,138,JP Nagar,Quick Bites,"Rolls, Veg Momos, Masala Fries","Fast Food, Rolls, Momos",300.0,Delivery
+24334,Natural Ice Cream,No,No,4.3,425,Bannerghatta Road,Dessert Parlor,"Chocolate Almond, Tender Coconut Ice Cream, Choco Almond, Coffee Walnut, Custard Apple","Ice Cream, Beverages",200.0,Delivery
+24509,Multi Cakes,No,No,3.8,73,JP Nagar,Bakery,Chocolate Cake,"Bakery, Desserts",200.0,Desserts
+25475,Chaai Resto,Yes,No,3.9,97,Kalyan Nagar,Cafe,"Ginger Tea, Poha, Ginger Chai, Paratha, Chaai, Sandwiches, Elaichi Tea","Cafe, Fast Food, Beverages",350.0,Cafes
+25523,Sikori,Yes,No,4.2,376,Kalyan Nagar,Quick Bites,"Kesaria Lassi, Chaat, Pav Bhaji, Paratha, Rasmalai, Jalebi Rabri, Tea","Street Food, North Indian",350.0,Delivery
+25529,Marwari Basa,Yes,No,3.8,128,Nagawara,Quick Bites,"Paratha, Lassi, Dal Bati, Kachori, Roti, Churma, Liti Chokha","Rajasthani, North Indian",300.0,Delivery
+25530,Krispy Kreme,No,No,3.9,87,Kalyan Nagar,Dessert Parlor,"Donut, Coffee","Desserts, Beverages",300.0,Delivery
+25542,Brahmins' Thatte Idli,Yes,No,4.1,189,Kalyan Nagar,Quick Bites,Thatte Idli,South Indian,100.0,Delivery
+25591,Facebake,Yes,No,3.7,50,Rammurthy Nagar,Dessert Parlor,"Butterscotch Cake, Irish Coffee","Desserts, Bakery",300.0,Delivery
+25612,Foodies Choice,Yes,No,3.7,48,Nagawara,"Takeaway, Delivery","Rolls, Chicken Roll, Burgers, Egg Sandwich","Arabian, Chinese, Fast Food, Beverages",150.0,Delivery
+25649,Ibaco,Yes,No,3.9,84,Nagawara,Dessert Parlor,"Belgian Chocoholic, Italian Wonder",Desserts,300.0,Delivery
+25672,Goli Vada Pav No. 1,Yes,No,3.7,91,Kalyan Nagar,Quick Bites,"Kulfi, Masala Vada Pav",Street Food,200.0,Delivery
+25743,Oye Hoye,Yes,No,3.8,69,Kalyan Nagar,Quick Bites,"Paratha, Kheer, Thali, Roti, Rajma, Paneer Chatpata",North Indian,300.0,Delivery
+25795,Chaat Street,Yes,No,4.1,498,Kalyan Nagar,Quick Bites,"Chaat, Pav Bhaji, Paratha, Lassi, Panipuri, Dahipuri, Bhel Puri","Street Food, North Indian",250.0,Delivery
+25803,Jai Mataji Farshan & Sweets,Yes,No,3.8,48,Banaswadi,"Sweet Shop, Quick Bites","Dabeli, Vada Pav, Dhokla, Farsan, Samosa, Jalebi","Mithai, Street Food",150.0,Delivery
+25814,Natural Ice Cream,No,No,4.3,259,Kalyan Nagar,Dessert Parlor,"Custard Apple, Watermelon Ice Cream","Ice Cream, Beverages",200.0,Delivery
+25837,Sreeraj Lassi Bar,Yes,No,4.0,120,Kammanahalli,"Dessert Parlor, Beverage Shop","Kulfi, Sweet Lassi, Pineapple Lassi, Rose Faluda","Beverages, Desserts, Juices",150.0,Delivery
+25898,The ThickShake Factory,No,No,4.1,107,Kalyan Nagar,Beverage Shop,Thick Shakes,"Beverages, Juices",350.0,Delivery
+26066,Cottage Loaf,Yes,No,4.0,50,Hennur,"Bakery, Quick Bites","Burgers, Plum Cake","Bakery, Fast Food",250.0,Delivery
+26095,Cafe Beirut,No,No,3.7,41,Kammanahalli,Quick Bites,Shawarma,Arabian,250.0,Delivery
+26205,Mugful Of Stories,No,No,4.6,274,Kalyan Nagar,Dessert Parlor,"Hot Chocolate, Peri Peri Fries, French Fries, Chocolate Churros, Cheese Nuggets","Desserts, Bakery",300.0,Desserts
+26226,Ibaco,Yes,No,3.9,90,Kalyan Nagar,Dessert Parlor,Icecream Cake,Desserts,300.0,Desserts
+26447,Chetty's Coffee,No,No,3.5,87,Kalyan Nagar,Quick Bites,"Masala Dosa, Caramel Coffee, Filter Coffee, Vada",South Indian,150.0,Dine-out
+26674,Srinidhi Upachar,No,No,3.6,70,Banaswadi,Quick Bites,"Coffee, Vada, Masala Dosa, Gulab Jamun","South Indian, Chinese",200.0,Dine-out
+26726,Sri Devi Sagar,No,No,3.7,161,Banaswadi,Quick Bites,Masala Dosa,"South Indian, North Indian, Chinese, Street Food",300.0,Dine-out
+27409,The Filter Coffee,Yes,No,4.1,620,Kalyan Nagar,Quick Bites,"Filter Coffee, Vada, Masala Dosa, Pongal, Idli, Onion Uttapam, Kesari Bath","South Indian, Coffee",200.0,Delivery
+27416,Calcutta Victoria Chat House,Yes,No,2.8,132,Banaswadi,Quick Bites,"Chaat, Paratha, Panipuri, Pav Bhaji, Dahipuri, Tea, Rolls","Fast Food, Street Food",200.0,Delivery
+27714,Sangam Mess,No,No,4.2,232,Kammanahalli,Mess,"Beef Biryani, Beef Fry, Beef Curry, Roast Beef, Masala Prawn, Fish, Kerala Parotta","South Indian, Biryani, North Indian",300.0,Dine-out
+27762,Al Amanah Cafe,Yes,No,4.4,1514,Kammanahalli,Quick Bites,"Rolls, Falafel Roll, Jumbo Chicken Roll, Chicken Kudu Roll, Spicy Roll, Mutton Roll, Shawarma","Middle Eastern, Fast Food, Rolls",300.0,Dine-out
+27763,Kaapikada,No,No,3.8,33,Kammanahalli,Quick Bites,"Biryani, Appam, Chicken Curry","Kerala, Fast Food, Beverages",250.0,Dine-out
+27769,Chickpet Donne Biryani House,Yes,No,3.8,189,Kammanahalli,Quick Bites,"Mutton Biryani, Donne Biryani, Mutton Fry, Chicken Guntur, Chicken Biryani",Biryani,250.0,Dine-out
+27772,Just Shawarma,Yes,No,3.7,119,Kammanahalli,Quick Bites,"Malgoum Shawarma, French Fries","Arabian, Fast Food",300.0,Dine-out
+27779,Gold Line Breadz,No,No,3.7,54,Kammanahalli,"Bakery, Quick Bites","Sandwiches, Sausage Roll, Garlic Bread","Bakery, Fast Food, Desserts",350.0,Dine-out
+27790,Pathaan Sir,Yes,No,3.7,59,Kammanahalli,Quick Bites,"Rolls, French Fries, Paratha","Rolls, Chinese",300.0,Dine-out
+27799,Le Roll Cafe,Yes,No,3.9,57,Kammanahalli,Quick Bites,"Shawarma, Rolls","Fast Food, Beverages, Rolls",300.0,Dine-out
+27830,Sannidhi Grand,Yes,No,3.8,52,Kammanahalli,Quick Bites,"Coffee, Roti, Masala Dosa","South Indian, North Indian, Chinese, Street Food",300.0,Dine-out
+27855,Sri Durga Nellore Mess,Yes,No,3.4,356,Banaswadi,Mess,"Chicken Fry, Masala Prawn","Andhra, South Indian, Biryani",350.0,Dine-out
+27881,The Filter Coffee,No,No,4.0,55,Banaswadi,Mess,"Filter Coffee, Masala Dosa, Vada","South Indian, Coffee",200.0,Dine-out
+28023,Mavalli Tiffin Room (MTR),No,No,4.1,208,Kalyan Nagar,Quick Bites,"Coffee, Rava Idli, Kesari Bath, Rava Masala Dosa, Thali, Badam Halwa, Vada",South Indian,250.0,Dine-out
+28027,Donne Biriyani Mane,No,No,3.8,164,Banaswadi,Quick Bites,"Pepper Chicken, Donne Biryani, Chicken Biryani, Chicken Kebab",Biryani,300.0,Dine-out
+28038,Despiwich Dragon's Kitchen,Yes,No,3.8,72,Banaswadi,Quick Bites,"Sandwiches, Sandwich, Oreo Shake, French Fries","Chinese, Fast Food",250.0,Dine-out
+28043,Donne Biryani Kuteera,Yes,No,3.8,301,Banaswadi,Quick Bites,"Donne Biryani, Pepper Chicken",Biryani,200.0,Dine-out
+28044,Matru Sagar,Yes,No,4.0,332,Kalyan Nagar,Quick Bites,"Vada, Butter Masala Dosa, Coffee","South Indian, North Indian, Chinese",300.0,Dine-out
+28055,Upsouth,Yes,No,3.8,59,Banaswadi,Food Court,"Filter Coffee, Sandwich, Bonda, Vada, Masala Dosa, Salad, Aloo Curry",South Indian,300.0,Dine-out
+28060,Srinidhi Veg Food Court,Yes,No,3.9,100,Kalyan Nagar,Quick Bites,"Filter Coffee, Onion Rava Masala Dosa, Tea, Chole Bhature, Roti, Noodles, Vada","Chinese, North Indian, South Indian",300.0,Dine-out
+28068,Cafe Nukkad,Yes,No,4.0,91,Kalyan Nagar,Quick Bites,"Chicken Cheese Sandwich, Cheese Sandwiches, Chocolate Sandwich, Chocolate Sandwiches, French Fries, Teriyaki Chicken",Fast Food,200.0,Dine-out
+28076,29 Degrees North,Yes,No,3.9,287,Banaswadi,Quick Bites,"Chaat, Paratha, Vada Pav, Dal Makhani, Paneer Bhurji, Rabri, Kulcha","North Indian, Fast Food, Street Food",250.0,Dine-out
+28109,New Udupi Upahara,No,No,3.7,85,Kalyan Nagar,Quick Bites,"Panneer Butter Masala, Vada, Filter Coffee, Tandoori Roti","Chinese, North Indian, South Indian",200.0,Dine-out
+28202,Sanky's Burger House,Yes,No,4.3,345,Hennur,Quick Bites,"Burgers, Fried Cheese, Cheesy Fries, Oreo Shake, Pulled Beef Burger, Beef Patty, Cheese Balls","Burger, Fast Food",300.0,Dine-out
+28327,Barista,No,No,3.6,36,Koramangala 4th Block,Cafe,"Cappuccino, Sandwich",Cafe,300.0,Cafes
+28408,Chaai Resto,No,No,3.6,54,Koramangala 6th Block,"Beverage Shop, Quick Bites","Ginger Tea, Poha, Irani Chai, Chaai, Sandwich, Thick Shakes","Tea, Beverages, Fast Food",250.0,Cafes
+28440,Fish Chain,Yes,No,4.0,58,HSR,"Takeaway, Delivery",Mustard Fish Curry,"Seafood, BBQ, Biryani",250.0,Delivery
+28481,Sagar Fast Food,Yes,No,4.0,138,Koramangala 8th Block,Quick Bites,Neer Dosa,"South Indian, North Indian, Street Food, Chinese",250.0,Delivery
+28575,Sri Udupi Park,Yes,No,4.0,65,HSR,Casual Dining,Tea,"South Indian, North Indian, Chinese, Beverages",300.0,Delivery
+28589,Tarbouche,Yes,No,4.0,269,Koramangala 5th Block,Kiosk,"Falafel, Lamb Kebab, Rolls, Fattoush, Teriyaki Chicken, Fries, Shawarma","Turkish, Rolls",300.0,Delivery
+28792,Goli Vada Pav No. 1,Yes,No,3.7,215,Koramangala 5th Block,Quick Bites,"Cheese Vada Pav, Kulfi, Burgers, Tikki, Cheese Fingers, Schezwan Vada Pav",Street Food,200.0,Delivery
+28808,GKT Biryani World,Yes,No,3.7,85,HSR,Quick Bites,"Pizza, Chicken Biryani","Biryani, Italian, BBQ",350.0,Delivery
+28835,EggFactor - Street House,Yes,No,4.2,62,HSR,Kiosk,"Omelette, Chicken Grill",Fast Food,200.0,Delivery
+28871,The Shawarma Inc,Yes,No,3.4,95,Koramangala 5th Block,Quick Bites,"Whole Meat Shawarma, Jumbo Shawarma, Spicy Shawarma, Momos","Arabian, Fast Food",200.0,Delivery
+28911,The Mylapore Cafe,Yes,No,4.1,121,HSR,Quick Bites,"Masala Dosa, Pongal, Filter Coffee, Tea, Idli","South Indian, Kerala",200.0,Delivery
+28924,Srinidhi Sagar Deluxe,Yes,No,3.6,108,Domlur,Quick Bites,"Idli, Coffee, Masala Dosa, Fruit Juices, Vada, Thali, Manchurian","South Indian, North Indian, Chinese",40.0,Delivery
+28948,The Waffle Street,Yes,No,3.9,55,HSR,"Quick Bites, Dessert Parlor","Waffles, Pasta Alfredo, Hot Coffee","Continental, Beverages, Burger, Coffee, Desserts",300.0,Delivery
+28959,Southinn,Yes,No,3.8,191,HSR,Quick Bites,"Vada, Idli, Masala Dosa, Filter Coffee, Tea, Sandwiches","South Indian, Fast Food, Chinese, North Indian, Street Food",250.0,Delivery
+28972,Chaai Resto,Yes,No,3.9,93,HSR,"Beverage Shop, Quick Bites","Burgers, Chai, Paratha, Sandwich, Ginger Tea, Chaat, Oreo Shake","Tea, Beverages, Fast Food",250.0,Delivery
+28994,Juicy Momos,Yes,No,3.6,69,Koramangala 5th Block,Quick Bites,"Veg Momos, Burgers, Chocolate Momos, Momo Burger, Whole Meat Shawarma, Paneer Momos","Tibetan, Momos",250.0,Delivery
+29008,Mangala Hotel,Yes,No,3.6,97,Koramangala 1st Block,Quick Bites,"Masala Dosa, Biryani, Chicken Stew, Tea, Appam, Paratha","Kerala, Chinese, North Indian",300.0,Delivery
+29027,Litti Twist,Yes,No,4.2,106,Hosur Road,Quick Bites,"Paratha, Liti Chokha, Buttermilk, Tea, Aloo Litti, Raita","Bihari, North Indian",300.0,Delivery
+29030,Chapati House,Yes,No,3.9,34,Ejipura,Quick Bites,Naan,North Indian,300.0,Delivery
+29035,Khan Saheb Grills and Rolls,Yes,No,3.8,63,Hosur Road,Quick Bites,"Rolls, Veggie Roll, Chicken Tikka Roll, Beda Roti","Fast Food, Rolls",350.0,Delivery
+29203,Big Mishra Pedha,No,No,3.7,61,BTM,Sweet Shop,Rasmalai,Mithai,250.0,Delivery
+29349,Cupcake Noggins,No,No,4.1,724,Koramangala 4th Block,"Dessert Parlor, Bakery","Cup Cake, Truffle, Raspberry Cheesecake, Burgers, Blueberry Cheesecake, Chocolate Chocochip, Chocolate Crunch","Desserts, Bakery",300.0,Delivery
+29361,Paratha Plaza,No,No,3.9,220,Koramangala 4th Block,Quick Bites,"Dum Aloo, Sweet Lassi, Aloo Paratha, Biryani",North Indian,250.0,Delivery
+29448,Kick Out the Jams,Yes,No,4.0,529,Ejipura,Delivery,"Burgers, Pizza, Bacon Burger, Wings, Cheesecake, Chicken Burger, Pepperoni","Burger, American, Italian",350.0,Delivery
+29734,The ThickShake Factory,No,No,4.3,236,Koramangala 7th Block,Beverage Shop,"Thick Shakes, Belgium Chocolate, Triple Choco Chip, Chocolate Thickshake, Brownie Shake, Mango Blast, Belgian Chocolate Shake","Beverages, Juices",350.0,Delivery
+29748,Falahaar,No,No,3.9,154,Koramangala 6th Block,Quick Bites,"Sabudana Khichdi, Pav Bhaji, Pyaz Kachori, Chole Bhature, Faluda, Malai Ghewar, Lassi","North Indian, Street Food",200.0,Delivery
+29814,Delightz,No,No,4.0,40,Koramangala 6th Block,Dessert Parlor,"Waffles, Burgers, Tea, Pasta, Garlic Bread","Desserts, Fast Food",300.0,Delivery
+29839,The Sweet Spot,No,No,4.0,157,Koramangala 6th Block,Dessert Parlor,"Brownie, Vanilla Ice Cream",Desserts,300.0,Delivery
+29960,Hotel Feast Ambur Biriyani,Yes,No,3.4,257,Koramangala 1st Block,Quick Bites,"Chicken Biryani, Chicken Kebab","Biryani, Kebab",250.0,Delivery
+30506,Chai Point,No,No,4.0,293,Koramangala 6th Block,"Beverage Shop, Quick Bites","Ginger Tea, Masala Tea, Banana Cake, Poha, Samosa, Vada Pav, Sandwiches","Tea, Beverages, Fast Food",250.0,Dine-out
+30552,Uday Sweets,Yes,No,3.5,34,Koramangala 6th Block,Sweet Shop,"Jalebi, Poha, Puri Sabzi","Mithai, Fast Food",250.0,Dine-out
+30636,Madurai Idly Shop,No,No,3.7,468,Koramangala 6th Block,Quick Bites,"Tea, Upma, Coffee, Pongal, Podi Idli, Masala Vada, Mini Idlis",South Indian,200.0,Dine-out
+30651,Ramji Chaiwale,Yes,No,3.8,94,Koramangala 1st Block,Quick Bites,"Chai, Ginger Tea, Maggi, Aloo Paratha, Samosa, Coffee, Sandwich","Beverages, Fast Food",250.0,Dine-out
+30723,Ande Ka Funda,No,No,3.7,73,Koramangala 7th Block,Quick Bites,"Rolls, Aloo Paratha, Lassi, Bread Omelette","North Indian, Chinese, Rolls",250.0,Dine-out
+30729,Rolls On Wheels,No,No,2.6,153,Koramangala 1st Block,Quick Bites,"Rolls, Momos, Masala Fries, Kulfi, French Fries, Egg Roll, Paneer Roll","Fast Food, Rolls, Momos",300.0,Dine-out
+30765,Udupi Upahara,No,No,3.6,47,Koramangala 1st Block,Quick Bites,"Filter Coffee, Masala Dosa","South Indian, North Indian",300.0,Dine-out
+30871,Pathaan Sir,Yes,No,3.8,132,Koramangala 7th Block,Quick Bites,"Rolls, Momos, Chicken Egg Roll, Fries, Cheese Roll, Veggie Roll","Rolls, Chinese",300.0,Dine-out
+30882,Dhang Ka Khana,Yes,No,3.7,34,Ejipura,Quick Bites,Panneer Butter Masala,North Indian,200.0,Dine-out
+30940,Raghavendra Tiffin,No,No,4.4,228,HSR,Quick Bites,"Idli Sambar, Bisi Bele Bhaath, Podi Masala Dosa, Tea, Filter Coffee, Curd Rice, Vada",South Indian,150.0,Dine-out
+30974,Sri Dalma,Yes,No,3.8,78,HSR,Quick Bites,"Thali, Mutton Handi","Oriya, Bengali",350.0,Dine-out
+31424,Easy Bites,Yes,No,4.1,77,BTM,"Takeaway, Delivery","Potato Wedges, Chicken Shawarama, Popcorn Chicken","Fast Food, Sandwich",300.0,Delivery
+31437,Kullad Cafe,Yes,No,3.9,333,BTM,Cafe,"Tea, Paratha, Poha, Coffee, Chai, Sandwiches, Maggi","North Indian, Cafe, Fast Food, Beverages",200.0,Delivery
+31458,Shree Muthahalli Veg,Yes,No,4.2,850,HSR,Quick Bites,"Rava Idli, Filter Coffee, Tea, Vada, Paper Masala Dosa, Donne Biryani","South Indian, North Indian, Chinese, Juices, Ice Cream",300.0,Delivery
+31534,Aramane Donne Biriyani,Yes,No,3.9,192,BTM,Quick Bites,"Egg Biryani, Donne Biryani","Biryani, Fast Food",300.0,Delivery
+31543,Sangam Sweets,Yes,No,3.9,149,HSR,Sweet Shop,"Pav Bhaji, Chaat, Paratha, Chole Bhature, Panipuri, Dhokla, Dahi Bhalle","Mithai, Street Food",200.0,Delivery
+31609,The Pancake Story,Yes,No,4.6,121,Koramangala 1st Block,Dessert Parlor,"Pancakes, Waffles, Popcorn, Nachos, Tea, Savoury Crepe, Hot Chocolate","Desserts, Beverages",300.0,Delivery
+31676,Krispy Kreme,Yes,No,3.9,151,HSR,Dessert Parlor,"Donut, Chocolate Doughnut, Chocolate Milkshake, Filter Coffee","Desserts, Beverages",300.0,Delivery
+31701,Bite Me Cupcakes,Yes,No,4.1,192,Koramangala 4th Block,Dessert Parlor,"Cup Cake, Chocolate Cake",Desserts,300.0,Delivery
+31752,House Stark Cafe,Yes,No,3.9,46,HSR,Cafe,Fries,"Cafe, Desserts, Fast Food, Burger",300.0,Delivery
+31907,Hunger Hitman,Yes,No,3.8,258,Koramangala,Delivery,"Halwa, Chicken Biryani, Butter Chicken, Kheer, Brownie Chocolate, Chilli Chicken, Raita","North Indian, Chinese",300.0,Delivery
+31933,Juice Junction,Yes,No,4.0,139,Koramangala 5th Block,"Beverage Shop, Quick Bites","Fruit Bowl, Grape Juice, Nannari Sharbat, Cheese Sandwich, Tea, Cheese Sandwiches, Orange Juice","Juices, Fast Food, South Indian, Chinese",200.0,Delivery
+31976,Paratha Plaza,Yes,No,3.9,41,Koramangala 5th Block,Quick Bites,Sattu Paratha,North Indian,250.0,Delivery
+32044,Coffee Tea & More,Yes,No,4.0,64,Koramangala 5th Block,Quick Bites,"Ginger Tea, Filter Coffee, Sandwich, Poha, Waffles, Vada","Beverages, Sandwich",150.0,Delivery
+32329,Rajvardhan Foods,Yes,No,3.9,316,Jayanagar,Quick Bites,"Vada Pav, Misal Pav, Sabudana Vada, Dabeli, Pav Bhaji, Sabudana Khichdi, Lassi","Street Food, Maharashtrian",300.0,Delivery
+32347,Momo Hut,Yes,No,4.0,685,Koramangala 5th Block,Quick Bites,"Noodles, Beef Momos, Chicken Shaptra, Chicken Thukpa, Clear Soup, Beef Momo, Chicken Thupka","Chinese, Tibetan, Momos",250.0,Delivery
+32485,The Food Dude,Yes,No,3.9,179,Koramangala 6th Block,Delivery,"Burgers, Pizza, Pasta, Momos, Wings, Chilli Paneer","Fast Food, Burger, Sandwich, Pizza",300.0,Delivery
+33553,Fabindia Cafe,No,No,4.2,226,Koramangala 2nd Block,Cafe,"Paneer Roll, Masala Chai, Masala Tea, Aloo Paratha, Chaat, Brownie Chocolate, Methi Paratha","Cafe, Street Food",200.0,Dine-out
+33698,Podi Idly,Yes,No,4.3,656,Koramangala 6th Block,Quick Bites,"Podi Idli, Masala Dosa, Pongal, Coffee, Mini Idlis, Appam, Raagi Dosa",South Indian,250.0,Dine-out
+33761,Jai Jinendra,No,No,4.0,99,Koramangala 6th Block,Quick Bites,"Dhokla, Raj Kachori, Panipuri, Jalebi, Pyaz Kachori","Street Food, Beverages",200.0,Dine-out
+34065,Fillers,Yes,No,3.9,140,BTM,Quick Bites,"Pizza Parantha, Chai, Paratha, Fries, Cheese Maggi, Rajma Chawal","North Indian, Fast Food",300.0,Dine-out
+34615,Kannur Food Point,Yes,No,3.7,217,BTM,Quick Bites,Roast Chicken,"Kerala, Chinese",200.0,Delivery
+34619,Roti Wala,Yes,No,4.0,201,BTM,Quick Bites,"Gulab Jamun, Buttermilk, Egg Bhurji, Sprout Salad, Roti",North Indian,300.0,Delivery
+34637,Al-Bek,Yes,No,3.6,140,HSR,"Takeaway, Delivery","Mutton Biryani, Chicken Biryani, Shawarma, Kalmi Kabab, Butter Chicken, Chicken Grill, Garlic Chicken","Biryani, North Indian, Charcoal Chicken, Chinese, Seafood, Rolls",300.0,Delivery
+34698,Bihar Ki Shan,Yes,No,3.8,351,HSR,Quick Bites,Roti,North Indian,300.0,Delivery
+34750,Pathaan Sir,Yes,No,3.9,184,BTM,Quick Bites,"Rolls, Momos, Paratha, Chicken Tikka Roll, Mutton Keema, Egg Roll","Rolls, Chinese",300.0,Delivery
+34766,Dosa Plaza,Yes,No,3.8,141,Koramangala 5th Block,Quick Bites,Masala Dosa,"South Indian, North Indian, Chinese, Beverages",200.0,Delivery
+34865,Karahi Kitchen,Yes,No,4.1,168,Koramangala 5th Block,Delivery,Chicken Biryani,"Andhra, Biryani, Chinese",300.0,Delivery
+35876,Apsara Ice Cream,No,No,4.2,171,Koramangala 5th Block,Dessert Parlor,"Panipuri, Blueberry Cheesecake",Ice Cream,200.0,Delivery
+36369,Delite Chaat House,Yes,No,3.9,503,Koramangala 6th Block,Quick Bites,"Chaat, Dabeli, Pav Bhaji, Dhokla, Gujarati Food, Jalebi, Panipuri","Street Food, Gujarati",300.0,Dine-out
+36778,Sree Krishna Kafe,Yes,No,4.2,973,Koramangala 5th Block,Quick Bites,"Filter Coffee, Lunch Thali, Idli, Mini Idlis, Ghee Masala Dosa, Rasam Vada, Pongal",South Indian,200.0,Dine-out
+36782,Khawa Karpo,No,No,4.3,996,Koramangala 5th Block,Quick Bites,"Momos, Noodles, Thukpa, Chicken Thupka, Manchow Soup, Chicken Momo, Crispy Honey Chicken","Chinese, Tibetan, Momos",350.0,Dine-out
+36798,Atta Galata,No,No,4.1,210,Koramangala 5th Block,Quick Bites,"Sandwiches, Masala Pav, Chicken Burger, Filter Coffee, Burgers, Masala Chai, French Fries","Bakery, Beverages",200.0,Dine-out
+36901,Delhi Food Point,Yes,No,3.3,912,Koramangala 1st Block,Quick Bites,"Jeera Rice, Corn Paratha, Paneer Bhurji, Gobhi Matar, Vegetarian, Sweet Lassi, Dal Fry","North Indian, Beverages",250.0,Dine-out
+37024,Chaiwala,Yes,No,3.1,54,Koramangala 1st Block,Quick Bites,"Poha, Bread Omelette, Ginger Chai, Ginger Tea",Fast Food,100.0,Dine-out
+37099,The Biriyani Pedia,Yes,No,4.0,59,BTM,Quick Bites,"Chicken Stew, Ghee Rice, Chai, Beef Biryani","Biryani, North Indian",300.0,Dine-out
+37528,Fish Chain,Yes,No,4.1,58,BTM,"Takeaway, Delivery",Sea Food,"Seafood, BBQ, Biryani",250.0,Delivery
+37558,Swadista Aahar,Yes,No,4.1,790,BTM,Quick Bites,"Panneer Butter Masala, Idli, Masala Dosa, Vada, Coffee, Roti, Thali","South Indian, North Indian, Chinese, Street Food",300.0,Delivery
+37562,Just Shawarma,Yes,No,4.0,414,Koramangala 5th Block,Quick Bites,"Whole Meat Shawarma, Fries, Jumbo Shawarma, Malgoum Shawarma, Rolls, Chicken Shawarama, Kerala Parotta",Arabian,300.0,Delivery
+37595,Kalingas,Yes,No,3.9,185,BTM,Quick Bites,"Rasgulla, Mutton Kosha, Chicken Kasha, Samosa Chaat, Kheer, Veg Thali","Oriya, Fast Food",250.0,Delivery
+37600,Bathinda Tandoor,Yes,No,3.9,64,BTM,Quick Bites,Friendly Staff,North Indian,300.0,Delivery
+37609,Paratha Junction,Yes,No,3.0,179,BTM,Quick Bites,"Paratha, Kadai Paneer","North Indian, Chinese",300.0,Delivery
+37612,Hatti Punjab Di,Yes,No,3.9,237,Koramangala 1st Block,"Takeaway, Delivery","Aloo Paratha, Burgers, Momos, Gulab Jamun, Mutton Roganjosh, Noodles, Butter Chicken","North Indian, Chinese",250.0,Delivery
+37613,Ambur Biryani Point,Yes,No,4.2,430,Koramangala 1st Block,Quick Bites,"Ambur Biryani, Mutton Biryani, Raita","Biryani, Kebab",250.0,Delivery
+37634,Mysuru Coffee Thindi,Yes,No,4.1,312,Jayanagar,Quick Bites,"Coffee, Masala Dosa, Tea, Badam Milk, Vada, Idli, Raagi Dosa","South Indian, Coffee",200.0,Delivery
+37673,Krispy Kreme,Yes,No,4.0,254,Jayanagar,Dessert Parlor,"Coffee, Chocolate Donut, Chocolate Dreamcake, Cookie Crunch, Double Chocolate Cake, Hot Chocolate","Desserts, Beverages",300.0,Delivery
+37689,Asha Tiffins,Yes,No,4.3,287,HSR,Quick Bites,"Vada, Masala Dosa, Kharabath, Filter Coffee, Kesari Bath, Idli Sambar",South Indian,150.0,Delivery
+37702,Kedia's Fun Food,Yes,No,4.3,635,Jayanagar,Quick Bites,"Paratha, Vada Pav, Chaat, Pav Bhaji, Panipuri, Masala Poori, Dhokla","North Indian, Street Food, Juices",200.0,Delivery
+37705,Sardarji Ka Dhaba,Yes,No,4.0,760,Hosur Road,Quick Bites,"Lassi, Punjabi Chicken, Paratha, Kadhai Murgh, Butter Naan, Lemon Chicken, Roti",North Indian,250.0,Delivery
+37733,SL Vadapav,Yes,No,4.0,82,Jayanagar,Quick Bites,"Dabeli, Samosa, Tawa Pulav, Cheese Vada Pav",Maharashtrian,100.0,Delivery
+37806,Yum In My Tum,Yes,No,4.2,120,BTM,Quick Bites,"Momos, Pizza Sandwich, Manchow Soup, Chowmein, Spring Roll, Noodles, White Pasta","Chinese, Continental, Fast Food, Healthy Food",300.0,Delivery
+37862,The Bong Palate,Yes,No,3.8,64,BTM,Quick Bites,"Mutton Kosha, Basanti Pulao, Fish Curry, Chicken Biryani","Bengali, North Indian, Chinese",300.0,Delivery
+37888,Mystique Palate,Yes,No,4.1,340,Jayanagar,Quick Bites,"Noodles, Pasta, Schezwan Momos, Chicken Momo, Teriyaki Chicken, Thukpa, Fries","Chinese, Fast Food",300.0,Delivery
+37924,Zangos Grill,Yes,No,4.0,189,Koramangala 1st Block,Delivery,"Burgers, Pita Bread, Chicken Grill, French Fries, Peri Peri Chicken","BBQ, Fast Food",300.0,Delivery
+37944,Pappu Chaiwalla,Yes,No,3.1,90,BTM,Quick Bites,"Ginger Chai, Ginger Tea, Pakoda, Paratha, Maggi, Pav Bhaji, Sulemani Chai","North Indian, Momos, Rolls, Fast Food",300.0,Delivery
+37956,Momo Blues,Yes,No,3.9,28,Koramangala 5th Block,Quick Bites,"Momos, Noodles","Chinese, Momos, Nepalese, Tibetan",200.0,Delivery
+38031,Ice Cream Works,Yes,No,4.1,194,Jayanagar,Dessert Parlor,"Paan Ice Cream, Madagascar Chocolate, Faluda, Cheesecake, Bubble Gum Ice Cream","Desserts, Ice Cream",300.0,Delivery
+38037,Petoo,Yes,No,3.9,60,Koramangala 4th Block,Quick Bites,"Gulab Jamun, Samosa, Paratha, Paneer Curry, Biryani, Chaat, Veg Cutlet","North Indian, South Indian",300.0,Delivery
+38046,Sandwichwallas,Yes,No,3.9,105,Jayanagar,Quick Bites,"Garlic Bread, Sandwiches, Aloo Tikki Burger, Club Sandwich, White Sauce Pasta, Garlic Rice",Fast Food,200.0,Delivery
+38051,The House Of Paratha,Yes,No,3.7,70,Koramangala 5th Block,Quick Bites,Cheese Paratha,North Indian,200.0,Delivery
+38089,Pabrai's Fresh & Naturelle Icecreams,Yes,No,4.2,132,Brigade Road,Dessert Parlor,"Apple Pie, Mascarpone Cheese, Nolen Gurer Ice Cream, Paan Ice Cream, Nolen Gur, Gur Ice Cream, Salted Caramel",Ice Cream,180.0,Delivery
+38252,Pop Hop,Yes,No,4.1,206,Jayanagar,Dessert Parlor,"Choco Hazelnut, Belgian Chocolate, Strawberry Sorbet, Mango Sorbet, Mango Cheesecake, Mojito, Belgium Chocolate","Ice Cream, Desserts",300.0,Delivery
+38331,Chai Kraft,Yes,No,4.1,32,Jayanagar,Beverage Shop,"Masala Chai, Coffee, Masala Tea, Maggi","Beverages, Tea",100.0,Delivery
+38438,Maiyas,Yes,No,4.0,1785,Jayanagar,Quick Bites,"Coffee, Thali, Kharabath, Masala Dosa, Idli Vada, Vanilla Ice Cream, Bisi Bele Bhaath","North Indian, South Indian, Fast Food, Juices",200.0,Delivery
+38562,Davangere Benna Dose Hotel,Yes,No,4.1,92,Jayanagar,Quick Bites,"Benne Dosa, Idli, Coffee",South Indian,100.0,Delivery
+38789,Samosa Party,No,No,4.1,45,Koramangala 5th Block,Quick Bites,"Chai, Aloo Samosa, Tea","Street Food, Fast Food",150.0,Delivery
+38817,BTM Ghar ka Khana,No,No,3.7,127,BTM,Quick Bites,"Matar Paneer, Paratha, Chole Bhature, Lassi",North Indian,200.0,Delivery
+39243,Juicy,No,No,3.9,44,Koramangala 5th Block,Beverage Shop,"Sandwiches, Mango Shake","Beverages, Juices, Fast Food",200.0,Desserts
+39244,Ibaco,Yes,No,4.2,350,Koramangala 4th Block,Dessert Parlor,"Icecream Cake, Hot Chocolate, Brownie, Fig N Honey, Chocolate Fudge, Custard Apple, Cream Cake",Desserts,300.0,Desserts
+39296,Natural Ice Cream,No,No,4.5,942,Koramangala 1st Block,Dessert Parlor,"Coffee Walnut, Chocolate Icecreams, Tender Coconut Ice Cream, Thandai, Mango Ice Cream, Fruit Ice Cream, Custard Apple","Ice Cream, Beverages",200.0,Desserts
+39717,Vasudev Adiga's,No,No,2.9,291,Koramangala 4th Block,Casual Dining,"Filter Coffee, Mysore Masala Dosa, Buttermilk, Idli, Rava Dosa, Neer Dosa, Thali","South Indian, North Indian, Chinese, Street Food",250.0,Dine-out
+39777,Khatta Meetha Teekha,Yes,No,4.3,194,Koramangala 6th Block,Quick Bites,"Gulab Jamun, Raita, Chaat, Chole, Soya Chaap, Panipuri, Dal Makhani","Street Food, North Indian, Mithai, Chinese, Beverages",300.0,Dine-out
+39781,IDC Kitchen,No,No,4.2,54,Koramangala 5th Block,Quick Bites,"Masala Idli, Filter Coffee",South Indian,200.0,Dine-out
+39965,Jose's Mess,No,No,4.4,320,BTM,Mess,"Beef Fry, Masala Dosa, Chicken Curry, Fish Fry, Chicken Biryani, Roast Beef, Beef Curry","Kerala, South Indian, Biryani",300.0,Dine-out
+40022,Sri Vishnu Park,Yes,No,3.8,102,BTM,Casual Dining,Masala Dosa,"South Indian, North Indian, Chinese",350.0,Dine-out
+40183,Habitts,Yes,No,3.7,62,BTM,Quick Bites,Nutella Waffle,"Fast Food, Burger, Italian, Beverages",350.0,Dine-out
+40762,Pathaan Sir,Yes,No,3.8,93,Frazer Town,Quick Bites,"Rolls, Fries, Egg Roll","Rolls, Chinese",300.0,Delivery
+40797,Chetty's Corner,Yes,No,4.2,740,Seshadripuram,Quick Bites,"Burgers, Bun Nippat Masala, Masala Cola, Pizza, Masala Pepsi, Masala Soda, Sandwiches","Fast Food, Pizza, Sandwich",250.0,Delivery
+40817,Bombay Vada Pav Corner,Yes,No,4.2,84,Seshadripuram,Quick Bites,"Vada Pav, Dabeli, Pav Bhaji, Samosa Pav",Street Food,150.0,Delivery
+40819,Kaati Zone,Yes,No,3.0,165,Church Street,Quick Bites,"Rolls, Chicken Tikka Roll, Cheese Roll","Fast Food, Biryani, Rolls",350.0,Delivery
+40828,Chai Point,Yes,No,3.9,272,MG Road,"Beverage Shop, Quick Bites","Banana Cake, Ginger Tea, Samosa, Chicken Sandwich, Masala Chai, Ginger Chai, Masala Tea","Tea, Fast Food, Beverages, Sandwich",250.0,Delivery
+40860,The Brekkie Shop,Yes,No,3.2,65,MG Road,Kiosk,"Pasta, Fruit Parfait","Healthy Food, Sandwich",300.0,Delivery
+40864,Hotel Ramprasad,Yes,No,4.2,94,Brigade Road,Quick Bites,"Filter Coffee, Kesari Bath, Curd Rice, Idli Vada, Crispy Masala Dosa, Masala Tea, Thick Coconut Chutney","South Indian, Chinese",300.0,Delivery
+40887,Just Shawarma,Yes,No,3.8,111,Ulsoor,Quick Bites,"Rolls, Whole Meat Shawarma",Arabian,300.0,Delivery
+40940,Khan Saheb Grills and Rolls,Yes,No,4.0,186,Commercial Street,Quick Bites,"Rolls, Mutton Seekh Roll, Malai Tikka, Chicken Tikka Roll, Mutton Baida Roti, Reshmi Tikka Roll, Beda Roti","Fast Food, Rolls",350.0,Delivery
+41157,Gundappa Donne Biryani,Yes,No,3.8,177,Seshadripuram,Quick Bites,"Chilli Chicken, Chicken Curry, Mutton Biryani, Gundappa Donne Biryani",Biryani,300.0,Delivery
+41170,Mummy Dhaba,Yes,No,3.4,48,Ulsoor,Quick Bites,Dal Makhani,North Indian,300.0,Delivery
+41287,Rolls On Wheels,No,No,3.7,62,Cunningham Road,Quick Bites,"Rolls, Momos, Paneer Roll, Veggie Roll",Fast Food,200.0,Delivery
+41313,Natural Ice Cream,No,No,4.2,222,St. Marks Road,Dessert Parlor,"Mango Ice Cream, Tender Coconut Ice Cream, Chips, Chocochip Ice Cream, Waffle Cone","Ice Cream, Beverages",200.0,Delivery
+41471,Bhagatram Sweets,No,No,3.4,225,Commercial Street,Quick Bites,"Gulab Jamun, Jalebi, Samosa, Chole, Sev Puri, Rasgulla, Masala Poori","Street Food, Mithai",300.0,Desserts
+41574,Sangam Sweets,Yes,No,4.0,122,Majestic,Quick Bites,"Panipuri, Paratha, Dhokla, Vada Pav, Hot Badam Milk, Chaat, Thali","Mithai, Street Food",200.0,Desserts
+42057,Nisarga Garden,No,No,4.0,90,Infantry Road,Quick Bites,"Akki Rottis, Rumali Roti, Masala Dosa, Vada, Raagi Roti, Rava Idli, Coffee","South Indian, Chinese, Street Food, Juices",300.0,Dine-out
+42064,Sri Saravana Bhavan,No,No,3.9,77,Commercial Street,Quick Bites,"Filter Coffee, Idli",South Indian,150.0,Dine-out
+42113,Vasudev Adiga's,No,No,3.4,60,Church Street,Quick Bites,"Masala Dosa, Filter Coffee","South Indian, North Indian, Chinese, Street Food",250.0,Dine-out
+42121,Gundappa Donne Biryani,No,No,3.7,163,St. Marks Road,Quick Bites,"Chilli Chicken, Mutton Biryani, Pepper Chicken, Chicken Fry, Donne Chicken Biryani, Chicken Guntur, Chicken Kebab",Biryani,300.0,Dine-out
+42309,Lakshmi Natraja Refreshments,No,No,4.3,206,Majestic,Quick Bites,"Podi Masala Dosa, Crispy Masala Dosa, Idli, Vada, Coffee, Paper Plain Dosa, Aloo Palya",South Indian,150.0,Dine-out
+42310,IDC Kitchen,No,No,4.1,60,Majestic,Quick Bites,"Idli, Coffee",South Indian,200.0,Dine-out
+42316,Mudde Madappa Mess,No,No,4.1,91,Majestic,Quick Bites,"Ragi Mudde, Buttermilk",South Indian,150.0,Dine-out
+42328,Punjabi Dhaba,No,No,3.6,79,Majestic,Dhaba,"Naan, Rumali Roti",North Indian,350.0,Dine-out
+42448,Sukh Sagar Food Court,No,No,3.8,54,Majestic,Quick Bites,"Pav Bhaji, Chaat, Panipuri, Grilled Sandwich, Hot Dog, Bhel Puri, Masala Poori","North Indian, South Indian, Chinese, Desserts, Street Food",350.0,Dine-out
+42605,Kalmane Koffees,No,No,3.7,117,Malleshwaram,Cafe,"Filter Coffee, Hot Coffee, Chaat, Brownie, Tea",Cafe,350.0,Cafes
+42631,Deccan House,Yes,No,4.0,409,New BEL Road,Quick Bites,"Hyderabadi Biryani, Chicken Biryani, Vegetable Biryani","Hyderabadi, Biryani",350.0,Delivery
+42656,Just Shawarma,Yes,No,3.8,179,New BEL Road,Quick Bites,"Whole Meat Shawarma, Malgoum Shawarma, Roti, Kerala Parotta, Pita Bread",Arabian,300.0,Delivery
+42658,Amrut,Yes,No,3.5,250,Malleshwaram,Quick Bites,Paratha,"North Indian, Chinese, Fast Food",300.0,Delivery
+42659,Fishing Boat,Yes,No,4.0,89,Yeshwantpur,Quick Bites,Bamboo Chicken Biryani,"Kerala, South Indian, Chinese",300.0,Delivery
+42699,Chick Inn,Yes,No,3.8,99,Rajajinagar,Quick Bites,"Burgers, Popcorn, Chicken Roll",Fast Food,300.0,Delivery
+42702,Chai Point,Yes,No,4.0,108,New BEL Road,"Beverage Shop, Quick Bites","Tea, Chai, Poha","Fast Food, Beverages",250.0,Delivery
+42703,Brahmins' Thatte Idli,Yes,No,4.1,181,Sanjay Nagar,Quick Bites,"Vada, Idli, Pongal, Upma, Tea, Kesari Bath, Coffee",South Indian,100.0,Delivery
+42712,Roy Hotel & Restaurant,Yes,No,4.0,124,New BEL Road,Quick Bites,"Mishti Doi, Doi Katla, Mutton Kosha, Fish Curry, Aloo Posto, Gulab Jamun","Bengali, North Indian",300.0,Delivery
+42723,Rishi's Paratha Plaza,Yes,No,3.9,244,Sanjay Nagar,Quick Bites,"Dhokla, Tea, Lassi, Tiranga Paratha, Sandwich, Pizza Parantha, Rasgulla",North Indian,250.0,Delivery
+42743,Bhavani Vada Pav,Yes,No,4.0,106,Yeshwantpur,Quick Bites,"Vada Pav, Dabeli, Pav Bhaji, Chaat, Misal Pav, Bread Pakora, Jumbo Vada Pavs",Fast Food,150.0,Delivery
+42761,Totaram's Paranthas,Yes,No,3.5,140,New BEL Road,Quick Bites,"Cheese Paratha, Lassi, Pizza, Paneer Parantha",North Indian,300.0,Delivery
+42768,Ginger,Yes,No,3.6,159,Sanjay Nagar,Quick Bites,"Butter Chicken, Tandoori Chicken, Rolls, Chicken Masala, Chicken Tikka, Roti","North Indian, Chinese",350.0,Delivery
+42796,Patiala Lassi,Yes,No,4.1,135,Sanjay Nagar,Beverage Shop,"Punjabi Lassi, Patiyala Lassi, Sweet Lassi, Mango Lassi, Sandwich",Beverages,150.0,Delivery
+42810,By 2 Coffee,Yes,No,4.1,219,Malleshwaram,Quick Bites,"Filter Coffee, Kharabath, Masala Dosa, Tea, Idli Vada, Kesari Bath",South Indian,100.0,Delivery
+42821,Salaam Sigri Rolls & Kebabs,Yes,No,3.8,162,New BEL Road,Quick Bites,"Rolls, Chicken Tikka, Chicken Seekh Roll, Seekh Kebab, Aloo Tikka Roll, Murgh Malai Kebab, Beda Roti","Rolls, Mughlai",300.0,Delivery
+42838,Dhadoom,Yes,No,4.0,58,Malleshwaram,Food Court,"Fries, Sandwich, Paan Shake, Pasta, Sandwiches, Noodles, Pizza","North Indian, Street Food, Pizza, Burger, Sandwich",300.0,Delivery
+42860,Aramane Restaurant,Yes,No,3.0,75,Rajajinagar,Quick Bites,"Vada, Sweet Corn Soup","South Indian, Chinese, Fast Food",300.0,Delivery
+42867,The Big Bellyz,Yes,No,3.9,105,Malleshwaram,Quick Bites,"Momos, Pizza, Nachos, Burgers, Pasta","Fast Food, Beverages, Momos",300.0,Delivery
+42869,Upsouth,Yes,No,4.1,489,Malleshwaram,Quick Bites,"Filter Coffee, Crispy Dosa, Vada, Burgers, Mini Idlis, Ghee Roast Masala Dosa, Paratha",South Indian,300.0,Delivery
+42876,Ragoo's Kitchen,Yes,No,3.1,94,Rajajinagar,Quick Bites,Mutton Biryani,"Mangalorean, Chinese, North Indian, Biryani",350.0,Delivery
+42881,Maiyas,Yes,No,3.9,291,Malleshwaram,"Quick Bites, Bakery","Masala Dosa, Akki Rottis, Filter Coffee, Tea, Bonda Soup, Puri Saagu, Vada","South Indian, North Indian, Chinese, Bakery, Desserts",300.0,Delivery
+42938,Absolute Waffles,Yes,No,3.9,49,New BEL Road,Dessert Parlor,Waffles,"Desserts, Fast Food",200.0,Delivery
+42965,Momo Shop,Yes,No,4.0,124,RT Nagar,Quick Bites,"Chaap, Egg Noodles, Chicken Momo, Veg Momos, Wheat Momo, Thukpa","Momos, Street Food, Rolls",200.0,Delivery
+42982,Bon Appetit Resto,Yes,No,3.8,50,New BEL Road,Delivery,Biryani,"North Indian, Chinese",300.0,Delivery
+42988,Oottupura,Yes,No,2.6,166,New BEL Road,Quick Bites,"Chicken Grill, Shawarma, Rolls, Biryani, Kerala Parotta","Kerala, North Indian, Chinese, Rolls, Juices",350.0,Delivery
+43029,Iyer Mess,Yes,No,4.1,327,Malleshwaram,Mess,"Masala Vada, Buttermilk",South Indian,150.0,Delivery
+43045,Shree Mahalakshmi Sweets,Yes,No,3.9,61,Basaveshwara Nagar,Sweet Shop,"Mysore Pak, Samosa","Mithai, Street Food",100.0,Delivery
+43126,Kitchen Katta,Yes,No,4.1,196,Sanjay Nagar,Quick Bites,"Misal Pav, Vada Pav, Buttermilk, Dabeli, Sabudana Vada, Shrikhand, Sabudana Khichdi",Maharashtrian,300.0,Delivery
+43205,Asha Sweets Centre,Yes,No,4.3,124,Malleshwaram,Sweet Shop,"Badam Milk, Kaju Barfi, Kachori, Rabri, Malpua","Mithai, Street Food",250.0,Desserts
+43229,Amrith Ice Cream,No,No,4.1,81,Malleshwaram,Dessert Parlor,Hot Chocolate Fudge,Ice Cream,100.0,Desserts
+43236,Gelato Italiano,No,No,3.8,51,Malleshwaram,Dessert Parlor,"Gelato, New York Cheesecake, Strawberry Cheesecake, Belgian Chocolate, Kulfi","Ice Cream, Bakery, Desserts",200.0,Desserts
+43367,Brahmin's Coffee Bar,No,No,3.9,282,Malleshwaram,Quick Bites,"Rava Idli, Benne Masala Dosa, Filter Coffee, Tea, Pav Bhaji, Pongal, Curd Vadai",South Indian,250.0,Dine-out
+43378,Temple Meals,No,No,3.8,76,Malleshwaram,Quick Bites,Banana Leaf Meal,South Indian,200.0,Dine-out
+43379,New Krishna Bhavan,No,No,4.2,600,Malleshwaram,Quick Bites,"Neer Dosa, Filter Coffee, Button Idli, Benne Masala Dosa, Puri Saagu, Badam Halwa, Vada","South Indian, North Indian, Chinese",200.0,Dine-out
+43388,Namma Kudla,No,No,4.2,62,Malleshwaram,Quick Bites,"Thali, Idli, Neer Dosa","South Indian, Mangalorean",350.0,Dine-out
+43389,Sai Shakti,No,No,4.0,212,Malleshwaram,Quick Bites,"Shahi Paneer, Custard, Rajma, Sweet Lassi, Protein Chapati, Biryani, Jeera Rice",North Indian,250.0,Dine-out
+43402,Chetty's Corner,No,No,4.0,52,Malleshwaram,Quick Bites,"Sandwiches, Sandwich, Bun Nippat Cheese","Fast Food, Pizza, Sandwich",250.0,Dine-out
+43408,Veg By Nature,No,No,2.9,57,Malleshwaram,Quick Bites,"Chilli Paneer, Manchurian, Aloo Paratha, Dahipuri",North Indian,300.0,Dine-out
+43417,Falafel's - The Lebanese Haus,No,No,3.9,47,Malleshwaram,Quick Bites,"Shawarma, Chicken Shawarama, Falafel Wrap, Lemonade",Lebanese,300.0,Dine-out
+43425,Sri Sairam's Chats and Juice,No,No,4.2,471,Malleshwaram,Quick Bites,"Chaat, Dahipuri, Chips, Masala Poori, Bhel Puri, Jal-jeera, Sev Puri",Street Food,100.0,Dine-out
+43530,HVR Veg,Yes,No,4.5,96,Seshadripuram,Quick Bites,"Vada, Masala Idli, Benne Khali Dosa, Benne Masala Dosa, Set Dosa, Filter Coffee",South Indian,300.0,Dine-out
+43536,Hotel Ayodhya Upahar,No,No,3.9,46,Sadashiv Nagar,Quick Bites,"Coffee, Bonda Soup, Masala Dosa, Neer Dosa","South Indian, Chinese",200.0,Dine-out
+43568,Priyadarshini Veg,No,No,3.9,156,Yeshwantpur,Quick Bites,"Idli, Masala Dosa","North Indian, South Indian, Chinese",300.0,Dine-out
+43872,Food Zone,Yes,No,3.4,313,Marathahalli,Quick Bites,"Roti, Fish Fry, Egg Noodles","North Indian, Chinese",300.0,Delivery
+43893,Handi Biryani,Yes,No,3.9,94,Marathahalli,Quick Bites,"Hyderabadi Biryani, Dum Biryani, Chicken Biryani","Hyderabadi, Biryani",300.0,Delivery
+43894,Chai Point,Yes,No,3.8,94,Marathahalli,Beverage Shop,"Banana Cake, Ginger Lemon Tea, Poha, Mango Shake, Masala Chai, Paneer Sandwich, Vada Pav","Fast Food, Beverages",250.0,Delivery
+43900,Food Mood,Yes,No,3.7,53,Whitefield,Delivery,Liti Chokha,North Indian,350.0,Delivery
+43906,Dil Punjabi,Yes,No,2.6,159,Marathahalli,Quick Bites,Paratha,North Indian,300.0,Delivery
+43912,Eat Eroo - Bombay Vada Pav,Yes,No,4.0,312,Marathahalli,Quick Bites,"Dabeli, Pav Bhaji, Cheese Vada Pav",Street Food,150.0,Delivery
+43920,Ande Ka Funda,Yes,No,3.3,228,Marathahalli,Quick Bites,Paratha,"North Indian, Chinese, Rolls",250.0,Delivery
+43930,The Waffcake Legacy,Yes,No,4.0,174,Marathahalli,Dessert Parlor,"Waffles, Pancakes, Liti Chokha, Ginger Tea, Poha, Maggi, Sandwiches","Desserts, Street Food, Sandwich, Beverages",350.0,Delivery
+43944,Chatora,Yes,No,3.4,115,Marathahalli,"Takeaway, Delivery","Chole Bhature, Paratha, Veg Thali, Poori Bhaji, Chaat, Chhole Bhature","North Indian, Fast Food, Street Food",300.0,Delivery
+43973,Samosa Singh,Yes,No,4.0,244,Marathahalli,Quick Bites,"Veg Platter, Chicken Kebab Roll, Chai, Aloo Samosa, Chicken Samosa","Street Food, Fast Food, Rolls, Desserts",200.0,Delivery
+43991,Sai Foods,No,No,4.1,123,Marathahalli,Quick Bites,"Paratha, Veg Thali, Chole Bhature, Gulab Jamun, Lassi, Dal Fry, Roti",North Indian,200.0,Delivery
+44009,Stonelicious,Yes,No,4.1,287,Marathahalli,Dessert Parlor,"Waffles, Chocolate Avalanche, Chocolate Volcano, Lava Cake","Desserts, Ice Cream",300.0,Delivery
+44037,TBC - The Breakfast Company,Yes,No,3.8,27,Marathahalli,Quick Bites,"Poha, Aloo Paratha","Bihari, North Indian, South Indian",150.0,Delivery
+44187,Al-Bek,Yes,No,3.7,129,"Varthur Main Road, Whitefield","Takeaway, Delivery",Mutton Biryani,"Biryani, North Indian, Charcoal Chicken, Chinese, Seafood, Rolls",300.0,Delivery
+44191,Punjabi Twist,Yes,No,4.2,220,Marathahalli,Quick Bites,"Mutton Thali, Salad, Palak Paneer, Chicken Curry, Butter Chicken, Buttermilk, Shahi Paneer",North Indian,300.0,Delivery
+44211,Delhi Walle,Yes,No,3.9,632,Marathahalli,Quick Bites,"Chole Bhature, Deluxe Thali, Lassi, Chaat, Aloo Paratha, Soya Chaap Biryani, Dahipuri","North Indian, Street Food",300.0,Delivery
+44212,Lassi Corner,Yes,No,3.7,143,Marathahalli,Beverage Shop,"Lassi, Brownie, Faluda, Kulfi, Coffee","Beverages, Desserts",300.0,Delivery
+44236,Makers of Milkshakes,Yes,No,4.0,105,Marathahalli,Beverage Shop,"Blackcurrant Shake, Nutella Shake",Beverages,300.0,Delivery
+44262,Just Shawarma,Yes,No,3.8,198,Brookefield,Quick Bites,"French Fries, Whole Meat Shawarma, Chicken Shawarama",Arabian,300.0,Delivery
+44269,Deli Chats and Sweets,Yes,No,4.1,50,Marathahalli,Quick Bites,"Chole, Samosa Chaat, Papdi Chaat, Dahipuri, Sev Puri, Chai, Panipuri","Street Food, Mithai",200.0,Delivery
+44275,Lion King,Yes,No,3.8,76,Kaggadasapura,Quick Bites,"Chicken Noodle, Momos","Chinese, Momos",250.0,Delivery
+44281,Odisha Platter,Yes,No,3.8,295,Marathahalli,Quick Bites,"Mutton Curry, Veg Thali",Oriya,350.0,Delivery
+44308,Rolls Plaza,Yes,No,3.7,63,Marathahalli,Quick Bites,"Rolls, Rice, Biryani","Fast Food, Chinese, Rolls",200.0,Delivery
+44314,Artinci Artisanal Ice Cream,Yes,No,4.2,44,Marathahalli,Dessert Parlor,"Coffee, Vanilla Ice Cream, Almond Ice Cream","Desserts, Ice Cream",300.0,Delivery
+44341,Agraharam Meal,No,No,3.7,61,Kaggadasapura,"Takeaway, Delivery",Vada,"North Indian, South Indian",300.0,Delivery
+44407,Cafe Petu,Yes,No,3.8,374,Marathahalli,Quick Bites,"Paratha, Pizza Parantha, Sandwich, Tea, Honey Chilli Potatoes, Pasta Alfredo, Coffee","North Indian, Sandwich",300.0,Delivery
+44425,Parrattha Ssinghh,Yes,No,4.1,48,Marathahalli,Quick Bites,"Aloo Paratha, Dal Makhani, Chaat",North Indian,250.0,Delivery
+44440,Puchkas,Yes,No,4.1,685,Marathahalli,Quick Bites,"Chaat, Panipuri, Jalebi, Vada Pav, Samosa, Chole Bhature, Gol Gappe","Street Food, North Indian",200.0,Delivery
+44459,Aashish Foods,Yes,No,3.8,35,Marathahalli,Quick Bites,"Paratha, Thali, Rajma",North Indian,150.0,Delivery
+44486,Luscious Folks,Yes,No,3.9,219,Marathahalli,Quick Bites,"Roti, Rice",North Indian,250.0,Delivery
+44489,Kudil Kerala Kitchen,Yes,No,3.8,49,Marathahalli,Quick Bites,"Roast Chicken, Appam, Kadala Curry, Fish Fry",Kerala,300.0,Delivery
+44492,Venad Kitchen,Yes,No,3.8,93,Kaggadasapura,"Takeaway, Delivery","Appam, Vegetable Stew, Chicken Fry, Pothichoru, Fish Curry, Chicken Curry",Kerala,300.0,Delivery
+44511,Kaka Food Corner,Yes,No,3.4,89,Whitefield,Quick Bites,"Panneer Butter Masala, Lassi",North Indian,300.0,Delivery
+44557,The Grilled & Fried,Yes,No,2.8,53,Marathahalli,Quick Bites,"Burgers, Chicken Fries, Chicken Grill, Hot Wings, Chicken Roll",Fast Food,300.0,Delivery
+44575,Strawbees,Yes,No,3.8,52,Kaggadasapura,Bakery,Strawberry Cake,"Bakery, Desserts",350.0,Delivery
+44593,Nashta Pani -The Gujarat's Special,Yes,No,3.4,85,Marathahalli,Quick Bites,"Thepla, Poha, Gujarati Food, Paratha, Chocolate Sandwich, Cheese Dabeli","Gujarati, Fast Food",200.0,Delivery
+44625,Mother's Food,Yes,No,3.8,63,Whitefield,Quick Bites,"Non Veg Thali, Egg Maggi","North Indian, Chinese",200.0,Delivery
+44626,Aahar Vihar,Yes,No,4.0,73,Marathahalli,Quick Bites,"Mutton Curry, Aloo Paratha",North Indian,250.0,Delivery
+44680,Kaafi Desi,Yes,No,4.0,528,Marathahalli,Quick Bites,"Samosa, Jalebi, Rasmalai, Poha, Aloo Poori, Panipuri, Aloo Sabji","North Indian, Street Food",150.0,Delivery
+44692,The London Shakes,Yes,No,4.1,59,Marathahalli,Quick Bites,"Pasta, Burgers, Pizza, Nachos, Exotic Garlic Bread, French Fries, Chocolate Shake","Fast Food, Beverages",300.0,Delivery
+44739,Banchharam,No,No,3.8,98,Marathahalli,"Quick Bites, Sweet Shop","Rasgulla, Mishti Doi, Samosa, Gulab Jamun, Indian Sweets, Malai Roll","Street Food, Mithai",200.0,Desserts
+44740,Vishal Sweets & Restaurant,No,No,3.7,132,Marathahalli,Quick Bites,"Chicken Kasha, Tawa Roti, Manchurian, Mutton Curry, Mutton Kosha, Prawn","North Indian, Chinese, Oriya, Mithai",250.0,Desserts
+45109,Eat Eroo - South China,Yes,No,3.8,370,Marathahalli,Quick Bites,"Dabeli, Veg Manchow Soup, Momos, Hakka Noodles, Egg Roll, Rolls, Dragon Chicken","South Indian, Chinese",350.0,Dine-out
+45135,Madurai Idly Shop,No,No,2.9,69,Marathahalli,Quick Bites,"Idli, Vada, Pongal, Onion Rava Dosa",South Indian,200.0,Dine-out
+45192,Madurai Idli Dosa Shop,No,No,3.6,63,Marathahalli,Quick Bites,"Idli, Plain Dosa",South Indian,150.0,Dine-out
+45422,Iyer Idly,No,No,4.0,112,Thippasandra,Quick Bites,Idli,South Indian,150.0,Dine-out
+45440,Mayura Grand,No,No,3.9,92,Brookefield,Quick Bites,"Masala Dosa, Tea, Onion Dosa, Vada, Rava Idli, Kesari Bath","North Indian, South Indian, Chinese",350.0,Dine-out
+45726,Kerala Pavilion,Yes,No,3.9,307,Domlur,Quick Bites,"Fish Curry, Roast Chicken, Kerala Parotta, Appam, Mutton Pepper Fry, Sea Food, Ghee Rice","Kerala, South Indian, Seafood, Biryani",300.0,Delivery
+45737,Sri Udupi Park,Yes,No,4.2,781,Indiranagar,Quick Bites,"Idli Vada, Tea, Masala Dosa, Filter Coffee, Pav Bhaji, Kesari Bath, Chaat","South Indian, North Indian, Chinese, Beverages",300.0,Delivery
+45783,Asha Sweets Center,Yes,No,4.2,61,Indiranagar,Takeaway,"Badam Milk, Kulfi, Rasmalai, Rasgulla, Masala Poori",Street Food,200.0,Delivery
+45794,Chai Point,Yes,No,4.3,179,Indiranagar,"Beverage Shop, Quick Bites","Ginger Tea, Maggi, Ice Tea, Ginger Chai, Samosa, Lemon Tea, Vada Pav","Fast Food, Beverages",250.0,Delivery
+45834,Krispy Kreme,Yes,No,4.1,261,Indiranagar,Dessert Parlor,"Donut, Filter Coffee, Cookie Crunch, Custard, Hot Chocolate, Hot Coffee, Latte","Desserts, Beverages",300.0,Delivery
+45935,The Belgian Waffle Co.,Yes,No,4.0,74,Indiranagar,Dessert Parlor,"Waffles, Pancakes","Desserts, Beverages",350.0,Delivery
+45939,The Brekkie Shop,Yes,No,3.8,61,Indiranagar,Delivery,"Sandwiches, Pasta, Poha, Fruit Parfait","Healthy Food, Sandwich",300.0,Delivery
+45951,Lassi Shop,Yes,No,3.8,86,Indiranagar,"Dessert Parlor, Beverage Shop","Lassi, Faluda","Beverages, Juices, Ice Cream",100.0,Delivery
+46031,Bite Me Cupcakes,Yes,No,4.2,631,Indiranagar,Dessert Parlor,"Cup Cake, Gooey Chocolate Cupcake, Tiramisu, Choco Cake",Desserts,300.0,Delivery
+46087,Amande Patisserie,Yes,No,4.2,233,Lavelle Road,"Bakery, Dessert Parlor","Macaroon, Fruit Tart, Opera Cake, Belgian Dark Chocolate, Orange Tart, Eclair, Chocolate Mousse","Bakery, French, Desserts",300.0,Delivery
+46112,Kanteen 038,Yes,No,3.9,54,Indiranagar,Quick Bites,"Chai, Maggi, English Breakfast","Tea, Beverages, Fast Food",200.0,Delivery
+46179,Troll,Yes,No,3.8,103,Indiranagar,Dessert Parlor,"Ice Cream Roll, Oreo Ice Cream, Rolls, Chocolate Peanut Butter, Nutella Cookie","Desserts, Ice Cream",300.0,Delivery
+46191,Kumbakonam Degree Coffee,No,No,3.8,67,Indiranagar,Quick Bites,"Filter Coffee, Mini Idlis","South Indian, Fast Food",200.0,Delivery
+46201,Step Right Up,Yes,No,4.1,161,Vasanth Nagar,Cafe,"Burgers, Peri Peri Fries, Exotic Pizza, Sandwiches, Veggie Pizza, White Sauce Pasta, French Fries","Cafe, Italian",300.0,Delivery
+46203,Happy Belly Bakes,Yes,No,4.1,253,Frazer Town,"Bakery, Cafe","Hot Chocolate, Brownie, Chocolate Truffle, Apple Tart, Cup Cake, Macaroon, Chocolate Cake","Bakery, Cafe",350.0,Delivery
+46276,Manjit Da Dhaba,Yes,No,4.3,787,Frazer Town,Quick Bites,"Lassi, Shahi Paneer, Kheer, Paneer Bhurji, Methi Paratha, Paneer Parantha, Stuffed Paratha",North Indian,300.0,Delivery
+46298,Gundappa Donne Biryani,No,No,2.6,91,Indiranagar,Quick Bites,"Donne Biryani, Chilli Chicken, Chicken Guntur, Mutton Biryani, Mutton Thali, Chicken Biryani",Biryani,300.0,Delivery
+46316,Vasudev Adiga's,No,No,2.5,301,MG Road,Quick Bites,"Filter Coffee, Rava Dosa, Masala Dosa, Tea, Pav Bhaji, Manchurian, Dahi Vada","South Indian, North Indian, Chinese, Street Food",250.0,Delivery
+46645,Banchharam,No,No,3.9,67,Ulsoor,Quick Bites,"Rasgulla, Mishti Doi, Samosa, Kheer Kadam, Veg Cutlet, Rasmalai","Street Food, Mithai",200.0,Desserts
+46706,Thom's Bakery,No,No,4.1,215,Frazer Town,"Bakery, Quick Bites","Plum Cake, Burgers, Sandwiches, Donut, Mutton Samosa, Sponge Cake, Baked Bread","Bakery, Fast Food",200.0,Desserts
+47392,Sendhoor Coffee,No,No,3.9,54,Indiranagar,Quick Bites,"Tea, Tomato Rice, Vada, Pongal, Filter Coffee, Idli, Biryani","Coffee, South Indian",200.0,Dine-out
+47411,Pathaan Sir,Yes,No,3.4,157,Indiranagar,Quick Bites,"Rolls, French Fries, Chicken Momo, Roti, Pulpy Grape Juice, Mutton Keema, Chicken Kebab","Rolls, Chinese",300.0,Dine-out
+47412,The Chennai Express,No,No,3.8,171,Indiranagar,Quick Bites,"Idli, Filter Coffee, Vada Curry, Podi Dosa, Sweet Pongal","South Indian, Chinese, North Indian",250.0,Dine-out
+47716,Chaiywaala Da Dhaba,Yes,No,3.7,67,New BEL Road,Cafe,"Ginger Chai, Pakoda, Tea, Paneer Thali, Chole Bhature","Cafe, Tea",250.0,Cafes
+47737,New Oottupura Restaurant,Yes,No,3.5,226,New BEL Road,Quick Bites,"Kerala Parotta, Shawarma",Kerala,300.0,Delivery
+47762,Zam Zam Kabab House,Yes,No,3.4,90,Yeshwantpur,Quick Bites,"Biryani, Rumali Roti, Chicken Noodle","North Indian, Chinese",300.0,Delivery
+47772,Lassi Shop,Yes,No,3.8,76,Sahakara Nagar,"Beverage Shop, Quick Bites","Lassi, Faluda, Kulfi","Beverages, Juices, Ice Cream, Fast Food",100.0,Delivery
+47801,KHOPCHA,Yes,No,4.0,154,Sahakara Nagar,Takeaway,"Veggie Roll, Noodles, Prawn Rolls, Manchurian, Chicken Roll","Fast Food, Rolls, Kebab",200.0,Delivery
+47805,Shanthi Sagar,Yes,No,3.9,111,New BEL Road,Quick Bites,"Vada, Coffee, Vegetable Biryani, Idli, Cheese Masala Dosa, Chole Bhature","South Indian, Chinese, North Indian",300.0,Delivery
+47819,Fresh Veg,Yes,No,2.7,94,New BEL Road,Quick Bites,"Chaat, Lassi, Tawa Pulav, Potato Twister, Dal Makhani, Chole Bhature, Rajma","Street Food, North Indian",300.0,Delivery
+47832,Chetty's Coffee,Yes,No,3.9,267,New BEL Road,Quick Bites,"Filter Coffee, Vada, Chai, Caramel Coffee, Masala Dosa, Kesari Bath, Veg Dosa",South Indian,200.0,Delivery
+47837,Mad Over Fries,Yes,No,3.4,43,New BEL Road,Quick Bites,"Tandoori Fries, Pizza Fries","Fast Food, Beverages",350.0,Delivery
+47868,Ibaco,Yes,No,3.9,81,New BEL Road,Dessert Parlor,Icecream Cake,Desserts,300.0,Delivery
+47872,KA 12 - Flavour Of Coorg,Yes,No,4.0,105,New BEL Road,Quick Bites,"Chicken Curry, Akki Rottis, Pork Curry, Chilli Pork, Roti, Neer Dosa",South Indian,300.0,Delivery
+47937,Shree Mahalakshmi Sweets,Yes,No,3.6,34,Sahakara Nagar,Takeaway,"Samosa, Badam Milk","Mithai, Street Food",100.0,Delivery
+47957,Bikaner Sweets,Yes,No,3.7,63,Sahakara Nagar,Sweet Shop,"Chole Bhature, Panipuri, Pav Bhaji, Chaat","Mithai, Street Food",150.0,Delivery
+47959,Cheta's Kitchen,Yes,No,3.9,78,Yelahanka,Quick Bites,"Appam, Fish Curry, Fish Fry, Pothichoru","Kerala, South Indian, Seafood",350.0,Delivery
+47960,Natural Ice Cream,No,No,4.3,273,New BEL Road,Dessert Parlor,"Waffle Cone, Chocolate Icecreams, Tender Coconut Ice Cream, Coffee Walnut, Custard Apple","Ice Cream, Beverages",200.0,Delivery
+48105,Kusum Rolls,Yes,No,3.6,76,New BEL Road,Quick Bites,"Rolls, Paneer Roll, Chicken Egg Roll, Double Egg Roll",Street Food,300.0,Delivery
+48124,The Waffle Yard,No,No,4.2,149,New BEL Road,"Dessert Parlor, Quick Bites","Nutella Waffle, Chocolate Waffles, Banana Caramel","Desserts, Fast Food",300.0,Desserts
+48155,Sri Krishna Bhavan Sweets,No,No,3.9,56,Sanjay Nagar,"Sweet Shop, Quick Bites","Fruit Juices, Chaat","Mithai, Street Food",350.0,Desserts
+48272,Delhi Mess,Yes,No,4.1,500,New BEL Road,Quick Bites,"Aloo Paratha, Roti, Butter Chicken","North Indian, Chinese",300.0,Dine-out
+48314,Chaat Street,Yes,No,4.1,675,New BEL Road,Quick Bites,"Chaat, Pav Bhaji, Bhel Puri, Dahipuri, Vada Pav, Raj Kachori, Samosa","Street Food, North Indian",250.0,Dine-out
+48410,Wok Chow,Yes,No,3.9,164,Sanjay Nagar,Quick Bites,"Momos, Shanghai Chicken","Chinese, Thai, Momos",300.0,Dine-out
+48583,A 1 Pizza and Food,Yes,No,2.8,215,Old Airport Road,Delivery,Pizza,"Pizza, Chinese, North Indian",300.0,Delivery
+48587,Dal Roti Sabji,Yes,No,4.1,86,Indiranagar,Quick Bites,"Kadhai Paneer, Paratha",North Indian,150.0,Delivery
+48596,Bharpur Aahar,Yes,No,3.9,419,Jeevan Bhima Nagar,Quick Bites,Biryani,"North Indian, Chinese",200.0,Delivery
+48600,Chowpatty,Yes,No,3.9,929,Indiranagar,Quick Bites,"Pav Bhaji, Gulab Jamun, Chaat, Paratha, Vada Pav, Buttermilk, Thali","North Indian, Fast Food, Street Food",300.0,Delivery
+48611,Sagar Deluxe,Yes,No,3.4,161,Jeevan Bhima Nagar,Quick Bites,"Idli Vada, Masala Dosa, Filter Coffee, Curd Rice","South Indian, North Indian, Chinese",350.0,Delivery
+48614,Delite Chaat House,Yes,No,4.0,454,Indiranagar,Quick Bites,"Chaat, Dabeli, Pav Bhaji, Sandwiches, Farsan, Sandwich, Vada Pav","Street Food, Gujarati",300.0,Delivery
+48623,Motis Kitchen,Yes,No,4.1,563,Thippasandra,Quick Bites,"Biryani, Roast Beef, Chicken Curry, Tea, Pazham Pori, Fish Fry, Beef Fry","South Indian, Kerala, Biryani",350.0,Delivery
+48637,Kya Khaoge,Yes,No,3.8,69,Old Airport Road,Delivery,"Bhatti Chicken, Chole, Shahi Tukda","North Indian, Chinese",300.0,Delivery
+48638,Andal Mess,Yes,No,3.2,136,Indiranagar,Mess,"Chicken Kothu Paratha, Dindigul Biryani, Chicken Chukka, Plain Dosa, Mutton Biryani","South Indian, North Indian",300.0,Delivery
+48643,Donne Biriyani Mane,Yes,No,3.8,149,Indiranagar,Quick Bites,"Donne Biryani, Pepper Chicken, Chicken Biryani Combo, Chicken Fry","Biryani, Mughlai",350.0,Delivery
+48649,Punjabi's Food Corner,Yes,No,3.6,89,CV Raman Nagar,Quick Bites,Roti,"North Indian, Chinese",250.0,Delivery
+48664,Cheesy Juicy Burgers,Yes,No,3.8,85,Indiranagar,Quick Bites,"Burgers, French Fries, Garlic Bread, Sandwiches, Cheesy Juicy Burger, Veg Burger","Fast Food, Burger, Sandwich, Beverages",300.0,Delivery
+48667,Namma Madurai,Yes,No,3.0,179,Kaggadasapura,Quick Bites,"Appam, Masala Dosa, Tea, Coffee",South Indian,200.0,Delivery
+48675,Brownie Heaven,Yes,No,4.3,132,Indiranagar,Dessert Parlor,"Mocha Fudge, Red Velvet Brownie, Salted Caramel, Brownie Chocolate",Desserts,300.0,Delivery
+48686,Cream Stone,Yes,No,4.2,743,Indiranagar,Dessert Parlor,"Chocolate Icecreams, Coffee Craze, Chocolava, Ferrero Rocher, Waffles, Nutella Brownie, Tiramisu","Desserts, Beverages",300.0,Delivery
+48693,PreRit's Food Factory,Yes,No,3.7,74,Indiranagar,Delivery,"Biryani, Kerala Parotta, Chilli Chicken, Paratha","North Indian, Chinese",300.0,Delivery
+48709,Indiana Burgers,Yes,No,3.2,50,Domlur,Delivery,"Burgers, Chicken Whopper Burger",Burger,300.0,Delivery
+48718,Srinidhi Sagar,Yes,No,3.9,164,Old Airport Road,Quick Bites,"Masala Dosa, Rava Dosa, Rava Idli, Filter Coffee, Vada, Kesari Bath, Veg Sandwich","South Indian, North Indian, Chinese",250.0,Delivery
+48733,Lassi Shop,Yes,No,4.0,215,Jeevan Bhima Nagar,Beverage Shop,"Faluda, Mango Lassi, Fruit Lassi, Sweet Lassi","Beverages, Juices, Ice Cream",100.0,Delivery
+48774,Snacks Joint,Yes,No,3.7,186,Jeevan Bhima Nagar,Quick Bites,"Samosa, Poha, Chaat, Ginger Tea, Chhole Bhature, Chole, Aloo Tikki",Fast Food,150.0,Delivery
+48788,Roll Er Dokaan,Yes,No,3.9,139,Jeevan Bhima Nagar,Quick Bites,"Rolls, Paratha, Double Egg Roll","Street Food, Rolls",300.0,Delivery
+48833,Sabari Juice Junction,Yes,No,4.1,132,Jeevan Bhima Nagar,Beverage Shop,"Sandwiches, Fruit Juices, Oreo Shake, Sandwich","Beverages, Sandwich",250.0,Delivery
+48842,Grill Hut,Yes,No,3.6,84,Kaggadasapura,Quick Bites,"Rolls, Chicken Roll, Chicken Baida Roti","Fast Food, Rolls",350.0,Delivery
+48863,Ibaco,Yes,No,4.0,292,Indiranagar,Dessert Parlor,"Icecream Cake, Almond Crunch, Cream Cake, Belgian Chocoholic",Desserts,300.0,Delivery
+48867,Mother's Meal,Yes,No,3.8,134,CV Raman Nagar,Quick Bites,"Sweet Lassi, Thali, Kadhai Paneer, Kadhi, Aloo Paratha, Paneer Bhurji, Chole",North Indian,200.0,Delivery
+48881,GMT - Gelateria Montecatini Terme,Yes,No,4.4,282,Indiranagar,Dessert Parlor,"Gelato Ice Cream, Chocolate Icecreams, Tiramisu, Coffee, Italian Icecream, Caramel Ice Cream, Waffle Cone","Desserts, Ice Cream",300.0,Delivery
+48893,Gooey & Fluffy,Yes,No,3.9,90,Thippasandra,Delivery,Salted Caramel Brownie,"Desserts, Bakery",200.0,Delivery
+48912,Sethji Home Made Food,Yes,No,3.5,229,Indiranagar,Quick Bites,"Paratha, Gulab Jamun, Sweet Lassi, Paneer Bhurji, Chaach, Paneer Parantha, Raita",North Indian,350.0,Delivery
+48974,Kartik's Mithai Shoppe,Yes,No,4.1,112,Indiranagar,"Quick Bites, Sweet Shop","Chaat, Panipuri, Chole Bhature, Rasmalai, Chhole Bhature, Sev Puri, Samosa","Mithai, Street Food",150.0,Delivery
+48979,Spicy Corner,Yes,No,3.9,190,Jeevan Bhima Nagar,Quick Bites,"Noodles, Paneer Manchurian, Chaat, Paratha, Paneer Fried Rice, Babycorn Manchurian","Street Food, Fast Food",250.0,Delivery
+48988,Johny's Kitchen,Yes,No,4.1,60,Jeevan Bhima Nagar,Quick Bites,"Chole, Veg Thali","North Indian, South Indian",300.0,Delivery
+49032,Chetty's Coffee,Yes,No,3.9,45,Indiranagar,Quick Bites,"Vada, Kesari Bath, Filter Coffee",South Indian,150.0,Delivery
+49065,Ramji Chaiwale,Yes,No,3.9,124,Old Airport Road,Quick Bites,"Sandwiches, Maggi, Ginger Chai, Samosa, Ginger Tea, Kesar Chai, Masala Chai","Beverages, Fast Food",250.0,Delivery
+49068,Chatora Singh,Yes,No,3.9,44,Old Airport Road,Quick Bites,"Chaat, Panipuri, Rajma Chawal, Dahi Bhalle, Dhokla, Thepla","North Indian, Fast Food",200.0,Delivery
+49073,Bun Maska Chai,Yes,No,3.9,122,Jeevan Bhima Nagar,Quick Bites,"Poha, Bun Maskas, Ginger Chai, Sabudana Khichdi, Vada Pav, Paneer Akuri, Tea","Street Food, Fast Food",250.0,Delivery
+49109,Samosa Party,Yes,No,4.1,374,Jeevan Bhima Nagar,Quick Bites,"Ginger Tea, Cheesy Samosa, Ginger Chai, Masala Tea, Indori Poha, Chocolate Samosa, Chicken Samosa","Street Food, Fast Food",150.0,Delivery
+49141,Achayyan's,Yes,No,3.8,410,Indiranagar,Quick Bites,"Beef Fry, Kerala Parotta, Fish, Roast Beef, Appam, Crab Toast, Mackerel Fry","Kerala, South Indian",350.0,Delivery
+49224,The ThickShake Factory,No,No,4.0,124,Indiranagar,Beverage Shop,"Thick Shakes, Pineapple Passion","Beverages, Juices",350.0,Delivery
+49229,Madurai Idly Shop,No,No,3.8,731,Indiranagar,Quick Bites,"Vada, Coffee, Masala Dosa, Idli, Tea, Podi Dosa, Pongal",South Indian,200.0,Delivery
+49240,Calcutta Victoria Chat House,No,No,3.6,219,Jeevan Bhima Nagar,Quick Bites,"Chaat, Pav Bhaji, Panipuri, Kheer, Jalebi, Tea, Dahipuri",Street Food,150.0,Delivery
+49273,Allahabadi Tadaka,No,No,3.0,47,Domlur,Casual Dining,Dal Tadka,North Indian,250.0,Delivery
+49310,White Olives,No,No,3.4,32,Thippasandra,Delivery,"Dal Fry, Ghee Rice","Chinese, North Indian",300.0,Delivery
+49404,Natural Ice Cream,No,No,4.6,945,Indiranagar,Dessert Parlor,"Mango Ice Cream, Coffee, Chocolate Icecreams, Tender Coconut Ice Cream, Kala Jamun, Kesar Pista, Malai Korma","Ice Cream, Beverages",200.0,Desserts
+49492,Sri Udupi Park,Yes,No,3.7,449,Old Airport Road,Casual Dining,"Masala Dosa, Filter Coffee, Tea, Kadhai Paneer, Chaat, Panneer Butter Masala, Vada","South Indian, North Indian, Chinese, Beverages",300.0,Dine-out
+49524,Bhookha Sher,Yes,No,3.2,35,Old Airport Road,Quick Bites,Coffee,"North Indian, Fast Food",350.0,Dine-out
+49614,Cafe Grill,Yes,No,4.1,506,Jeevan Bhima Nagar,Quick Bites,"Shawarma, Rolls, Chicken Grill, Kathi Roll, Chicken Biryani, Paneer Roll, Chicken Shawarama","Chinese, North Indian, Rolls",300.0,Dine-out
+49617,Red Kitchen,Yes,No,3.4,155,Jeevan Bhima Nagar,Quick Bites,"Biryani, Chicken Kebab","North Indian, South Indian, Chinese",200.0,Dine-out
+49752,Chai Days,Yes,No,4.5,134,Indiranagar,Cafe,"Banana Cake, Ginger Tea, Samosa, Masala Chai, Saffron Chai, Banana Walnut, Ginger Chai","Cafe, Tea, Beverages, Fast Food",200.0,Dine-out
+49830,Cita Pani,Yes,Yes,3.9,56,Indiranagar,Quick Bites,"Peri Peri Chicken, Shawarma, Biryani, Rolls","Biryani, North Indian, Arabian",350.0,Dine-out
+49843,Cafe Srinidhi,No,No,3.1,91,Indiranagar,Quick Bites,Coffee,"South Indian, North Indian, Fast Food, Street Food",200.0,Dine-out
+49848,Sri Krishna Sagar,No,No,3.7,66,Domlur,Quick Bites,"Vada, Rava Masala Dosa, Biryani","South Indian, North Indian, Street Food, Chinese, Beverages",150.0,Dine-out
+50167,Gowdru Hotel,Yes,No,3.9,1176,Vijay Nagar,Quick Bites,"Biryani, Chicken Fry","Biryani, South Indian",250.0,Delivery
+50169,Kaati Zone,Yes,No,3.8,252,Malleshwaram,Quick Bites,"Rolls, Veggie Roll, Chicken Biryani, Paneer Tikka Roll, Wheat Roll","Fast Food, Biryani, Rolls",350.0,Delivery
+50171,Dhanalakshmi Grand,Yes,No,4.0,73,Malleshwaram,Quick Bites,Masala Dosa,"South Indian, North Indian",300.0,Delivery
+50174,Gullu's Chat,Yes,No,3.6,600,Seshadripuram,Quick Bites,"Chaat, Panipuri, Masala Poori, Pav Bhaji, Bhel Puri, Pizza, Dahi Papdi","Fast Food, Street Food, Juices",250.0,Delivery
+50185,South Idlis,Yes,No,4.0,287,Rajajinagar,Quick Bites,"Vada, Thatte Idli, Kesari Bath",South Indian,150.0,Delivery
+50203,Karavali Lunch Home,Yes,No,4.0,173,Malleshwaram,Quick Bites,"Neer Dosa, Fish Curry, Chicken Sukha, Rawas Fry, Thali, Fish Rava Fry","South Indian, Seafood",300.0,Delivery
+50227,Kabab Palace,Yes,No,3.8,74,Rajajinagar,Quick Bites,"French Chicken, Roti, Biryani","North Indian, Chinese, Kebab",350.0,Delivery
+50257,Krispy Kreme,Yes,No,4.1,197,Malleshwaram,Dessert Parlor,"Donut, Cappuccino, Coffee, Custard, Hot Chocolate, Chocolate Dreamcake, Cookie Crunch","Desserts, Beverages",300.0,Delivery
+50298,Rolling Waffles,Yes,No,3.8,35,Basaveshwara Nagar,Dessert Parlor,"Waffles, Nutella Waffle",Desserts,250.0,Delivery
+50299,Antarastriya,Yes,No,3.9,462,Malleshwaram,Quick Bites,"Pasta, Momos, Noodles, Manchurian, Peri Peri Fries, Chinese Bhel, Tacos","Chinese, Fast Food, Momos",200.0,Delivery
+50304,Cafe Udupi Ruchi,Yes,No,4.0,140,Vijay Nagar,Quick Bites,"Badam Halwa, Butter Masala Dosa, Filter Coffee, Neer Dosa, Pasta, Tea, Biryani","South Indian, North Indian, Street Food",350.0,Delivery
+50315,The Higher Taste Stores,Yes,No,3.8,121,Malleshwaram,"Quick Bites, Bakery","Paratha, Sandwiches, Sweet Lassi, Sandwich, Eggless Cake, Gulab Jamun, Bread Pakora","Fast Food, Bakery",300.0,Delivery
+50335,Waffle Stories,Yes,No,3.9,360,Malleshwaram,Food Court,"Brownie Sundae, Nutella Waffle, Brownie Waffle, Choco Blast Waffles, Eggless Waffle, Chocolate Waffles, Crunchy Waffles",Desserts,300.0,Delivery
+50358,Roll Over,Yes,No,3.8,75,Basaveshwara Nagar,Dessert Parlor,"Fries, Ice Cream Roll, Coffee, Brownie",Desserts,350.0,Delivery
+50395,Malleshwaram Dosa Corner,Yes,No,4.4,109,Malleshwaram,Quick Bites,"Benne Masala Dosa, Aloo Palya",South Indian,120.0,Delivery
+50421,By 2 Coffee,Yes,No,4.3,310,Vijay Nagar,Quick Bites,"Filter Coffee, Kharabath, Tea, Idli Vada, Khara Bhath, Kesari Bath, Crispy Vada",South Indian,100.0,Delivery
+50446,Break Hour,Yes,No,4.0,97,Rajajinagar,Quick Bites,"Burgers, Nachos, Mocktails, Schezwan Momos, Paneer Manchurian, Paneer Noodles, Patiala Paneer","Chinese, Beverages",150.0,Delivery
+50451,Quickie's,Yes,No,3.9,87,Seshadripuram,Quick Bites,"Maggi, Sandwiches, Rolls","Fast Food, Rolls",200.0,Delivery
+50464,Surya Refreshments,Yes,No,3.9,41,Malleshwaram,Quick Bites,"Vada, Idli, Coffee, Kesari Bath",South Indian,150.0,Delivery
+50519,Karnataka Bhel House,No,No,4.1,453,Basavanagudi,Quick Bites,"Masala Poori, Bhel Puri, Panipuri, Chaat, Dahipuri, Sev Puri, Dahi Aloo Puri",Street Food,100.0,Delivery
+50521,Papanna's Biriyani,No,No,3.9,175,Basaveshwara Nagar,Quick Bites,"Lemon Chicken, Chicken Biryani","Biryani, South Indian",350.0,Delivery
+50547,Natural Ice Cream,No,No,4.3,190,Malleshwaram,Dessert Parlor,"Coconut Ice Cream, Custard Apple, Choco Almond","Ice Cream, Beverages",200.0,Delivery
+50591,Bansuri Sweets,No,No,3.5,49,Basaveshwara Nagar,"Sweet Shop, Quick Bites","Chaat, Pav Bhaji, Masala Poori, Vada Pav","Mithai, North Indian, Street Food",250.0,Delivery
+50679,Pavitra Paradise,No,No,3.8,46,Basaveshwara Nagar,"Bakery, Dessert Parlor",Pizza,"Bakery, Desserts",200.0,Desserts
+50685,Frozen Coast,No,No,3.9,108,Malleshwaram,Dessert Parlor,"Cheese Balls, French Fries, Sandwich, Oreo Ice Cream","Desserts, Ice Cream",250.0,Desserts
+50686,Bun World,No,No,3.9,133,Malleshwaram,Bakery,"Sandwiches, Burgers, Hot Dog, Sandwich, Honey Cake, Pizza, Veg Cheese Burger","Bakery, Fast Food",250.0,Desserts
+50787,Hotel Aditya,No,No,4.3,332,Rajajinagar,Quick Bites,"Chicken Biryani, Chicken Masala, Brain Fry, Chilli Chicken, Mutton Biryani, Nalli Fry, Chicken Fry","South Indian, Biryani",300.0,Dine-out
+50969,Tango,No,No,3.8,51,Basaveshwara Nagar,Quick Bites,"Sandwiches, Cheese Sandwich",Fast Food,200.0,Dine-out
+51019,Halli Mane,Yes,No,4.0,1196,Malleshwaram,Quick Bites,"Akki Rottis, Roti, Rava Idli, Filter Coffee, Pongal, Masala Dosa, Kokum Juice","South Indian, North Indian, Chinese",250.0,Dine-out
+51025,Holige Mane,Yes,No,4.2,128,Malleshwaram,Quick Bites,"Badami Holige, Puran Poli",South Indian,100.0,Dine-out
+51031,Mavalli Tiffin Room (MTR),No,No,4.3,356,Malleshwaram,Quick Bites,"Masala Dosa, Pongal, Bisi Bele Bhaath, Curd Vadai, Rava Idli, Filter Coffee, Idli Vada","South Indian, Beverages",300.0,Dine-out
+51037,Bhairaveshwara Military Hotel,Yes,No,4.2,144,Malleshwaram,Quick Bites,Biryani,"South Indian, Hyderabadi",250.0,Dine-out
+51047,Shuchi Ruchi,Yes,No,4.0,344,Malleshwaram,Quick Bites,"Aloo Palya, Masala Poori, Panipuri, Rolls, Chaat, Benne Dosa, Dahipuri","Chinese, North Indian, Street Food",350.0,Dine-out
+51050,Hotel Janatha,No,No,4.1,750,Malleshwaram,Quick Bites,"Masala Dosa, Filter Coffee, Tea, Onion Dosa, Vada Sambar, Badam Milk, Badam Halwa",South Indian,150.0,Dine-out
+51054,Chikkanna Tiffin Room,Yes,No,4.3,85,Seshadripuram,Quick Bites,"Masala Dosa, Coffee, Khali Dosa, Idli, Kali Dosa",South Indian,200.0,Dine-out
+51086,Sri Sai Ram's,No,No,4.2,62,Malleshwaram,Quick Bites,"Chaat, Chips, Dahipuri, Masala Poori",Street Food,200.0,Dine-out
+51097,Chaatimes,Yes,No,3.9,115,Malleshwaram,Quick Bites,"Dabeli, Masala Poori, Misal Pav, Dahipuri, Papdi Chaat, Panipuri, Pav Bhaji","Street Food, Fast Food",200.0,Dine-out
+51207,Empire Juice Shop,No,No,2.7,43,Malleshwaram,Beverage Shop,Mosambi Juice,Juices,150.0,Dine-out
+51423,Kalmane Koffees,No,No,3.6,47,Brigade Road,Cafe,"Filter Coffee, Cafe Mocha, Blueberry Muffin",Cafe,350.0,Cafes
+51449,Donne Biriyani House,Yes,No,4.0,496,Indiranagar,Quick Bites,"Pepper Chicken, Chicken Biryani, Mutton Biryani",Biryani,300.0,Delivery
+51456,Tadkawala,Yes,No,3.4,87,Vasanth Nagar,"Takeaway, Delivery","Veg Thali, Salad",North Indian,200.0,Delivery
+51458,Punjabi Dhaba,Yes,No,3.4,360,Ejipura,Quick Bites,"Butter Chicken, Paratha",North Indian,350.0,Delivery
+51479,Amritsari Kulcha Bite,Yes,No,3.9,116,Ulsoor,Quick Bites,"Lassi, Amritsari Kulcha, Chole",North Indian,150.0,Delivery
+51494,Masala Central,Yes,No,3.8,79,Frazer Town,Quick Bites,"Sandwiches, Tea, Masala Chai, Pasta, Maggi, Sandwich, Chicken Burger",North Indian,300.0,Delivery
+51633,Haji Ali Juice Centre,Yes,No,4.1,80,Commercial Street,"Quick Bites, Beverage Shop","Sandwiches, Rose Faluda, Pizza, Custard Apple Cream, Pav Bhaji","Fast Food, Pizza, Rolls, Beverages, Juices",350.0,Delivery
+51669,Sreeraj Lassi Bar,Yes,No,3.9,62,Shanti Nagar,Beverage Shop,"Fruit Lassi, Sweet Lassi, Kulfi, Banana Split","Beverages, Desserts, Juices",150.0,Delivery
+51679,Hatti Kaapi,Yes,No,3.8,33,Ulsoor,Quick Bites,"Filter Coffee, Vada","South Indian, Beverages",200.0,Delivery
+51695,99 Pancakes,Yes,No,4.1,48,Church Street,Dessert Parlor,Nutella Pancakes,"Desserts, Ice Cream",300.0,Delivery
+51726,Dev Sagar - Food Street,Yes,No,4.1,241,Basavanagudi,Quick Bites,"Chaat, Pav Bhaji, Dabeli, Vada Pav, Tawa Pulav, Panipuri, Malpua",Street Food,200.0,Delivery
+51788,The Belgian Waffle Co.,Yes,No,3.8,82,Residency Road,Dessert Parlor,Waffles,"Desserts, Beverages",350.0,Delivery
+51817,Mountain Spice,Yes,No,3.9,189,Koramangala 8th Block,Quick Bites,"Momos, Chicken Lollipop, Chicken Momo, Noodles, Chicken Thukpa",Chinese,200.0,Delivery
+52172,Koshy's,No,No,3.6,55,Richmond Road,"Bakery, Quick Bites",Plum Cake,"Bakery, Fast Food",300.0,Desserts
+52309,Chai Point,Yes,No,4.0,135,Residency Road,"Beverage Shop, Quick Bites","Banana Cake, Ginger Tea, Masala Chai, Samosa, Ginger Chai, Poha, Egg Puff","Fast Food, Beverages",250.0,Dine-out
+52323,RS Shiv Sagar Express,Yes,No,4.0,67,Residency Road,Quick Bites,"Pav Bhaji, Kulfi, Chaat, Fries, Coffee, Chole Bhature, Paratha","South Indian, North Indian, Chinese, Fast Food",300.0,Dine-out
+52547,MTR 1924,No,No,4.2,703,St. Marks Road,Quick Bites,"Filter Coffee, Rava Idli, Rava Masala Dosa, Vada, Raagi Dosa, Podi Dosa, Badam Halwa",South Indian,300.0,Dine-out
+52689,Siddiqu Kabab Center,No,No,4.4,181,Richmond Road,Quick Bites,"Rolls, Beef Kabab, Seekh Kebab, Seekh Roll","Kebab, Rolls",250.0,Dine-out
+52699,eat.fit,Yes,Yes,4.1,121,Church Street,Quick Bites,"Biryani, Tea","Healthy Food, North Indian, Biryani, Continental, Desserts",300.0,Dine-out
+52701,Kentacky Chicken Corner,No,No,4.0,109,Richmond Road,Quick Bites,"Chicken Curry, Biryani, Chilli Chicken, Fry Prawns, Chicken Kebab","Andhra, South Indian",300.0,Dine-out
+52722,Taste Of Tibet,No,No,4.1,343,Brigade Road,Quick Bites,"Thukpa, Vegetable Noodles, Steam Chicken Momos, Chowmein, Chicken Shaptra, Chicken Manchurian, Dumplings","Tibetan, Chinese, Momos",300.0,Dine-out
+52887,Chikkanna Tiffin Room,No,No,4.5,207,City Market,Quick Bites,"Masala Dosa, Khali Dosa, Kali Dosa, Gini Dosa, Idli, Potato Masala, Coffee",South Indian,200.0,Dine-out
+52966,Bharathi Refreshments,No,No,3.8,52,Wilson Garden,Quick Bites,"Pongal, Filter Coffee, Idli, Masala Dosa",South Indian,150.0,Dine-out
+53181,Chaai Resto,Yes,No,4.0,34,Sarjapur Road,Cafe,"Chai, Ice Tea, Maggi, Poha, Chaai, Vada Pav, French Fries","Cafe, Rolls, Fast Food",200.0,Cafes
+53214,Udupi Ruchi,Yes,No,3.8,244,Bellandur,Quick Bites,"Tea, Biryani","South Indian, North Indian, Chinese, Street Food",200.0,Delivery
+53218,Best Of Bengal,Yes,No,3.8,234,Marathahalli,Quick Bites,"Gulab Jamun, Thali, Salad",Bengali,300.0,Delivery
+53236,Udupi Aatithya,Yes,No,4.0,90,Bellandur,Quick Bites,"Filter Coffee, Vada, Biryani, Masala Dosa","South Indian, North Indian, Chinese",300.0,Delivery
+53240,Chai Point,Yes,No,4.0,323,HSR,"Beverage Shop, Quick Bites","Ginger Tea, Poha, Banana Cake, Lemon Chai, Samosa, Masala Tea, Ginger Chai","Fast Food, Beverages",250.0,Delivery
+53258,Kairali Restaurant,Yes,No,3.9,101,Bellandur,Quick Bites,"Beef Fry, Beef Biryani, Fish Curry, Appam, Karimeen Fry",Kerala,200.0,Delivery
+53266,Homelicious Food,Yes,No,4.0,63,Bellandur,Quick Bites,"Poha, Panneer Butter Masala, Aloo Paratha, Malai Kofta",North Indian,200.0,Delivery
+53269,Husband's Kitchen,Yes,No,3.5,112,Sarjapur Road,Quick Bites,"Paratha, Chai, Pav Bhaji, Rolls, Vada Pav, Tea, Poori Chole","Fast Food, North Indian",350.0,Delivery
+53274,The Flying Cup,Yes,No,4.2,240,Sarjapur Road,Quick Bites,"Tea, Coffee, Sabudana Khichdi, Samosa, Sandwiches, Onion Pakoda, Khichda","Beverages, Fast Food, Tea",150.0,Delivery
+53279,Just Shawarma,Yes,No,3.9,79,HSR,Quick Bites,"Fries, Whole Meat Shawarma, Rolls",Arabian,300.0,Delivery
+53303,Chatori Tongue,Yes,No,3.9,65,Sarjapur Road,Quick Bites,"Chole Bhature, Jalebi, Noodle Samosa, Chaat",Street Food,100.0,Delivery
+53314,Baker's Home,Yes,No,3.9,179,Bellandur,"Bakery, Dessert Parlor",Designer Cakes,"Bakery, Desserts",300.0,Delivery
+53320,Poha On Wheels,Yes,No,4.1,74,Bellandur,"Takeaway, Delivery",Indori Poha,Street Food,100.0,Delivery
+53345,Juice Junction Food Court,Yes,No,3.8,215,HSR,Quick Bites,"Sandwiches, Maggi, Rolls, Chole Bhature, Ginger Tea, Paratha, Rava Masala Dosa","Juices, South Indian, Chinese, Fast Food",200.0,Delivery
+53352,Laddoos,Yes,No,2.9,166,Bellandur,"Quick Bites, Sweet Shop","Paratha, Samosa, Chole Bhature, Pav Bhaji, Kachori, Vada Pav","North Indian, Street Food, Mithai",250.0,Delivery
+53355,Rusbury Fresh Sweets And Savouries,Yes,No,4.0,72,HSR,Sweet Shop,"Panipuri, Chaat, Rasmalai, Samosa, Pav Bhaji","Mithai, Street Food",200.0,Delivery
+53381,Dad's Cookhouse,Yes,No,4.2,57,Sarjapur Road,Quick Bites,"Liti Chokha, Palak Paneer, Litti, Poha, Pav Bhaji, Noodles, Chai","North Indian, Street Food, Chinese, Fast Food",300.0,Delivery
+53383,Abbabi Chicken,No,No,3.7,134,Bellandur,Quick Bites,"Rolls, Chicken Shawarama, Chicken Shwarma Roll, Abbabi Chicken, Shawarma Roll",Fast Food,200.0,Delivery
+53385,Southinn,Yes,No,3.1,100,Sarjapur Road,Quick Bites,"Vada, Coffee, Idli, Tea, Masala Dosa, Onion Dosa, Podi Dosa","South Indian, Fast Food, Chinese, North Indian, Street Food",250.0,Delivery
+53389,Goli Vada Pav No. 1,Yes,No,3.4,86,Bellandur,Quick Bites,"Masala Vada Pav, Kulfi",Street Food,200.0,Delivery
+53400,Phulke Ghar Ke,Yes,No,4.0,545,Bellandur,Quick Bites,"Lassi, Thali, Paratha, Rajma, Malai Kofta, Buttermilk, Phulke Ghar Ke","North Indian, Chinese",300.0,Delivery
+53401,Mumbai Xpress,Yes,No,2.8,92,Bellandur,Quick Bites,"Chai, Vada Pav, Pizza","Fast Food, Street Food",350.0,Delivery
+53433,Pop Hop,Yes,No,4.0,58,Bellandur,Dessert Parlor,Cheesecake,"Ice Cream, Desserts",300.0,Delivery
+53446,Absolute Shawarma,Yes,No,3.8,123,Marathahalli,"Takeaway, Delivery",Mexican Shawarma,Lebanese,150.0,Delivery
+53451,Pepperwood,Yes,No,3.7,136,Sarjapur Road,Quick Bites,"Rolls, Chicken Biryani","Biryani, Rolls",300.0,Delivery
+53460,Shudh,Yes,No,4.1,97,Sarjapur Road,Delivery,"Club Kachori, Thepla, Jalebi, Paratha, Poha, Thali",North Indian,300.0,Delivery
+53464,Carlos Cake Cafe,Yes,No,3.8,83,Sarjapur Road,Bakery,"Pasta, Chocolate Truffle, Burgers, Blueberry Cheesecake","Bakery, Desserts",300.0,Delivery
+53532,The Kebab House,Yes,No,4.2,51,Bellandur,Quick Bites,"Cheese Naan, Biryani, Onion Rings","Kebab, Biryani",250.0,Delivery
+53648,Dosa Time,Yes,No,3.8,111,Sarjapur Road,Takeaway,"Pizza Dosa, Pav Bhaji Dosa, Cheese Masala Dosa",South Indian,200.0,Delivery
+53694,Cupcake Noggins,No,No,3.9,179,Sarjapur Road,Dessert Parlor,"Cup Cake, Chocolate Decadence, Blueberry Cheesecake, Coffee","Desserts, Bakery",300.0,Delivery
+53762,Apsara Ice Cream,No,No,4.1,90,Bellandur,Dessert Parlor,"Blueberry Cheesecake, Panipuri, Sitaphal Ice Cream","Ice Cream, Desserts",200.0,Delivery
+53809,Rolls On Wheels,No,No,3.5,134,Sarjapur Road,Quick Bites,"Rolls, Veg Momos, Chicken Momo, Paneer Tikka Roll","Fast Food, Rolls, Momos",300.0,Delivery
+53906,Natural Ice Cream,No,No,4.3,393,Sarjapur Road,Dessert Parlor,"Mango Ice Cream, Coffee Walnut, Waffle Cone, Tender Coconut Ice Cream, Custard Apple, Kesar Pista, Chips","Ice Cream, Beverages",200.0,Desserts
+53915,Bombay Kulfis,No,No,3.7,48,Sarjapur Road,Dessert Parlor,"Malai Kulfi, Kesar Pista",Ice Cream,200.0,Desserts
+54129,Madurai Idly Shop,No,No,2.1,193,Sarjapur Road,Quick Bites,"Idli, Vada, Pongal, Filter Coffee, Mini Idlis, Rava Masala Dosa, Tea",South Indian,200.0,Dine-out
+54206,Just Shawarma,Yes,No,3.8,175,Sarjapur Road,Quick Bites,"Rolls, Whole Meat Shawarma, Chicken Shawarama, Malgoum Shawarma",Arabian,300.0,Dine-out
+54531,Kalmane Koffees,No,No,3.9,104,Whitefield,Cafe,"Filter Coffee, Blueberry Muffin, Hot Coffee, Brownie, Cappuccino",Cafe,350.0,Cafes
+54559,Easy Bites,Yes,No,4.0,59,"Varthur Main Road, Whitefield","Takeaway, Delivery","French Fries, Shawarma, Chicken Popcorn","Fast Food, Sandwich",300.0,Delivery
+54565,Fish Chain,Yes,No,3.7,89,"Varthur Main Road, Whitefield","Takeaway, Delivery","Sea Food, Biryani","Seafood, BBQ, Biryani",250.0,Delivery
+54575,Chatpatlal Sweets & Snacks,Yes,No,4.1,342,Marathahalli,"Quick Bites, Sweet Shop","Chaat, Ginger Tea, Club Kachori, Samosa, Aloo Paratha, Dhokla, Thali","Street Food, Mithai, North Indian, Beverages, Desserts",200.0,Delivery
+54578,Friend's Own,Yes,No,3.2,55,Whitefield,Quick Bites,"Noodles, Chilli Chicken","North Indian, Bengali, Chinese",300.0,Delivery
+54580,Chaat Street,Yes,No,4.1,222,"Varthur Main Road, Whitefield",Kiosk,"Pav Bhaji, Vada Pav, Panipuri, Tea, Samosa Chaat, Bhel Puri, Jalebi","Street Food, North Indian",250.0,Delivery
+54589,Sri Sai Palace,Yes,Yes,3.8,88,Whitefield,Quick Bites,"Masala Dosa, Roti, Curd Rice","South Indian, North Indian, Chinese, Fast Food",300.0,Delivery
+54604,Five Star Chicken,Yes,No,3.8,195,Brookefield,Quick Bites,"Burgers, Masala Fries, Wings",Fast Food,200.0,Delivery
+54618,Kerala Tiffin,Yes,No,3.9,167,Whitefield,Delivery,Appam,Kerala,300.0,Delivery
+54637,Litti House,Yes,No,3.9,200,Brookefield,Quick Bites,"Liti Chokha, Litti, Sattu Paratha, Dal Bati, Thali, Roti","North Indian, Bihari, Rajasthani",300.0,Delivery
+54647,Chandrika Tiffins,Yes,No,4.0,87,Whitefield,"Takeaway, Delivery","Paratha, Dabeli","North Indian, Street Food",300.0,Delivery
+54648,New Udupi Delicacy,Yes,No,3.9,91,Whitefield,Quick Bites,"Filter Coffee, Plain Dosa","South Indian, North Indian, Chinese",250.0,Delivery
+54662,Real Fresh Dosa Corner,No,No,4.2,267,Brookefield,Quick Bites,"Plain Dosa, Palak Dosa, Mushroom Dosa",South Indian,200.0,Delivery
+54665,Arogya Thaana,Yes,No,3.8,72,Whitefield,Beverage Shop,"Sandwiches, Oreo Shake, Burgers","Beverages, Sandwich",200.0,Delivery
+54680,Desi Khana,Yes,No,3.4,243,"Varthur Main Road, Whitefield",Quick Bites,"Rajma, Dal Makhani, Paneer Thali",North Indian,300.0,Delivery
+54683,Chai Point,Yes,No,3.9,131,Brookefield,"Beverage Shop, Quick Bites","Poha, Samosa, Ginger Chai, Ginger Tea, Banana Cake, Cake Rusk, Coffee","Fast Food, Beverages",250.0,Delivery
+54714,The Early bell,Yes,No,3.9,197,Whitefield,Quick Bites,"Sandwich, Paratha, Poha, Sandwiches, Idli Vada, Tea, Roti","North Indian, Chinese",300.0,Delivery
+54723,Bobacha,Yes,No,4.1,82,Whitefield,Beverage Shop,"Waffles, Fruit Tea, Pearl Milk Tea","Beverages, Bubble Tea, Tea",300.0,Delivery
+54737,KA53,Yes,No,3.9,45,Whitefield,Delivery,"Paneer Pasanda, Panneer Butter Masala, Murgh Platter, Veg Platter, Jeera Rice","North Indian, Chinese",300.0,Delivery
+54741,The Grilled & Fried,Yes,No,3.3,130,Whitefield,Quick Bites,"Potato Fries, Chicken Curry",Fast Food,300.0,Delivery
+54756,Masala Chai,Yes,No,4.1,196,Whitefield,"Beverage Shop, Quick Bites","Masala Chai, Sandwiches, Samosa, Masala Tea, Ice Tea, Bombay Sandwich, Chicken Mayo Sandwich","Beverages, Fast Food, Tea",250.0,Delivery
+54844,Rolls & Bowls,Yes,No,4.5,156,Brookefield,Quick Bites,"Rolls, Noodles, Mughlai Paratha, Paneer Kathi Roll, Veg Manchow Soup, Crispy Chicken, Chicken Manchurian","Rolls, Chinese",250.0,Delivery
+54869,Windy- Taste Of Home,Yes,Yes,3.6,112,Whitefield,Quick Bites,"Thali, Biryani, Aloo Paratha",North Indian,300.0,Delivery
+54893,Lemon Krust,Yes,No,4.0,39,Whitefield,Bakery,"Cup Cake, Brownie","Bakery, Fast Food",150.0,Delivery
+54899,Kabab Mandra,No,No,2.7,165,Whitefield,Quick Bites,"Chicken Grill, Chicken Tikka Roll, Grape Juice, Biryani, Shawarma Roll, Tandoori Chicken, Tandoori Raan","North Indian, Chinese",300.0,Delivery
+54907,Dilli Galli,Yes,No,3.6,43,Whitefield,Quick Bites,"Chole Bhature, Paratha",North Indian,200.0,Delivery
+54928,Lulu's Bakery & Fast Food,Yes,No,3.6,84,KR Puram,Quick Bites,"Biryani, Shawarma","North Indian, Chinese, Street Food",300.0,Delivery
+54939,Taishty,Yes,No,3.7,66,Whitefield,Quick Bites,Paratha,North Indian,200.0,Delivery
+54941,Biting Junction,Yes,No,3.9,119,Whitefield,Quick Bites,"Mutton Curry, Kulcha, Biryani, Chicken Curry","Chinese, North Indian, Rajasthani, Gujarati, Fast Food, Afghan",350.0,Delivery
+54954,Apsara Ice Cream,No,No,4.0,92,Whitefield,Dessert Parlor,"Panipuri, Guava Ice Cream","Ice Cream, Desserts",200.0,Delivery
+54961,Office Lunch Box,Yes,No,3.6,114,Whitefield,Delivery,Chicken Curry,"Andhra, North Indian",200.0,Delivery
+54962,Delhi Walle,No,No,3.7,118,Whitefield,Quick Bites,"Lassi, Chaat, Chole Bhature, Jalebi, Panipuri, Thali, Paratha","North Indian, Street Food",300.0,Delivery
+54996,Lucky Singh & Co,No,No,4.0,38,Whitefield,"Takeaway, Delivery","Rolls, Butter Chicken Roll, Malai Tikka, Mutton Seekh, Chicken Tikka, Bhuna Gosht, Butter Paneer","Fast Food, North Indian, Rolls",350.0,Delivery
+55035,Kidilum,Yes,No,3.8,210,Whitefield,Quick Bites,"Beef Fry, Appam, Chicken Curry, Kerala Parotta, Idiyappam, Egg Curry, Biryani","Kerala, Chinese, North Indian",350.0,Delivery
+55070,Delhi Restaurant,Yes,No,3.6,196,Whitefield,Quick Bites,"Dal Makhani, Reshmi Kebab, Thali, Panneer Butter Masala, Naan, Masala Papad","North Indian, Mughlai, Chinese",350.0,Delivery
+55143,Foodie,No,No,2.9,35,Whitefield,Kiosk,"Rolls, Tandoori Chicken, Paratha","Chinese, Fast Food",300.0,Delivery
+55148,Rafoo Chakkar,Yes,No,3.9,386,Whitefield,Quick Bites,"Veg Tandoori Momos, Keema Pav, Butter Chicken, Pav Bhaji, Rolls, Galauti Kebab, Achari Paneer","North Indian, Rolls",300.0,Delivery
+55296,Cupcake Couture,No,No,3.8,40,Whitefield,Delivery,"Cup Cake, Chocolate Truffle",Desserts,300.0,Delivery
+55416,Krispy Kreme,Yes,No,4.0,132,Whitefield,Dessert Parlor,"Donut, Filter Coffee, Chocolate Doughnut, Custard","Desserts, Beverages",300.0,Desserts
+55419,Kartik's Mithai Shoppe,No,No,3.8,72,Whitefield,Quick Bites,Aloo Tikki Chat,"Mithai, Street Food",150.0,Desserts
+55447,Gelato Italiano,Yes,No,3.1,39,Whitefield,"Dessert Parlor, Kiosk","Tiramisu, Cheesecake, Kulfi","Ice Cream, Bakery, Desserts",200.0,Desserts
+55464,Cream & Fudge,No,No,3.9,71,Whitefield,Dessert Parlor,"Waffles, Chocolate Truffle Sensation, Chocolate Icecreams, Brownie","Ice Cream, Desserts",250.0,Desserts
+55646,Abhiruchi Andhra Mess,Yes,No,3.1,62,Whitefield,Mess,Chicken Biryani,"Andhra, Biryani, South Indian",300.0,Dine-out
+55647,Sri Udupi Park,Yes,No,3.9,160,Whitefield,Casual Dining,"Masala Dosa, Filter Coffee, Curd Rice","South Indian, North Indian, Chinese, Beverages",300.0,Dine-out
+55818,Mooch Marod,No,No,4.5,504,Whitefield,Quick Bites,"Chaach, Sweet Lassi, Onion Paratha, Chicken Parantha, Vegetable Paratha, Aloo Methi",North Indian,350.0,Dine-out
+55863,Five Star Chicken,Yes,No,3.2,42,Whitefield,Quick Bites,"Fries, Peri Peri Chicken, Chicken Crisp Burger",Fast Food,200.0,Dine-out
+55885,Mothi Restaurant,No,No,3.7,64,Whitefield,Quick Bites,"Chicken Grill, Thalassery Biryani, Hyderabadi Chicken Biryani, Shawarma","North Indian, Kerala",350.0,Dine-out
+55910,Madurai Idly Shop,No,No,2.9,141,Whitefield,Quick Bites,"Coffee, Mini Idlis, Kothu Parotta, Podi Dosa, Tea, Masala Dosa, Paratha",South Indian,200.0,Dine-out
+56021,Srinidhi Sagar,No,No,3.7,53,Whitefield,Quick Bites,"Masala Dosa, Filter Coffee, Ghee Rice, Tea","South Indian, Chinese, North Indian",300.0,Dine-out
+56100,U.P. Dhaba,Yes,No,2.8,515,Whitefield,Quick Bites,"Paratha, Paneer Thali, Tandoori Roti, Chole Bhature","North Indian, Chinese",350.0,Dine-out
